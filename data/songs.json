@@ -1,0 +1,343 @@
+{
+  "_note": "SEED/PLACEHOLDER CONTENT - replace before launch. Artist names are generic ensembles, not real performers. Song titles are traditional compositions. Audio paths do not exist in the bucket yet.",
+  "schemaVersion": 1,
+  "songs": [
+    {
+      "id": "sg_000001",
+      "artistId": "ar_thiruppugazh_ensemble",
+      "titleTa": "கந்த சஷ்டி கவசம்",
+      "titleEn": "Kandha Sashti Kavasam",
+      "audioPath": "songs/sg_000001_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 61,
+      "fileSizeBytes": 941300,
+      "tagsTa": [],
+      "tagsEn": [
+        "murugan",
+        "kavasam"
+      ],
+      "searchAliases": [
+        "kanda sasti",
+        "skanda shashti",
+        "kandha sashti",
+        "kandhasasti"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-08-25",
+      "sortOrder": 10,
+      "isActive": true
+    },
+    {
+      "id": "sg_000002",
+      "artistId": "ar_thiruppugazh_ensemble",
+      "titleTa": "திருப்புகழ்",
+      "titleEn": "Thiruppugazh",
+      "audioPath": "songs/sg_000002_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 62,
+      "fileSizeBytes": 942600,
+      "tagsTa": [],
+      "tagsEn": [
+        "murugan"
+      ],
+      "searchAliases": [
+        "thiruppugal",
+        "tiruppugazh",
+        "thirupugazh"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-08-25",
+      "sortOrder": 20,
+      "isActive": true
+    },
+    {
+      "id": "sg_000003",
+      "artistId": "ar_thiruppugazh_ensemble",
+      "titleTa": "வேல் மாறல்",
+      "titleEn": "Vel Maaral",
+      "audioPath": "songs/sg_000003_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 63,
+      "fileSizeBytes": 943900,
+      "tagsTa": [],
+      "tagsEn": [
+        "murugan"
+      ],
+      "searchAliases": [
+        "vel maral",
+        "velmaaral"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-08-25",
+      "sortOrder": 30,
+      "isActive": true
+    },
+    {
+      "id": "sg_000004",
+      "artistId": "ar_thiruppugazh_ensemble",
+      "titleTa": "சுப்பிரமணிய புஜங்கம்",
+      "titleEn": "Subramanya Bhujangam",
+      "audioPath": "songs/sg_000004_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 64,
+      "fileSizeBytes": 945200,
+      "tagsTa": [],
+      "tagsEn": [
+        "murugan"
+      ],
+      "searchAliases": [
+        "subramanya bhujangam",
+        "bhujangam"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-08-25",
+      "sortOrder": 40,
+      "isActive": true
+    },
+    {
+      "id": "sg_000005",
+      "artistId": "ar_thiruppugazh_ensemble",
+      "titleTa": "கந்தர் அனுபூதி",
+      "titleEn": "Kandhar Anubhuthi",
+      "audioPath": "songs/sg_000005_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 65,
+      "fileSizeBytes": 946500,
+      "tagsTa": [],
+      "tagsEn": [
+        "murugan"
+      ],
+      "searchAliases": [
+        "kandar anubuthi",
+        "kanthar anubhuthi"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-08-25",
+      "sortOrder": 50,
+      "isActive": true
+    },
+    {
+      "id": "sg_000006",
+      "artistId": "ar_bhajanai_mandali",
+      "titleTa": "அபிராமி அந்தாதி",
+      "titleEn": "Abirami Andhadhi",
+      "audioPath": "songs/sg_000006_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 66,
+      "fileSizeBytes": 947800,
+      "tagsTa": [],
+      "tagsEn": [
+        "devi",
+        "amman"
+      ],
+      "searchAliases": [
+        "abirami andadi",
+        "abhirami anthathi"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-08-25",
+      "sortOrder": 60,
+      "isActive": true
+    },
+    {
+      "id": "sg_000007",
+      "artistId": "ar_bhajanai_mandali",
+      "titleTa": "லலிதா சகஸ்ரநாமம்",
+      "titleEn": "Lalitha Sahasranamam",
+      "audioPath": "songs/sg_000007_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 67,
+      "fileSizeBytes": 949100,
+      "tagsTa": [],
+      "tagsEn": [
+        "devi"
+      ],
+      "searchAliases": [
+        "lalitha sahasranama",
+        "lalitha sahasranamam"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-08-25",
+      "sortOrder": 70,
+      "isActive": true
+    },
+    {
+      "id": "sg_000008",
+      "artistId": "ar_bhajanai_mandali",
+      "titleTa": "கனகதாரா ஸ்தோத்திரம்",
+      "titleEn": "Kanakadhara Stotram",
+      "audioPath": "songs/sg_000008_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 68,
+      "fileSizeBytes": 950400,
+      "tagsTa": [],
+      "tagsEn": [
+        "lakshmi"
+      ],
+      "searchAliases": [
+        "kanakadhara stothram",
+        "kanagadhara"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-08-25",
+      "sortOrder": 80,
+      "isActive": true
+    },
+    {
+      "id": "sg_000009",
+      "artistId": "ar_bhajanai_mandali",
+      "titleTa": "மகிஷாசுர மர்த்தினி",
+      "titleEn": "Mahishasura Mardini",
+      "audioPath": "songs/sg_000009_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 69,
+      "fileSizeBytes": 951700,
+      "tagsTa": [],
+      "tagsEn": [
+        "devi"
+      ],
+      "searchAliases": [
+        "mahishasura mardini",
+        "aigiri nandini"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-08-25",
+      "sortOrder": 90,
+      "isActive": true
+    },
+    {
+      "id": "sg_000010",
+      "artistId": "ar_bhajanai_mandali",
+      "titleTa": "ஸ்ரீ சூக்தம்",
+      "titleEn": "Sri Suktam",
+      "audioPath": "songs/sg_000010_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 70,
+      "fileSizeBytes": 953000,
+      "tagsTa": [],
+      "tagsEn": [
+        "lakshmi"
+      ],
+      "searchAliases": [
+        "sri suktham",
+        "shree suktam"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-08-25",
+      "sortOrder": 100,
+      "isActive": true
+    },
+    {
+      "id": "sg_000011",
+      "artistId": "ar_nama_sankeerthana",
+      "titleTa": "விஷ்ணு சகஸ்ரநாமம்",
+      "titleEn": "Vishnu Sahasranamam",
+      "audioPath": "songs/sg_000011_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 60,
+      "fileSizeBytes": 954300,
+      "tagsTa": [],
+      "tagsEn": [
+        "perumal"
+      ],
+      "searchAliases": [
+        "vishnu sahasranama",
+        "vishnusahasranamam"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-08-25",
+      "sortOrder": 110,
+      "isActive": true
+    },
+    {
+      "id": "sg_000012",
+      "artistId": "ar_nama_sankeerthana",
+      "titleTa": "திருப்பாவை",
+      "titleEn": "Thiruppavai",
+      "audioPath": "songs/sg_000012_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 61,
+      "fileSizeBytes": 955600,
+      "tagsTa": [],
+      "tagsEn": [
+        "perumal",
+        "andal"
+      ],
+      "searchAliases": [
+        "thiruppaavai",
+        "tiruppavai"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-08-25",
+      "sortOrder": 120,
+      "isActive": true
+    },
+    {
+      "id": "sg_000013",
+      "artistId": "ar_nama_sankeerthana",
+      "titleTa": "சிவபுராணம்",
+      "titleEn": "Sivapuranam",
+      "audioPath": "songs/sg_000013_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 62,
+      "fileSizeBytes": 956900,
+      "tagsTa": [],
+      "tagsEn": [
+        "sivan"
+      ],
+      "searchAliases": [
+        "shivapuranam",
+        "siva puranam"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-08-25",
+      "sortOrder": 130,
+      "isActive": true
+    },
+    {
+      "id": "sg_000014",
+      "artistId": "ar_nama_sankeerthana",
+      "titleTa": "ஹனுமான் சாலீசா",
+      "titleEn": "Hanuman Chalisa",
+      "audioPath": "songs/sg_000014_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 63,
+      "fileSizeBytes": 958200,
+      "tagsTa": [],
+      "tagsEn": [
+        "hanuman"
+      ],
+      "searchAliases": [
+        "hanuman chaleesa",
+        "anjaneyar"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-08-25",
+      "sortOrder": 140,
+      "isActive": true
+    },
+    {
+      "id": "sg_000015",
+      "artistId": "ar_nama_sankeerthana",
+      "titleTa": "ஹரே ராம ஹரே கிருஷ்ணா",
+      "titleEn": "Hare Rama Hare Krishna",
+      "audioPath": "songs/sg_000015_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 64,
+      "fileSizeBytes": 959500,
+      "tagsTa": [],
+      "tagsEn": [
+        "rama",
+        "krishna"
+      ],
+      "searchAliases": [
+        "hare rama hare krishna",
+        "harerama"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-08-25",
+      "sortOrder": 150,
+      "isActive": true
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": 1,
+  "updatedAt": "2026-08-25T00:00:00Z",
+  "artistsUrl": "https://naamaakel.aanmeegasaaral.in/data/artists.json",
+  "songsUrl": "https://naamaakel.aanmeegasaaral.in/data/songs.json",
+  "audioBaseUrl": "https://naamakel.do-spaces.com/audio/",
+  "imageBaseUrl": "https://naamakel.do-spaces.com/images/",
+  "songRequestUrl": "https://script.google.com/macros/s/AKfycbxsucyHaubAbjAJv5B8p7BD45Z0ClAPTpK5xEjzadM_IvuzJkBoeW3jdItklxyFMTiZYQ/exec",
+  "privacyPolicyUrl": "https://naamaakel.aanmeegasaaral.in/privacy/",
+  "aboutUrl": "https://naamaakel.aanmeegasaaral.in/about/",
+  "contactEmail": "REPLACE_ME@aanmeegasaaral.in",
+  "minSupportedVersionCode": 1,
+  "featureFlags": {
+    "songRequestEnabled": true,
+    "searchEnabled": true
+  },
+  "notice": {
+    "active": false,
+    "ta": "",
+    "en": "",
+    "expiresAt": null
+  }
+}

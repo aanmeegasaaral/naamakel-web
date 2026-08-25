@@ -1,0 +1,33 @@
+{
+  "_note": "SEED/PLACEHOLDER CONTENT - replace before launch. Artist names are generic ensembles, not real performers. Song titles are traditional compositions. Audio paths do not exist in the bucket yet.",
+  "schemaVersion": 1,
+  "artists": [
+    {
+      "id": "ar_thiruppugazh_ensemble",
+      "nameTa": "திருப்புகழ் குழு",
+      "nameEn": "Thiruppugazh Ensemble",
+      "photoPath": "artists/ar_thiruppugazh_ensemble.webp",
+      "songCount": 5,
+      "sortOrder": 10,
+      "isActive": true
+    },
+    {
+      "id": "ar_bhajanai_mandali",
+      "nameTa": "பஜனை மண்டலி",
+      "nameEn": "Bhajanai Mandali",
+      "photoPath": "artists/ar_bhajanai_mandali.webp",
+      "songCount": 5,
+      "sortOrder": 20,
+      "isActive": true
+    },
+    {
+      "id": "ar_nama_sankeerthana",
+      "nameTa": "நாம சங்கீர்த்தனக் குழு",
+      "nameEn": "Nama Sankeerthana Group",
+      "photoPath": "artists/ar_nama_sankeerthana.webp",
+      "songCount": 5,
+      "sortOrder": 30,
+      "isActive": true
+    }
+  ]
+}
