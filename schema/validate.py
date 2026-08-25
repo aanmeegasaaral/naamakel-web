@@ -176,6 +176,13 @@ def check_songs(doc, artists):
         if not song.get("searchAliases"):
             warn("{} ({}): no searchAliases; Tanglish search will miss this song".format(where, sid))
 
+    featured = sum(1 for s in items
+                   if s.get("isFeatured") is True and s.get("isActive") is True)
+    if featured == 0:
+        # Not fatal: the app falls back to showing every song. But Home is
+        # meant to be curated, so silence here is almost always a mistake.
+        warn("no songs marked isFeatured; Home will fall back to the full catalog")
+
     for aid, art in artists.items():
         declared = art.get("songCount")
         actual = per_artist.get(aid, 0)

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "dataVersion": 1,
-  "updatedAt": "2026-08-25T00:00:00Z",
+  "dataVersion": 2,
+  "updatedAt": "2026-08-25T05:00:00Z",
   "artistsUrl": "https://naamaakel.aanmeegasaaral.in/data/artists.json",
   "songsUrl": "https://naamaakel.aanmeegasaaral.in/data/songs.json",
   "audioBaseUrl": "https://naamakel.do-spaces.com/audio/",

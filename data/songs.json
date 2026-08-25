@@ -25,7 +25,8 @@
       "thumbPath": null,
       "publishedAt": "2026-08-25",
       "sortOrder": 10,
-      "isActive": true
+      "isActive": true,
+      "isFeatured": true
     },
     {
       "id": "sg_000002",
@@ -48,7 +49,8 @@
       "thumbPath": null,
       "publishedAt": "2026-08-25",
       "sortOrder": 20,
-      "isActive": true
+      "isActive": true,
+      "isFeatured": false
     },
     {
       "id": "sg_000003",
@@ -70,7 +72,8 @@
       "thumbPath": null,
       "publishedAt": "2026-08-25",
       "sortOrder": 30,
-      "isActive": true
+      "isActive": true,
+      "isFeatured": false
     },
     {
       "id": "sg_000004",
@@ -92,7 +95,8 @@
       "thumbPath": null,
       "publishedAt": "2026-08-25",
       "sortOrder": 40,
-      "isActive": true
+      "isActive": true,
+      "isFeatured": false
     },
     {
       "id": "sg_000005",
@@ -114,7 +118,8 @@
       "thumbPath": null,
       "publishedAt": "2026-08-25",
       "sortOrder": 50,
-      "isActive": true
+      "isActive": true,
+      "isFeatured": false
     },
     {
       "id": "sg_000006",
@@ -137,7 +142,8 @@
       "thumbPath": null,
       "publishedAt": "2026-08-25",
       "sortOrder": 60,
-      "isActive": true
+      "isActive": true,
+      "isFeatured": true
     },
     {
       "id": "sg_000007",
@@ -159,7 +165,8 @@
       "thumbPath": null,
       "publishedAt": "2026-08-25",
       "sortOrder": 70,
-      "isActive": true
+      "isActive": true,
+      "isFeatured": false
     },
     {
       "id": "sg_000008",
@@ -181,7 +188,8 @@
       "thumbPath": null,
       "publishedAt": "2026-08-25",
       "sortOrder": 80,
-      "isActive": true
+      "isActive": true,
+      "isFeatured": false
     },
     {
       "id": "sg_000009",
@@ -203,7 +211,8 @@
       "thumbPath": null,
       "publishedAt": "2026-08-25",
       "sortOrder": 90,
-      "isActive": true
+      "isActive": true,
+      "isFeatured": false
     },
     {
       "id": "sg_000010",
@@ -225,7 +234,8 @@
       "thumbPath": null,
       "publishedAt": "2026-08-25",
       "sortOrder": 100,
-      "isActive": true
+      "isActive": true,
+      "isFeatured": false
     },
     {
       "id": "sg_000011",
@@ -247,7 +257,8 @@
       "thumbPath": null,
       "publishedAt": "2026-08-25",
       "sortOrder": 110,
-      "isActive": true
+      "isActive": true,
+      "isFeatured": true
     },
     {
       "id": "sg_000012",
@@ -270,7 +281,8 @@
       "thumbPath": null,
       "publishedAt": "2026-08-25",
       "sortOrder": 120,
-      "isActive": true
+      "isActive": true,
+      "isFeatured": true
     },
     {
       "id": "sg_000013",
@@ -292,7 +304,8 @@
       "thumbPath": null,
       "publishedAt": "2026-08-25",
       "sortOrder": 130,
-      "isActive": true
+      "isActive": true,
+      "isFeatured": false
     },
     {
       "id": "sg_000014",
@@ -314,7 +327,8 @@
       "thumbPath": null,
       "publishedAt": "2026-08-25",
       "sortOrder": 140,
-      "isActive": true
+      "isActive": true,
+      "isFeatured": false
     },
     {
       "id": "sg_000015",
@@ -337,7 +351,8 @@
       "thumbPath": null,
       "publishedAt": "2026-08-25",
       "sortOrder": 150,
-      "isActive": true
+      "isActive": true,
+      "isFeatured": true
     }
   ]
 }
