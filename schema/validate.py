@@ -10,9 +10,12 @@ first, and it runs before merge.
 
 Exit code 1 on any ERROR. WARNINGs are advisory and do not fail the build.
 """
+import argparse
 import json
 import re
 import sys
+import urllib.error
+import urllib.request
 from pathlib import Path
 
 DATA = Path(__file__).resolve().parent.parent / "data"
@@ -191,6 +194,88 @@ def check_songs(doc, artists):
                  "(advisory - the app computes this itself)".format(aid, declared, actual))
 
 
+def check_audio(manifest, songs_doc, artists_doc):
+    """
+    Confirm the metadata describes files that actually exist.
+
+    Added after a real failure. songs.json carried the seed catalog's
+    placeholder `fileSizeBytes` and `durationSec`, which nobody updated when the
+    real MP3s were uploaded. The app refuses a ringtone download whose payload is
+    under a quarter of the declared size -- a guard against truncated files -- so
+    a song declaring 921 KB while actually being 181 KB simply could not be set
+    as a ringtone. The user saw a generic download error and nothing anywhere
+    explained why.
+
+    Everything else in this file is a consistency check the data can satisfy on
+    its own. This is the only one that asks whether the data matches REALITY, so
+    it is the only one that needs the network -- hence the opt-in flag, with CI
+    turning it on.
+
+    ONLY ACTIVE SONGS ARE CHECKED. `isActive: false` is the supported way to
+    stage a song whose audio has not been uploaded yet, and this check must not
+    take that escape hatch away.
+    """
+    base = manifest.get("audioBaseUrl", "")
+    image_base = manifest.get("imageBaseUrl", "")
+    if not base:
+        err("manifest: audioBaseUrl is required for --check-audio")
+        return
+
+    for song in songs_doc.get("songs", []):
+        if song.get("isActive") is not True:
+            continue
+        sid = song.get("id")
+        url = base + song.get("audioPath", "")
+        declared = song.get("fileSizeBytes")
+
+        try:
+            req = urllib.request.Request(url, method="HEAD")
+            with urllib.request.urlopen(req, timeout=30) as r:
+                actual = int(r.headers.get("Content-Length") or 0)
+        except urllib.error.HTTPError as e:
+            # The server gave a definitive answer: this object is not servable.
+            # An active song users can see but cannot play is exactly the kind of
+            # bad commit this validator exists to stop.
+            err("songs[{}]: audio not reachable ({} {}) at {}".format(sid, e.code, e.reason, url))
+            continue
+        except Exception as e:
+            # Could not reach the CDN at all. That is inconclusive -- a network
+            # blip must not fail an unrelated content commit -- so warn instead
+            # of blocking the merge.
+            warn("songs[{}]: could not check audio ({}); skipped".format(sid, e))
+            continue
+
+        if not isinstance(declared, int) or declared <= 0:
+            err("songs[{}]: fileSizeBytes must be a positive integer".format(sid))
+        elif actual and actual != declared:
+            err("songs[{}]: fileSizeBytes is {} but the file is {} bytes. "
+                "Run schema/measure-audio.py --write rather than editing by hand"
+                .format(sid, declared, actual))
+
+        dur = song.get("durationSec")
+        if not isinstance(dur, int) or dur <= 0:
+            err("songs[{}]: durationSec must be a positive integer".format(sid))
+
+    # Artist photos are optional, but a path that 404s renders a broken image
+    # rather than the generated-initial fallback, which is worse than having no
+    # photo at all.
+    for artist in artists_doc.get("artists", []):
+        if artist.get("isActive") is not True:
+            continue
+        path = artist.get("photoPath")
+        if not path:
+            continue
+        url = image_base + path
+        try:
+            with urllib.request.urlopen(urllib.request.Request(url, method="HEAD"), timeout=30):
+                pass
+        except urllib.error.HTTPError as e:
+            err("artists[{}]: photoPath not reachable ({} {}) at {}".format(
+                artist.get("id"), e.code, e.reason, url))
+        except Exception as e:
+            warn("artists[{}]: could not check photo ({}); skipped".format(artist.get("id"), e))
+
+
 def report():
     # Error messages can quote non-ASCII content (a Tamil filename, say). On a
     # Windows cp1252 console that raises UnicodeEncodeError *while reporting*,
@@ -211,6 +296,15 @@ def report():
 
 
 def main():
+    ap = argparse.ArgumentParser(description=__doc__)
+    ap.add_argument(
+        "--check-audio",
+        action="store_true",
+        help="also verify every active song's audio exists and matches its "
+             "declared size (needs network; CI enables this)",
+    )
+    args = ap.parse_args()
+
     manifest = load("manifest.json")
     artists_doc = load("artists.json")
     songs_doc = load("songs.json")
@@ -220,6 +314,8 @@ def main():
     check_manifest(manifest)
     artists = check_artists(artists_doc)
     check_songs(songs_doc, artists)
+    if args.check_audio:
+        check_audio(manifest, songs_doc, artists_doc)
     return report()
 
 

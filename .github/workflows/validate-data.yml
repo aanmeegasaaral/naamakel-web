@@ -21,3 +21,14 @@ jobs:
           python-version: '3.12'
       - name: Validate catalog JSON
         run: python schema/validate.py
+
+      # Separate step, and separate from the structural checks above, because
+      # this one reaches the CDN. Keeping it distinct means a red build here
+      # reads as "the data does not match reality" rather than "the JSON is
+      # malformed" -- two very different things to go and fix.
+      #
+      # Catches the failure that motivated it: songs.json declaring a file size
+      # from the seed catalog while the real MP3 was a quarter of that, which
+      # made the song impossible to set as a ringtone with no visible reason.
+      - name: Verify audio and images exist and match their metadata
+        run: python schema/validate.py --check-audio
