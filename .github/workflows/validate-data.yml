@@ -32,3 +32,11 @@ jobs:
       # made the song impossible to set as a ringtone with no visible reason.
       - name: Verify audio and images exist and match their metadata
         run: python schema/validate.py --check-audio
+
+      # The share pages are pre-generated because WhatsApp and Facebook
+      # crawlers do not run JavaScript -- a client-rendered page would preview
+      # every shared link with generic site metadata instead of the song.
+      # Since they are generated, they can go stale, and a stale share page is
+      # invisible until someone shares a link and gets the wrong preview.
+      - name: Verify the generated share pages are up to date
+        run: python schema/generate-pages.py --check
