@@ -9,7 +9,7 @@
   "songRequestUrl": "https://script.google.com/macros/s/AKfycbxsucyHaubAbjAJv5B8p7BD45Z0ClAPTpK5xEjzadM_IvuzJkBoeW3jdItklxyFMTiZYQ/exec",
   "privacyPolicyUrl": "https://naamaakel.aanmeegasaaral.in/privacy/",
   "aboutUrl": "https://naamaakel.aanmeegasaaral.in/about/",
-  "contactEmail": "REPLACE_ME@aanmeegasaaral.in",
+  "contactEmail": "aanmeegasaaral@gmail.com",
   "minSupportedVersionCode": 1,
   "featureFlags": {
     "songRequestEnabled": true,
