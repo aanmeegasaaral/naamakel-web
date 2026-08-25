@@ -1,0 +1,23 @@
+name: Validate catalog
+
+# Installed apps fetch data/*.json directly, so a bad merge reaches users within
+# hours. This gate runs before merge; the app's own validation is the fallback.
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    paths:
+      - 'data/**'
+      - 'schema/**'
+  workflow_dispatch:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Validate catalog JSON
+        run: python schema/validate.py
