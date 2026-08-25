@@ -6,7 +6,7 @@
       "id": "ar_thiruppugazh_ensemble",
       "nameTa": "திருப்புகழ் குழு",
       "nameEn": "Thiruppugazh Ensemble",
-      "photoPath": "artists/ar_thiruppugazh_ensemble.webp",
+      "photoPath": "artists/001.jpeg",
       "songCount": 5,
       "sortOrder": 10,
       "isActive": true
@@ -15,7 +15,7 @@
       "id": "ar_bhajanai_mandali",
       "nameTa": "பஜனை மண்டலி",
       "nameEn": "Bhajanai Mandali",
-      "photoPath": "artists/ar_bhajanai_mandali.webp",
+      "photoPath": null,
       "songCount": 5,
       "sortOrder": 20,
       "isActive": true
@@ -24,7 +24,7 @@
       "id": "ar_nama_sankeerthana",
       "nameTa": "நாம சங்கீர்த்தனக் குழு",
       "nameEn": "Nama Sankeerthana Group",
-      "photoPath": "artists/ar_nama_sankeerthana.webp",
+      "photoPath": null,
       "songCount": 5,
       "sortOrder": 30,
       "isActive": true

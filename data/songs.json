@@ -50,7 +50,7 @@
       "publishedAt": "2026-08-25",
       "sortOrder": 20,
       "isActive": true,
-      "isFeatured": false
+      "isFeatured": true
     },
     {
       "id": "sg_000003",
@@ -142,8 +142,8 @@
       "thumbPath": null,
       "publishedAt": "2026-08-25",
       "sortOrder": 60,
-      "isActive": true,
-      "isFeatured": true
+      "isActive": false,
+      "isFeatured": false
     },
     {
       "id": "sg_000007",
