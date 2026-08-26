@@ -38,5 +38,12 @@ jobs:
       # every shared link with generic site metadata instead of the song.
       # Since they are generated, they can go stale, and a stale share page is
       # invisible until someone shares a link and gets the wrong preview.
+      #
+      # if: always() because these checks are INDEPENDENT. Audio is uploaded on
+      # a different schedule from the catalog edits, so that step can sit red
+      # for days -- and while it did, this one was silently skipped, leaving
+      # page drift completely unguarded exactly when songs.json was changing.
+      # A gate that stops running because a different gate is red is not a gate.
       - name: Verify the generated share pages are up to date
+        if: always()
         run: python schema/generate-pages.py --check
