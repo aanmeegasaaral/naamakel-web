@@ -5,6 +5,7 @@
     {
       "id": "sg_000001",
       "artistId": "ar_thiruppugazh_ensemble",
+      "categoryId": "cat_kavasam",
       "titleTa": "கந்த சஷ்டி கவசம்",
       "titleEn": "Kandha Sashti Kavasam",
       "audioPath": "songs/sg_000001_v1.mp3",
@@ -31,6 +32,7 @@
     {
       "id": "sg_000002",
       "artistId": "ar_thiruppugazh_ensemble",
+      "categoryId": "cat_thiruppugazh",
       "titleTa": "திருப்புகழ்",
       "titleEn": "Thiruppugazh",
       "audioPath": "songs/sg_000002_v1.mp3",
@@ -55,6 +57,7 @@
     {
       "id": "sg_000003",
       "artistId": "ar_thiruppugazh_ensemble",
+      "categoryId": "cat_kavasam",
       "titleTa": "வேல் மாறல்",
       "titleEn": "Vel Maaral",
       "audioPath": "songs/sg_000003_v1.mp3",
@@ -78,6 +81,7 @@
     {
       "id": "sg_000004",
       "artistId": "ar_thiruppugazh_ensemble",
+      "categoryId": "cat_stotram",
       "titleTa": "சுப்பிரமணிய புஜங்கம்",
       "titleEn": "Subramanya Bhujangam",
       "audioPath": "songs/sg_000004_v1.mp3",
@@ -101,6 +105,7 @@
     {
       "id": "sg_000005",
       "artistId": "ar_thiruppugazh_ensemble",
+      "categoryId": "cat_stotram",
       "titleTa": "கந்தர் அனுபூதி",
       "titleEn": "Kandhar Anubhuthi",
       "audioPath": "songs/sg_000005_v1.mp3",
@@ -124,6 +129,7 @@
     {
       "id": "sg_000006",
       "artistId": "ar_bhajanai_mandali",
+      "categoryId": "cat_stotram",
       "titleTa": "அபிராமி அந்தாதி",
       "titleEn": "Abirami Andhadhi",
       "audioPath": "songs/sg_000006_v1.mp3",
@@ -148,6 +154,7 @@
     {
       "id": "sg_000007",
       "artistId": "ar_bhajanai_mandali",
+      "categoryId": "cat_sahasranamam",
       "titleTa": "லலிதா சகஸ்ரநாமம்",
       "titleEn": "Lalitha Sahasranamam",
       "audioPath": "songs/sg_000007_v1.mp3",
@@ -171,6 +178,7 @@
     {
       "id": "sg_000008",
       "artistId": "ar_bhajanai_mandali",
+      "categoryId": "cat_stotram",
       "titleTa": "கனகதாரா ஸ்தோத்திரம்",
       "titleEn": "Kanakadhara Stotram",
       "audioPath": "songs/sg_000008_v1.mp3",
@@ -194,6 +202,7 @@
     {
       "id": "sg_000009",
       "artistId": "ar_bhajanai_mandali",
+      "categoryId": "cat_stotram",
       "titleTa": "மகிஷாசுர மர்த்தினி",
       "titleEn": "Mahishasura Mardini",
       "audioPath": "songs/sg_000009_v1.mp3",
@@ -217,6 +226,7 @@
     {
       "id": "sg_000010",
       "artistId": "ar_bhajanai_mandali",
+      "categoryId": "cat_chanting",
       "titleTa": "ஸ்ரீ சூக்தம்",
       "titleEn": "Sri Suktam",
       "audioPath": "songs/sg_000010_v1.mp3",
@@ -240,6 +250,7 @@
     {
       "id": "sg_000011",
       "artistId": "ar_nama_sankeerthana",
+      "categoryId": "cat_sahasranamam",
       "titleTa": "விஷ்ணு சகஸ்ரநாமம்",
       "titleEn": "Vishnu Sahasranamam",
       "audioPath": "songs/sg_000011_v1.mp3",
@@ -263,6 +274,7 @@
     {
       "id": "sg_000012",
       "artistId": "ar_nama_sankeerthana",
+      "categoryId": "cat_namavali",
       "titleTa": "திருப்பாவை",
       "titleEn": "Thiruppavai",
       "audioPath": "songs/sg_000012_v1.mp3",
@@ -287,6 +299,7 @@
     {
       "id": "sg_000013",
       "artistId": "ar_nama_sankeerthana",
+      "categoryId": "cat_chanting",
       "titleTa": "சிவபுராணம்",
       "titleEn": "Sivapuranam",
       "audioPath": "songs/sg_000013_v1.mp3",
@@ -310,6 +323,7 @@
     {
       "id": "sg_000014",
       "artistId": "ar_nama_sankeerthana",
+      "categoryId": "cat_chanting",
       "titleTa": "ஹனுமான் சாலீசா",
       "titleEn": "Hanuman Chalisa",
       "audioPath": "songs/sg_000014_v1.mp3",
@@ -333,6 +347,7 @@
     {
       "id": "sg_000015",
       "artistId": "ar_nama_sankeerthana",
+      "categoryId": "cat_namavali",
       "titleTa": "ஹரே ராம ஹரே கிருஷ்ணா",
       "titleEn": "Hare Rama Hare Krishna",
       "audioPath": "songs/sg_000015_v1.mp3",

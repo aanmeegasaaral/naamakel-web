@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "categories": [
+    {
+      "id": "cat_chanting",
+      "nameTa": "ஜபம்",
+      "nameEn": "Chanting",
+      "sortOrder": 10,
+      "isActive": true
+    },
+    {
+      "id": "cat_namavali",
+      "nameTa": "நாமாவளி",
+      "nameEn": "Namavali",
+      "sortOrder": 20,
+      "isActive": true
+    },
+    {
+      "id": "cat_kavasam",
+      "nameTa": "கவசம்",
+      "nameEn": "Kavasam",
+      "sortOrder": 30,
+      "isActive": true
+    },
+    {
+      "id": "cat_stotram",
+      "nameTa": "ஸ்தோத்திரம்",
+      "nameEn": "Stotram",
+      "sortOrder": 40,
+      "isActive": true
+    },
+    {
+      "id": "cat_sahasranamam",
+      "nameTa": "சகஸ்ரநாமம்",
+      "nameEn": "Sahasranamam",
+      "sortOrder": 50,
+      "isActive": true
+    },
+    {
+      "id": "cat_thiruppugazh",
+      "nameTa": "திருப்புகழ்",
+      "nameEn": "Thiruppugazh",
+      "sortOrder": 60,
+      "isActive": true
+    },
+    {
+      "id": "cat_bhajanai",
+      "nameTa": "பஜனை",
+      "nameEn": "Bhajanai",
+      "sortOrder": 70,
+      "isActive": true
+    }
+  ]
+}

@@ -1,9 +1,10 @@
 {
   "schemaVersion": 1,
-  "dataVersion": 3,
+  "dataVersion": 4,
   "updatedAt": "2026-08-25T06:00:00Z",
   "artistsUrl": "https://naamaakel.aanmeegasaaral.in/data/artists.json",
   "songsUrl": "https://naamaakel.aanmeegasaaral.in/data/songs.json",
+  "categoriesUrl": "https://naamaakel.aanmeegasaaral.in/data/categories.json",
   "audioBaseUrl": "https://naamakel.do-spaces.com/audio/",
   "imageBaseUrl": "https://naamakel.do-spaces.com/images/",
   "songRequestUrl": "https://script.google.com/macros/s/AKfycbxsucyHaubAbjAJv5B8p7BD45Z0ClAPTpK5xEjzadM_IvuzJkBoeW3jdItklxyFMTiZYQ/exec",

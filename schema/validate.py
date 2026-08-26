@@ -23,6 +23,7 @@ SCHEMA_VERSION = 1
 
 ART_ID = re.compile(r"^ar_[a-z0-9_]+$")
 SONG_ID = re.compile(r"^sg_\d{6}$")
+CAT_ID = re.compile(r"^cat_[a-z0-9_]+$")
 ASCII_PATH = re.compile(r"^[A-Za-z0-9._/\-]+$")
 
 errors = []
@@ -58,6 +59,10 @@ def nonempty(d, key, where):
 
 
 def check_manifest(m):
+    # Without this the app has no way to fetch categories, and every song would
+    # reference an id it can never resolve.
+    if not isinstance(m.get("categoriesUrl"), str) or not m["categoriesUrl"].startswith("https://"):
+        err("manifest: categoriesUrl must be an https URL")
     if m.get("schemaVersion") != SCHEMA_VERSION:
         err("manifest: schemaVersion must be {}, got {!r}".format(SCHEMA_VERSION, m.get("schemaVersion")))
     if not isinstance(m.get("dataVersion"), int):
@@ -119,7 +124,7 @@ def check_artists(doc):
     return seen
 
 
-def check_songs(doc, artists):
+def check_songs(doc, artists, categories):
     if doc.get("schemaVersion") != SCHEMA_VERSION:
         err("songs: schemaVersion must be {}".format(SCHEMA_VERSION))
     items = doc.get("songs")
@@ -144,6 +149,15 @@ def check_songs(doc, artists):
         aid = song.get("artistId")
         if aid not in artists:
             err("{} ({}): artistId {!r} does not exist in artists.json".format(where, sid, aid))
+
+        # Same rule for the category. A typo here files the song into a
+        # category that does not exist, so it vanishes from browse while still
+        # appearing in search -- confusing, and invisible without this check.
+        cid = song.get("categoryId")
+        if cid is None:
+            err("{} ({}): categoryId is required".format(where, sid))
+        elif cid not in categories:
+            err("{} ({}): categoryId {!r} is not an active category".format(where, sid, cid))
         elif song.get("isActive") is True:
             per_artist[aid] = per_artist.get(aid, 0) + 1
 
@@ -276,6 +290,49 @@ def check_audio(manifest, songs_doc, artists_doc):
             warn("artists[{}]: could not check photo ({}); skipped".format(artist.get("id"), e))
 
 
+def check_categories(doc):
+    """
+    Categories carry their own bilingual names, so a song can be filed once and
+    displayed correctly in either language. Returns {id: name} for the ACTIVE
+    ones, which is what song validation checks against -- filing a song into a
+    deactivated category would hide it from browse with no error anywhere.
+    """
+    if doc.get("schemaVersion") != SCHEMA_VERSION:
+        err("categories: schemaVersion must be {}".format(SCHEMA_VERSION))
+    items = doc.get("categories")
+    if not isinstance(items, list) or not items:
+        err("categories: categories must be a non-empty array")
+        return {}
+
+    active = {}
+    seen = set()
+    for i, cat in enumerate(items):
+        where = "categories[{}]".format(i)
+        cid = cat.get("id")
+        if not isinstance(cid, str) or not CAT_ID.match(cid):
+            err("{}: id must match cat_<lowercase>, got {!r}".format(where, cid))
+            continue
+        if cid in seen:
+            err("{}: duplicate category id {!r}".format(where, cid))
+        seen.add(cid)
+
+        # BOTH names are mandatory. A missing one leaves a blank chip in that
+        # language rather than falling back, because there is nothing to fall
+        # back to.
+        nonempty(cat, "nameTa", where)
+        nonempty(cat, "nameEn", where)
+
+        if not isinstance(cat.get("sortOrder"), int):
+            err("{} ({}): sortOrder must be an integer".format(where, cid))
+
+        if cat.get("isActive") is True:
+            active[cid] = cat.get("nameEn")
+
+    if not active:
+        err("categories: at least one category must be active")
+    return active
+
+
 def report():
     # Error messages can quote non-ASCII content (a Tamil filename, say). On a
     # Windows cp1252 console that raises UnicodeEncodeError *while reporting*,
@@ -308,12 +365,14 @@ def main():
     manifest = load("manifest.json")
     artists_doc = load("artists.json")
     songs_doc = load("songs.json")
+    categories_doc = load("categories.json")
     if errors:
         return report()
 
     check_manifest(manifest)
     artists = check_artists(artists_doc)
-    check_songs(songs_doc, artists)
+    categories = check_categories(categories_doc)
+    check_songs(songs_doc, artists, categories)
     if args.check_audio:
         check_audio(manifest, songs_doc, artists_doc)
     return report()
