@@ -40,7 +40,7 @@
       "thumbPath": null,
       "publishedAt": "2026-08-27",
       "sortOrder": 2,
-      "isActive": false,
+      "isActive": true,
       "isFeatured": false
     },
     {
@@ -59,7 +59,7 @@
       "thumbPath": null,
       "publishedAt": "2026-08-27",
       "sortOrder": 3,
-      "isActive": false,
+      "isActive": true,
       "isFeatured": false
     },
     {
@@ -78,7 +78,7 @@
       "thumbPath": null,
       "publishedAt": "2026-08-27",
       "sortOrder": 4,
-      "isActive": false,
+      "isActive": true,
       "isFeatured": false
     }
   ]
