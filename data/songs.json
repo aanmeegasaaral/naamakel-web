@@ -369,6 +369,33 @@
       "sortOrder": 150,
       "isActive": true,
       "isFeatured": true
+    },
+    {
+      "id": "sg_000016",
+      "artistId": "ar_nama_sankeerthana",
+      "categoryId": "cat_namavali",
+      "titleTa": "ராதே கோவிந்தா",
+      "titleEn": "Radhe Govinda",
+      "audioPath": "songs/sg_000016_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 45,
+      "fileSizeBytes": 540151,
+      "tagsTa": [
+        "கிருஷ்ணர்"
+      ],
+      "tagsEn": [
+        "krishna"
+      ],
+      "searchAliases": [
+        "radhe govinda",
+        "radha govinda",
+        "ராதே கோவிந்தா"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-08-27",
+      "sortOrder": 160,
+      "isActive": false,
+      "isFeatured": false
     }
   ]
 }
