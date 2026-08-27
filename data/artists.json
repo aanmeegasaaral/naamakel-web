@@ -10,6 +10,15 @@
       "songCount": 4,
       "sortOrder": 0,
       "isActive": true
+    },
+    {
+      "id": "ar_cuddalore_sri_gopi",
+      "nameTa": "கடலூர் ஸ்ரீ கோபி",
+      "nameEn": "Cuddalore Sri Gopi",
+      "photoPath": "artists/ar_cuddalore_sri_gopi_1225e5a6.webp",
+      "songCount": 1,
+      "sortOrder": 0,
+      "isActive": true
     }
   ]
 }

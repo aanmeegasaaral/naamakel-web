@@ -80,6 +80,25 @@
       "sortOrder": 4,
       "isActive": true,
       "isFeatured": false
+    },
+    {
+      "id": "sg_000022",
+      "artistId": "ar_cuddalore_sri_gopi",
+      "categoryId": "cat_chanting",
+      "titleTa": "சத்குரு ஜெய் ஜெய் சத்குரு ஜெய் ஜெய்",
+      "titleEn": "Sadguru Jai Jai Sadguru Jai Jai",
+      "audioPath": "songs/sg_000022_35c941e7_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 40,
+      "fileSizeBytes": 475890,
+      "tagsTa": [],
+      "tagsEn": [],
+      "searchAliases": [],
+      "thumbPath": null,
+      "publishedAt": "2026-08-27",
+      "sortOrder": 5,
+      "isActive": true,
+      "isFeatured": true
     }
   ]
 }
