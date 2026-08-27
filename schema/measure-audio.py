@@ -173,6 +173,9 @@ def fetch(url):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--write", action="store_true", help="rewrite songs.json")
+    # The admin tool uploads one song at a time; without this it would refetch
+    # every song in the catalog to learn one file's size.
+    ap.add_argument("--song", metavar="ID", help="measure only this song id")
     args = ap.parse_args()
 
     songs_path = os.path.join(WEB, "data", "songs.json")
@@ -186,7 +189,12 @@ def main():
     print("%-12s %-26s %9s %9s  %8s %8s" % ("id", "title", "size", "was", "dur", "was"))
     print("-" * 82)
 
-    for song in doc["songs"]:
+    wanted = [s for s in doc["songs"] if not args.song or s["id"] == args.song]
+    if args.song and not wanted:
+        print("no such song: %s" % args.song)
+        return 1
+
+    for song in wanted:
         url = base + song["audioPath"]
         try:
             data = fetch(url)
