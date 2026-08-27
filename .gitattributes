@@ -1,0 +1,11 @@
+# Line endings are normalised to LF, everywhere, always.
+#
+# This repo is edited from three places now: a Windows workstation, GitHub, and
+# the admin tool on a Linux box. Without this, each writes its own convention
+# and a file round-trips as a whole-file diff.
+#
+# That is not cosmetic here. The publish flow depends on a human reading the
+# diff before it reaches every installed phone, and a diff full of invisible
+# line-ending churn is a review that does not happen. artists.json had already
+# drifted to CRLF in the blob this way.
+* text=auto eol=lf
