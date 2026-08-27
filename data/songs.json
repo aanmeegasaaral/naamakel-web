@@ -42,6 +42,44 @@
       "sortOrder": 2,
       "isActive": false,
       "isFeatured": false
+    },
+    {
+      "id": "sg_000020",
+      "artistId": "ar_govindapuram_sri_muralidharadas",
+      "categoryId": "cat_namavali",
+      "titleTa": "பரிசுத பரிசுத ஸத்குரு கிருபா",
+      "titleEn": "Parisutha parisutha satguru kripa",
+      "audioPath": "songs/sg_000020_6e7c5197_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 44,
+      "fileSizeBytes": 532628,
+      "tagsTa": [],
+      "tagsEn": [],
+      "searchAliases": [],
+      "thumbPath": null,
+      "publishedAt": "2026-08-27",
+      "sortOrder": 3,
+      "isActive": false,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000021",
+      "artistId": "ar_govindapuram_sri_muralidharadas",
+      "categoryId": "cat_namavali",
+      "titleTa": "ஜய கோவிந்தா ஜய கோபாலா",
+      "titleEn": "jaya govinda jaya gopala",
+      "audioPath": "songs/sg_000021_bf14a61c_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 42,
+      "fileSizeBytes": 504102,
+      "tagsTa": [],
+      "tagsEn": [],
+      "searchAliases": [],
+      "thumbPath": null,
+      "publishedAt": "2026-08-27",
+      "sortOrder": 4,
+      "isActive": false,
+      "isFeatured": false
     }
   ]
 }
