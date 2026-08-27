@@ -3,30 +3,12 @@
   "schemaVersion": 1,
   "artists": [
     {
-      "id": "ar_thiruppugazh_ensemble",
-      "nameTa": "திருப்புகழ் குழு",
-      "nameEn": "Thiruppugazh Ensemble",
-      "photoPath": "artists/001.jpeg",
-      "songCount": 5,
-      "sortOrder": 10,
-      "isActive": true
-    },
-    {
-      "id": "ar_bhajanai_mandali",
-      "nameTa": "பஜனை மண்டலி",
-      "nameEn": "Bhajanai Mandali",
-      "photoPath": null,
-      "songCount": 4,
-      "sortOrder": 20,
-      "isActive": true
-    },
-    {
-      "id": "ar_nama_sankeerthana",
-      "nameTa": "நாம சங்கீர்த்தனக் குழு",
-      "nameEn": "Nama Sankeerthana Group",
-      "photoPath": null,
-      "songCount": 6,
-      "sortOrder": 30,
+      "id": "ar_govindapuram_sri_muralidharadas",
+      "nameTa": "கோவிந்தபுரம் ஸ்ரீ முரளிதரதாஸ்",
+      "nameEn": "Govindapuram Sri Muralidharadas",
+      "photoPath": "artists/ar_govindapuram_sri_muralidharadas_e7c73acb.webp",
+      "songCount": 1,
+      "sortOrder": 0,
       "isActive": true
     }
   ]
