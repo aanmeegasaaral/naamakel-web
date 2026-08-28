@@ -181,8 +181,16 @@
       "audioVersion": 3,
       "durationSec": 34,
       "fileSizeBytes": 409536,
-      "tagsTa": [],
-      "tagsEn": [],
+      "tagsTa": [
+        "ராதே",
+        "கோவிந்தா",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "radhe",
+        "govinda",
+        "namavali"
+      ],
       "searchAliases": [
         "rathe",
         "kovintha",
@@ -195,7 +203,7 @@
       "thumbPath": null,
       "publishedAt": "2026-08-28",
       "sortOrder": 7,
-      "isActive": false,
+      "isActive": true,
       "isFeatured": false
     },
     {
@@ -226,7 +234,7 @@
       "thumbPath": null,
       "publishedAt": "2026-08-28",
       "sortOrder": 8,
-      "isActive": false,
+      "isActive": true,
       "isFeatured": false
     },
     {
@@ -268,7 +276,7 @@
       "thumbPath": null,
       "publishedAt": "2026-08-28",
       "sortOrder": 9,
-      "isActive": false,
+      "isActive": true,
       "isFeatured": false
     },
     {
@@ -305,7 +313,7 @@
       "thumbPath": null,
       "publishedAt": "2026-08-28",
       "sortOrder": 10,
-      "isActive": false,
+      "isActive": true,
       "isFeatured": false
     },
     {
@@ -340,7 +348,7 @@
       "thumbPath": null,
       "publishedAt": "2026-08-28",
       "sortOrder": 11,
-      "isActive": false,
+      "isActive": true,
       "isFeatured": false
     },
     {
@@ -380,7 +388,7 @@
       "thumbPath": null,
       "publishedAt": "2026-08-28",
       "sortOrder": 12,
-      "isActive": false,
+      "isActive": true,
       "isFeatured": false
     },
     {
@@ -420,7 +428,7 @@
       "thumbPath": null,
       "publishedAt": "2026-08-28",
       "sortOrder": 13,
-      "isActive": false,
+      "isActive": true,
       "isFeatured": false
     },
     {
@@ -452,7 +460,7 @@
       "thumbPath": null,
       "publishedAt": "2026-08-28",
       "sortOrder": 14,
-      "isActive": false,
+      "isActive": true,
       "isFeatured": false
     },
     {
@@ -496,7 +504,7 @@
       "thumbPath": null,
       "publishedAt": "2026-08-28",
       "sortOrder": 15,
-      "isActive": false,
+      "isActive": true,
       "isFeatured": false
     },
     {
@@ -538,7 +546,7 @@
       "thumbPath": null,
       "publishedAt": "2026-08-28",
       "sortOrder": 16,
-      "isActive": false,
+      "isActive": true,
       "isFeatured": false
     }
   ]
