@@ -197,6 +197,349 @@
       "sortOrder": 7,
       "isActive": false,
       "isFeatured": false
+    },
+    {
+      "id": "sg_000025",
+      "artistId": "ar_govindapuram_sri_muralidharadas",
+      "categoryId": "cat_namavali",
+      "titleTa": "ராதே ஷ்யாம் ராதே ஷ்யாம்",
+      "titleEn": "radhe shyam radhe shyam",
+      "audioPath": "songs/sg_000025_20b83dd3_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 60,
+      "fileSizeBytes": 716544,
+      "tagsTa": [
+        "ராதே",
+        "ஷ்யாம்",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "radhe",
+        "shyam",
+        "namavali"
+      ],
+      "searchAliases": [
+        "rathe",
+        "syam",
+        "rade"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-08-28",
+      "sortOrder": 8,
+      "isActive": false,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000026",
+      "artistId": "ar_govindapuram_sri_muralidharadas",
+      "categoryId": "cat_namavali",
+      "titleTa": "ராதா கிருஷ்ணா ராதிகா கிருஷ்ணா",
+      "titleEn": "radha krishna radhika krishna",
+      "audioPath": "songs/sg_000026_8669ee39_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 44,
+      "fileSizeBytes": 530496,
+      "tagsTa": [
+        "ராதா",
+        "கிருஷ்ணா",
+        "ராதிகா",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "radha",
+        "krishna",
+        "radhika",
+        "namavali"
+      ],
+      "searchAliases": [
+        "ratha",
+        "kirushna",
+        "rathika",
+        "kirusna",
+        "girushna",
+        "krushna",
+        "rathiga",
+        "rada",
+        "girusna",
+        "radhiga",
+        "radika",
+        "radiga"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-08-28",
+      "sortOrder": 9,
+      "isActive": false,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000027",
+      "artistId": "ar_govindapuram_sri_muralidharadas",
+      "categoryId": "cat_namavali",
+      "titleTa": "நாத நாத ஜகன்னாத",
+      "titleEn": "nath nath jagannath",
+      "audioPath": "songs/sg_000027_98f0c181_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 52,
+      "fileSizeBytes": 629280,
+      "tagsTa": [
+        "நாத",
+        "ஜகன்னாத",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "nath",
+        "jagannath",
+        "namavali"
+      ],
+      "searchAliases": [
+        "natha",
+        "jakannatha",
+        "nadha",
+        "jakannadha",
+        "jagannatha",
+        "nada",
+        "jakannada",
+        "jagannadha",
+        "jagannada"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-08-28",
+      "sortOrder": 10,
+      "isActive": false,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000028",
+      "artistId": "ar_govindapuram_sri_muralidharadas",
+      "categoryId": "cat_namavali",
+      "titleTa": "யேஹி கோபால ஸ்ரீ வனமாலா",
+      "titleEn": "Yehi Gopala Sri Vanamala",
+      "audioPath": "songs/sg_000028_2dfa70a3_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 59,
+      "fileSizeBytes": 703584,
+      "tagsTa": [
+        "யேஹி",
+        "கோபால",
+        "ஸ்ரீ",
+        "வனமாலா",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "yehi",
+        "gopala",
+        "vanamala",
+        "namavali"
+      ],
+      "searchAliases": [
+        "kopala",
+        "kobala",
+        "shri",
+        "gobala"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-08-28",
+      "sortOrder": 11,
+      "isActive": false,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000029",
+      "artistId": "ar_govindapuram_sri_muralidharadas",
+      "categoryId": "cat_namavali",
+      "titleTa": "பன்சிதாரா கன்ஹையா",
+      "titleEn": "Bansidhara Kanhaiya",
+      "audioPath": "songs/sg_000029_e3a69b82_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 56,
+      "fileSizeBytes": 670176,
+      "tagsTa": [
+        "பன்சிதாரா",
+        "கன்ஹையா",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "bansidhara",
+        "kanhaiya",
+        "namavali"
+      ],
+      "searchAliases": [
+        "pansithara",
+        "pansidhara",
+        "panchithara",
+        "bansithara",
+        "ganhaiya",
+        "pansidara",
+        "panchidhara",
+        "banchithara",
+        "panchidara",
+        "bansidara",
+        "banchidhara",
+        "banchidara"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-08-28",
+      "sortOrder": 12,
+      "isActive": false,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000030",
+      "artistId": "ar_govindapuram_sri_muralidharadas",
+      "categoryId": "cat_namavali",
+      "titleTa": "ராதே கோவிந்தா ராதே கோபாலா ராதே",
+      "titleEn": "radhe govinda radhe gopala Radhe",
+      "audioPath": "songs/sg_000030_118012b8_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 28,
+      "fileSizeBytes": 340416,
+      "tagsTa": [
+        "ராதே",
+        "கோவிந்தா",
+        "கோபாலா",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "radhe",
+        "govinda",
+        "gopala",
+        "namavali"
+      ],
+      "searchAliases": [
+        "rathe",
+        "kovintha",
+        "kopala",
+        "kovindha",
+        "govintha",
+        "kobala",
+        "rade",
+        "kovinda",
+        "govindha",
+        "gobala"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-08-28",
+      "sortOrder": 13,
+      "isActive": false,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000031",
+      "artistId": "ar_govindapuram_sri_muralidharadas",
+      "categoryId": "cat_namavali",
+      "titleTa": "பிரியா ராதே",
+      "titleEn": "Priya Radhe",
+      "audioPath": "songs/sg_000031_66abe18b_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 39,
+      "fileSizeBytes": 465120,
+      "tagsTa": [
+        "பிரியா",
+        "ராதே",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "priya",
+        "radhe",
+        "namavali"
+      ],
+      "searchAliases": [
+        "piriya",
+        "rathe",
+        "biriya",
+        "rade"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-08-28",
+      "sortOrder": 14,
+      "isActive": false,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000032",
+      "artistId": "ar_govindapuram_sri_muralidharadas",
+      "categoryId": "cat_namavali",
+      "titleTa": "ஶ்ரீங்கார மதன மோஹன பாண்டுரங்க",
+      "titleEn": "Shringaara Madana Mohana Panduranga",
+      "audioPath": "songs/sg_000032_c6c5cdab_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 40,
+      "fileSizeBytes": 476352,
+      "tagsTa": [
+        "ஶ்ரீங்கார",
+        "மதன",
+        "மோஹன",
+        "பாண்டுரங்க",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "shringaara",
+        "madana",
+        "mohana",
+        "panduranga",
+        "namavali"
+      ],
+      "searchAliases": [
+        "ringkara",
+        "mathana",
+        "panturangka",
+        "ringgara",
+        "madhana",
+        "panturangga",
+        "pandurangka",
+        "banturangka",
+        "pandurangga",
+        "banturangga",
+        "bandurangka",
+        "bandurangga"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-08-28",
+      "sortOrder": 15,
+      "isActive": false,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000033",
+      "artistId": "ar_govindapuram_sri_muralidharadas",
+      "categoryId": "cat_namavali",
+      "titleTa": "ரூப் பஹாதா லோச்சானி",
+      "titleEn": "Roop Pahata Lochani",
+      "audioPath": "songs/sg_000033_ea660ecc_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 34,
+      "fileSizeBytes": 410976,
+      "tagsTa": [
+        "ரூப்",
+        "பஹாதா",
+        "லோச்சானி",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "roop",
+        "pahata",
+        "lochani",
+        "namavali"
+      ],
+      "searchAliases": [
+        "rup",
+        "pahatha",
+        "lossani",
+        "rub",
+        "pahadha",
+        "bahatha",
+        "loschani",
+        "lochsani",
+        "pahada",
+        "bahadha",
+        "lochchani",
+        "bahada"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-08-28",
+      "sortOrder": 16,
+      "isActive": false,
+      "isFeatured": false
     }
   ]
 }
