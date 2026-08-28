@@ -19,6 +19,15 @@
       "songCount": 1,
       "sortOrder": 1,
       "isActive": true
+    },
+    {
+      "id": "ar_govindapuram_sri_balaji_bhagavathar",
+      "nameTa": "கோவிந்தபுரம் ஸ்ரீ பாலாஜி பாகவதர்",
+      "nameEn": "Govindapuram Sri Balaji Bhagavathar",
+      "photoPath": "artists/ar_govindapuram_sri_balaji_bhagavathar_3f71cda2.webp",
+      "songCount": 2,
+      "sortOrder": 3,
+      "isActive": true
     }
   ]
 }

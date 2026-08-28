@@ -979,6 +979,99 @@
       "sortOrder": 27,
       "isActive": true,
       "isFeatured": false
+    },
+    {
+      "id": "sg_000045",
+      "artistId": "ar_govindapuram_sri_balaji_bhagavathar",
+      "categoryId": "cat_bhajanai",
+      "titleTa": "சத்குரு ஞானானந்தா",
+      "titleEn": "sadguru gnanananda",
+      "audioPath": "songs/sg_000045_85fb82a3_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 28,
+      "fileSizeBytes": 338400,
+      "tagsTa": [
+        "சத்குரு",
+        "ஞானானந்தா",
+        "பஜனை"
+      ],
+      "tagsEn": [
+        "sadguru",
+        "gnanananda",
+        "bhajanai"
+      ],
+      "searchAliases": [
+        "sadkuru",
+        "njananantha",
+        "satkuru",
+        "chadkuru",
+        "njananandha",
+        "satguru",
+        "chadguru",
+        "sadhkuru",
+        "chatkuru",
+        "njanananda",
+        "sadhguru",
+        "chatguru",
+        "sathkuru",
+        "chadhkuru",
+        "sathguru",
+        "chadhguru",
+        "chathkuru",
+        "chathguru"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-08-28",
+      "sortOrder": 28,
+      "isActive": true,
+      "isFeatured": true
+    },
+    {
+      "id": "sg_000046",
+      "artistId": "ar_govindapuram_sri_balaji_bhagavathar",
+      "categoryId": "cat_chanting",
+      "titleTa": "ஞானானந்தா ஞானானந்த சத்குரு ஞானானந்தா",
+      "titleEn": "gnanananda gnanananda sadguru gnanananda",
+      "audioPath": "songs/sg_000046_6cb06fbb_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 39,
+      "fileSizeBytes": 472032,
+      "tagsTa": [
+        "ஞானானந்தா",
+        "ஞானானந்த",
+        "சத்குரு",
+        "ஜபம்"
+      ],
+      "tagsEn": [
+        "gnanananda",
+        "sadguru",
+        "chanting"
+      ],
+      "searchAliases": [
+        "njananantha",
+        "sadkuru",
+        "njananandha",
+        "satkuru",
+        "chadkuru",
+        "njanananda",
+        "satguru",
+        "chadguru",
+        "sadhkuru",
+        "chatkuru",
+        "sadhguru",
+        "chatguru",
+        "sathkuru",
+        "chadhkuru",
+        "sathguru",
+        "chadhguru",
+        "chathkuru",
+        "chathguru"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-08-28",
+      "sortOrder": 29,
+      "isActive": true,
+      "isFeatured": false
     }
   ]
 }
