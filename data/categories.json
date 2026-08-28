@@ -21,6 +21,13 @@
       "nameEn": "Bhajanai",
       "sortOrder": 70,
       "isActive": true
+    },
+    {
+      "id": "cat_instrumental",
+      "nameTa": "பக்கவாத்தியம்",
+      "nameEn": "instrumental",
+      "sortOrder": 80,
+      "isActive": true
     }
   ]
 }

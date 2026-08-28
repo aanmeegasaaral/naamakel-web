@@ -548,6 +548,437 @@
       "sortOrder": 16,
       "isActive": true,
       "isFeatured": false
+    },
+    {
+      "id": "sg_000034",
+      "artistId": "ar_govindapuram_sri_muralidharadas",
+      "categoryId": "cat_namavali",
+      "titleTa": "தோஹா விட்டலா பர்வா தோஹா மாதவ பர்வா",
+      "titleEn": "To Ha Vitthal Barva",
+      "audioPath": "songs/sg_000034_d1ad8b49_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 56,
+      "fileSizeBytes": 670176,
+      "tagsTa": [
+        "தோஹா",
+        "விட்டலா",
+        "பர்வா",
+        "மாதவ",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "ha",
+        "vitthal",
+        "barva",
+        "namavali"
+      ],
+      "searchAliases": [
+        "thoha",
+        "vittala",
+        "parva",
+        "mathava",
+        "dhoha",
+        "vitdala",
+        "vidtala",
+        "madhava",
+        "doha",
+        "viddala",
+        "madava"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-08-28",
+      "sortOrder": 17,
+      "isActive": false,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000035",
+      "artistId": "ar_govindapuram_sri_muralidharadas",
+      "categoryId": "cat_instrumental",
+      "titleTa": "ஹார்மோனியம் #1",
+      "titleEn": "Harmonium #1",
+      "audioPath": "songs/sg_000035_52fb6818_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 18,
+      "fileSizeBytes": 220896,
+      "tagsTa": [
+        "ஹார்மோனியம்",
+        "பக்கவாத்தியம்"
+      ],
+      "tagsEn": [
+        "harmonium",
+        "instrumental"
+      ],
+      "searchAliases": [
+        "harmoniyam"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-08-28",
+      "sortOrder": 18,
+      "isActive": false,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000036",
+      "artistId": "ar_govindapuram_sri_muralidharadas",
+      "categoryId": "cat_namavali",
+      "titleTa": "ஹர ஹர போலா நாத உமா பாதே",
+      "titleEn": "Hara Hara Bhola Natha Uma Pathey",
+      "audioPath": "songs/sg_000036_df754400_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 31,
+      "fileSizeBytes": 375552,
+      "tagsTa": [
+        "ஹர",
+        "போலா",
+        "நாத",
+        "உமா",
+        "பாதே",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "hara",
+        "bhola",
+        "natha",
+        "uma",
+        "pathey",
+        "namavali"
+      ],
+      "searchAliases": [
+        "pola",
+        "pathe",
+        "bola",
+        "nadha",
+        "padhe",
+        "bathe",
+        "nada",
+        "pade",
+        "badhe",
+        "bade"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-08-28",
+      "sortOrder": 19,
+      "isActive": false,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000037",
+      "artistId": "ar_govindapuram_sri_muralidharadas",
+      "categoryId": "cat_namavali",
+      "titleTa": "நந்தி வாகனனே, நாக பூஷணனே",
+      "titleEn": "Nandi vahana nagabhushana",
+      "audioPath": "songs/sg_000037_c1bd6e9c_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 60,
+      "fileSizeBytes": 718560,
+      "tagsTa": [
+        "நந்தி",
+        "வாகனனே",
+        "நாக",
+        "பூஷணனே",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "nandi",
+        "vahana",
+        "nagabhushana",
+        "namavali"
+      ],
+      "searchAliases": [
+        "nanthi",
+        "vakanane",
+        "naka",
+        "pushanane",
+        "nandhi",
+        "vaganane",
+        "naga",
+        "pusanane",
+        "bushanane",
+        "busanane"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-08-28",
+      "sortOrder": 20,
+      "isActive": false,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000038",
+      "artistId": "ar_govindapuram_sri_muralidharadas",
+      "categoryId": "cat_namavali",
+      "titleTa": "கங்காதர கங்காதர",
+      "titleEn": "Gangadhara, Gangadhara",
+      "audioPath": "songs/sg_000038_40374b23_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 42,
+      "fileSizeBytes": 506592,
+      "tagsTa": [
+        "கங்காதர",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "gangadhara",
+        "namavali"
+      ],
+      "searchAliases": [
+        "kangkathara",
+        "kangkadhara",
+        "kanggathara",
+        "gangkathara",
+        "kangkadara",
+        "kanggadhara",
+        "gangkadhara",
+        "ganggathara",
+        "kanggadara",
+        "gangkadara",
+        "ganggadhara",
+        "ganggadara"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-08-28",
+      "sortOrder": 21,
+      "isActive": false,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000039",
+      "artistId": "ar_govindapuram_sri_muralidharadas",
+      "categoryId": "cat_namavali",
+      "titleTa": "பச்சை மயில் வாகனனே",
+      "titleEn": "pachai mayil vaahanane",
+      "audioPath": "songs/sg_000039_b8393a1d_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 55,
+      "fileSizeBytes": 665568,
+      "tagsTa": [
+        "பச்சை",
+        "மயில்",
+        "வாகனனே",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "pachai",
+        "mayil",
+        "vaahanane",
+        "namavali"
+      ],
+      "searchAliases": [
+        "passai",
+        "vakanane",
+        "paschai",
+        "pachsai",
+        "bassai",
+        "vaganane",
+        "pachchai",
+        "baschai",
+        "bachsai",
+        "bachchai"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-08-28",
+      "sortOrder": 22,
+      "isActive": false,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000040",
+      "artistId": "ar_govindapuram_sri_muralidharadas",
+      "categoryId": "cat_namavali",
+      "titleTa": "வேலவா வேலவா வேல்முருகா வா வா",
+      "titleEn": "velava velava vel muruga vaa vaa",
+      "audioPath": "songs/sg_000040_13503af6_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 70,
+      "fileSizeBytes": 835488,
+      "tagsTa": [
+        "வேலவா",
+        "வேல்முருகா",
+        "வா",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "velava",
+        "vel",
+        "muruga",
+        "vaa",
+        "namavali"
+      ],
+      "searchAliases": [
+        "velmuruka",
+        "va",
+        "velmuruga"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-08-28",
+      "sortOrder": 23,
+      "isActive": false,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000041",
+      "artistId": "ar_govindapuram_sri_muralidharadas",
+      "categoryId": "cat_namavali",
+      "titleTa": "சீதா பதி ராமச்சந்திர கி ஜெய்",
+      "titleEn": "sita pati ramchandra ki jai",
+      "audioPath": "songs/sg_000041_51c7481e_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 33,
+      "fileSizeBytes": 396576,
+      "tagsTa": [
+        "சீதா",
+        "பதி",
+        "ராமச்சந்திர",
+        "கி",
+        "ஜெய்",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "sita",
+        "pati",
+        "ramchandra",
+        "ki",
+        "namavali"
+      ],
+      "searchAliases": [
+        "sitha",
+        "pathi",
+        "ramassanthira",
+        "jey",
+        "sidha",
+        "chitha",
+        "padhi",
+        "bathi",
+        "ramassandhira",
+        "ramaschanthira",
+        "ramachsanthira",
+        "gi",
+        "sida",
+        "chidha",
+        "padi",
+        "badhi",
+        "ramassandira",
+        "ramaschandhira",
+        "ramachsandhira",
+        "ramachchanthira",
+        "chida",
+        "badi",
+        "ramaschandira",
+        "ramachsandira"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-08-28",
+      "sortOrder": 24,
+      "isActive": false,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000042",
+      "artistId": "ar_govindapuram_sri_muralidharadas",
+      "categoryId": "cat_namavali",
+      "titleTa": "நமஹே நகரி வைகுண்ட பண்டாரி",
+      "titleEn": "Namahe Nagari Vaikunta Pandari",
+      "audioPath": "songs/sg_000042_5fb2ccd9_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 73,
+      "fileSizeBytes": 872928,
+      "tagsTa": [
+        "நமஹே",
+        "நகரி",
+        "வைகுண்ட",
+        "பண்டாரி",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "namahe",
+        "nagari",
+        "vaikunta",
+        "pandari",
+        "namavali"
+      ],
+      "searchAliases": [
+        "nakari",
+        "pantari",
+        "vaikunda",
+        "vaigunta",
+        "bantari",
+        "vaigunda",
+        "bandari"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-08-28",
+      "sortOrder": 25,
+      "isActive": false,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000043",
+      "artistId": "ar_govindapuram_sri_muralidharadas",
+      "categoryId": "cat_namavali",
+      "titleTa": "விட்டல விட்டல பாண்டுரங்கா",
+      "titleEn": "vittala vittala panduranga",
+      "audioPath": "songs/sg_000043_8cf58552_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 31,
+      "fileSizeBytes": 368928,
+      "tagsTa": [
+        "விட்டல",
+        "பாண்டுரங்கா",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "vittala",
+        "panduranga",
+        "namavali"
+      ],
+      "searchAliases": [
+        "panturangka",
+        "vitdala",
+        "vidtala",
+        "panturangga",
+        "pandurangka",
+        "banturangka",
+        "viddala",
+        "pandurangga",
+        "banturangga",
+        "bandurangka",
+        "bandurangga"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-08-28",
+      "sortOrder": 26,
+      "isActive": false,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000044",
+      "artistId": "ar_govindapuram_sri_muralidharadas",
+      "categoryId": "cat_namavali",
+      "titleTa": "ரங்கம்மா மாஜி ரங்கம்மா",
+      "titleEn": "Rangamma Maji Rangamma",
+      "audioPath": "songs/sg_000044_da3cf0c1_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 49,
+      "fileSizeBytes": 583776,
+      "tagsTa": [
+        "ரங்கம்மா",
+        "மாஜி",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "rangamma",
+        "maji",
+        "namavali"
+      ],
+      "searchAliases": [
+        "rangkamma",
+        "ranggamma"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-08-28",
+      "sortOrder": 27,
+      "isActive": false,
+      "isFeatured": false
     }
   ]
 }
