@@ -28,6 +28,24 @@
       "songCount": 2,
       "sortOrder": 3,
       "isActive": true
+    },
+    {
+      "id": "ar_smt_gayathri_magesh",
+      "nameTa": "திருமதி காயத்ரி மகேஷ்",
+      "nameEn": "Smt Gayathri Magesh",
+      "photoPath": "artists/ar_smt_gayathri_magesh_e77d2566.webp",
+      "songCount": 1,
+      "sortOrder": 4,
+      "isActive": true
+    },
+    {
+      "id": "ar_bangalore_sri_karthik_bhagavathar",
+      "nameTa": "பெங்களூர் ஸ்ரீ கார்த்திக் பாகவதர்",
+      "nameEn": "Bangalore Sri Karthik Bhagavathar",
+      "photoPath": "artists/ar_bangalore_sri_karthik_bhagavathar_50319f87.webp",
+      "songCount": 1,
+      "sortOrder": 5,
+      "isActive": true
     }
   ]
 }

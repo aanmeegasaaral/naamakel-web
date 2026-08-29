@@ -1072,6 +1072,93 @@
       "sortOrder": 29,
       "isActive": true,
       "isFeatured": false
+    },
+    {
+      "id": "sg_000047",
+      "artistId": "ar_smt_gayathri_magesh",
+      "categoryId": "cat_bhajanai",
+      "titleTa": "சுந்தர தே தியானா",
+      "titleEn": "Sundarathe Dhyana",
+      "audioPath": "songs/sg_000047_7e7911bc_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 67,
+      "fileSizeBytes": 810144,
+      "tagsTa": [
+        "சுந்தர",
+        "தே",
+        "தியானா",
+        "பஜனை"
+      ],
+      "tagsEn": [
+        "sundarathe",
+        "dhyana",
+        "bhajanai"
+      ],
+      "searchAliases": [
+        "sunthara",
+        "the",
+        "thiyana",
+        "sundhara",
+        "chunthara",
+        "dhe",
+        "dhiyana",
+        "sundara",
+        "chundhara",
+        "de",
+        "diyana",
+        "chundara"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-08-29",
+      "sortOrder": 30,
+      "isActive": true,
+      "isFeatured": true
+    },
+    {
+      "id": "sg_000048",
+      "artistId": "ar_bangalore_sri_karthik_bhagavathar",
+      "categoryId": "cat_bhajanai",
+      "titleTa": "காவடி கொண்டு பழனிமலை வரும் நேரமே",
+      "titleEn": "Kaavadi Kondu Pazhani Malai Varum Nerame",
+      "audioPath": "songs/sg_000048_cc0b0763_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 64,
+      "fileSizeBytes": 763776,
+      "tagsTa": [
+        "காவடி",
+        "கொண்டு",
+        "பழனிமலை",
+        "வரும்",
+        "நேரமே",
+        "பஜனை"
+      ],
+      "tagsEn": [
+        "kaavadi",
+        "kondu",
+        "pazhani",
+        "malai",
+        "varum",
+        "nerame",
+        "bhajanai"
+      ],
+      "searchAliases": [
+        "kavati",
+        "kontu",
+        "pazhanimalai",
+        "kavadi",
+        "gavati",
+        "gontu",
+        "palanimalai",
+        "bazhanimalai",
+        "gavadi",
+        "gondu",
+        "balanimalai"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-08-29",
+      "sortOrder": 31,
+      "isActive": true,
+      "isFeatured": false
     }
   ]
 }
