@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "in.aanmeegasaaral.naamakel",
+      "sha256_cert_fingerprints": [
+        "A7:19:17:94:D3:AD:CD:7D:97:8A:DC:90:94:3B:72:ED:11:D6:B4:7C:DD:5D:9C:F7:CC:E6:87:D0:3D:8F:65:B8",
+        "C5:1D:50:0C:E9:5F:7C:1F:82:7C:62:B5:E2:B8:1D:44:2B:69:33:BD:6F:F1:70:13:83:B7:0F:B7:C4:F9:3A:9B"
+      ]
+    }
+  }
+]
