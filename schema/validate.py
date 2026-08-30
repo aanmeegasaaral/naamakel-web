@@ -58,6 +58,22 @@ def nonempty(d, key, where):
     return True
 
 
+def title_key(title):
+    """What makes two records the same Naama: the English title, case and
+    whitespace ignored.
+
+    Must stay identical to Catalog::titleKey() in naamakel-backend. The two
+    guard the same rule at different moments -- the admin refuses to create a
+    duplicate, this refuses to publish one -- and if they disagreed, the admin
+    would happily save something CI then rejects, with the operator holding a
+    correctly typed record and no way to ship it.
+
+    Deliberately not fuzzy. It decides whether legitimate work is refused, and a
+    false positive there is worse than a miss.
+    """
+    return re.sub(r"\s+", " ", (title or "").strip().lower())
+
+
 def check_manifest(m):
     # Without this the app has no way to fetch categories, and every song would
     # reference an id it can never resolve.
@@ -192,6 +208,44 @@ def check_songs(doc, artists, categories):
         # anyone typing Tanglish - the highest-value content field there is.
         if not song.get("searchAliases"):
             warn("{} ({}): no searchAliases; Tanglish search will miss this song".format(where, sid))
+
+    # ONE ARTIST, ONE RECORDING OF A NAAMA.
+    #
+    # The same Naama from several singers is expected and allowed -- that is
+    # what a version is, and the app lists them as separate rows naming their
+    # artists. But the ARTIST is the only thing distinguishing one version from
+    # another, so two records sharing a title and an artist are the same
+    # recording published twice, with nothing left to tell them apart.
+    #
+    # They also collide where it hurts: the app derives each exported tone's
+    # filename from exactly this pair, and MediaStore deletes by display name
+    # before inserting, so a user who sets the second loses the first one's file
+    # with no error anywhere.
+    #
+    # ACTIVE songs only, on purpose. An inactive draft reaches neither a phone
+    # nor the bundled seed -- the app's own validator filters on isActive -- so
+    # failing the build over two drafts would block publishing to protect
+    # nobody. The admin form refuses to create them at all, which is where that
+    # mistake is cheap to fix. Same split as the categories rules: CI guards
+    # what reaches a user, the form guards the person typing.
+    versions = {}
+    for i, song in enumerate(items):
+        if song.get("isActive") is not True:
+            continue
+        title, aid = song.get("titleEn"), song.get("artistId")
+        if not isinstance(title, str) or not isinstance(aid, str):
+            continue
+        key = (title_key(title), aid)
+        if key[0] == "":
+            continue
+        if key in versions:
+            err("songs[{}] ({}): {!r} is already an active recording by {!r} ({}). "
+                "One artist records a Naama once -- a second version needs a "
+                "different artist. Both of these also export to the same ringtone "
+                "filename, so setting one on a phone deletes the other's file."
+                .format(i, song.get("id"), title, aid, versions[key]))
+        else:
+            versions[key] = song.get("id")
 
     featured = sum(1 for s in items
                    if s.get("isFeatured") is True and s.get("isActive") is True)
