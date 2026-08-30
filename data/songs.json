@@ -1159,6 +1159,41 @@
       "sortOrder": 31,
       "isActive": true,
       "isFeatured": false
+    },
+    {
+      "id": "sg_000049",
+      "artistId": "ar_cuddalore_sri_gopi",
+      "categoryId": "cat_namavali",
+      "titleTa": "ராதே கோவிந்தா",
+      "titleEn": "radhe govinda",
+      "audioPath": "songs/sg_000049_6bcb9036_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 8,
+      "fileSizeBytes": 92259,
+      "tagsTa": [
+        "ராதே",
+        "கோவிந்தா",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "radhe",
+        "govinda",
+        "namavali"
+      ],
+      "searchAliases": [
+        "rathe",
+        "kovintha",
+        "kovindha",
+        "govintha",
+        "rade",
+        "kovinda",
+        "govindha"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-08-30",
+      "sortOrder": 32,
+      "isActive": true,
+      "isFeatured": false
     }
   ]
 }
