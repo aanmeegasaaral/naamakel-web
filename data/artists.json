@@ -4,8 +4,8 @@
   "artists": [
     {
       "id": "ar_govindapuram_sri_muralidharadas",
-      "nameTa": "கோவிந்தபுரம் ஸ்ரீ முரளிதரதாஸ்",
-      "nameEn": "Govindapuram Sri Muralidharadas",
+      "nameTa": "கோவிந்தபுரம் ஸ்ரீ முரளிதரதாஸ் பாகவதர்",
+      "nameEn": "Govindapuram Sri Muralidharadas Bhagavathar",
       "photoPath": "artists/ar_govindapuram_sri_muralidharadas_e7c73acb.webp",
       "songCount": 25,
       "sortOrder": 2,
@@ -13,10 +13,10 @@
     },
     {
       "id": "ar_cuddalore_sri_gopi",
-      "nameTa": "கடலூர் ஸ்ரீ கோபி",
-      "nameEn": "Cuddalore Sri Gopi",
+      "nameTa": "கடலூர் ஸ்ரீ கோபி பாகவதர்",
+      "nameEn": "Cuddalore Sri Gopi Bhagavathar",
       "photoPath": "artists/ar_cuddalore_sri_gopi_1225e5a6.webp",
-      "songCount": 2,
+      "songCount": 1,
       "sortOrder": 1,
       "isActive": true
     },
@@ -45,6 +45,15 @@
       "photoPath": "artists/ar_bangalore_sri_karthik_bhagavathar_50319f87.webp",
       "songCount": 1,
       "sortOrder": 5,
+      "isActive": true
+    },
+    {
+      "id": "ar_dr_sri_ganesh_bhagavathar",
+      "nameTa": "டாக்டர் கணேஷ் பாகவதர்",
+      "nameEn": "Dr Sri Ganesh Bhagavathar",
+      "photoPath": "artists/ar_dr_sri_ganesh_bhagavathar_4ce9208a.webp",
+      "songCount": 11,
+      "sortOrder": 6,
       "isActive": true
     }
   ]
