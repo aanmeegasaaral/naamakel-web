@@ -1,0 +1,5 @@
+# Written by the audio-spec gate to remember which audioPaths have already been
+# measured. Restored from the Actions cache between runs, never committed: it is a
+# per-runner artefact, and this repo is served by GitHub Pages, so anything at the
+# root is publicly fetchable.
+.audio-spec-cache.json

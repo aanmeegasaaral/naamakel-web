@@ -47,3 +47,35 @@ jobs:
       - name: Verify the generated share pages are up to date
         if: always()
         run: python schema/generate-pages.py --check
+
+      # --- the audio standard (plan section 17) --------------------------------
+      #
+      # The step above proves the file EXISTS and is the declared size. It sends a
+      # HEAD request, so it cannot see inside the file: a song in stereo, at 44.1
+      # kHz, or 6 dB louder than everything else passes it without a word. Those
+      # are the faults nobody reports and everybody hears.
+      #
+      # Section 17 requires this to BLOCK: "CI must fail when any active published
+      # song violates the standard... A file that only warns is a file that ships."
+      # Until now check-audio-spec existed only as a script on the backend host, run
+      # by hand, which is the same as not existing.
+      #
+      # Cached because audio filenames carry a content hash and a version and are
+      # served immutably, so a path that measured clean can never change. Steady
+      # state downloads nothing; only new or re-versioned audio is fetched.
+      - name: Restore previously verified audio
+        if: always()
+        uses: actions/cache@v4
+        with:
+          path: .audio-spec-cache.json
+          key: audio-spec-${{ hashFiles('data/songs.json') }}
+          restore-keys: audio-spec-
+
+      - name: Install ffmpeg
+        if: always()
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+
+      # if: always() for the same reason as the step above it.
+      - name: Measure published audio against the house standard
+        if: always()
+        run: python schema/check-audio-spec.py
