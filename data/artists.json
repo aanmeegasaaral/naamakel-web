@@ -55,6 +55,24 @@
       "songCount": 11,
       "sortOrder": 6,
       "isActive": true
+    },
+    {
+      "id": "ar_kadayanallur_sri_rajagopal_das_bhagavathar",
+      "nameTa": "கடையநல்லூர் ஸ்ரீ ராஜகோபால் தாஸ் பாகவதர்",
+      "nameEn": "Kadayanallur Sri Rajagopal Das Bhagavathar",
+      "photoPath": "artists/ar_kadayanallur_sri_rajagopal_das_bhagavathar_be5ca525.webp",
+      "songCount": 4,
+      "sortOrder": 7,
+      "isActive": true
+    },
+    {
+      "id": "ar_chennai_sri_ashwin_kumar_bhagavathar",
+      "nameTa": "சென்னை ஸ்ரீ அஸ்வின் குமார் பாகவதர்",
+      "nameEn": "Chennai Sri Ashwin Kumar Bhagavathar",
+      "photoPath": "artists/ar_chennai_sri_ashwin_kumar_bhagavathar_35b678f2.webp",
+      "songCount": 5,
+      "sortOrder": 8,
+      "isActive": true
     }
   ]
 }

@@ -1631,6 +1631,352 @@
       "sortOrder": 43,
       "isActive": true,
       "isFeatured": false
+    },
+    {
+      "id": "sg_000061",
+      "artistId": "ar_kadayanallur_sri_rajagopal_das_bhagavathar",
+      "categoryId": "cat_bhajanai",
+      "titleTa": "போதேந்திர சத்குரு",
+      "titleEn": "bodhendra sadguru",
+      "audioPath": "songs/sg_000061_962ea843_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 48,
+      "fileSizeBytes": 580364,
+      "tagsTa": [
+        "போதேந்திர",
+        "சத்குரு",
+        "பஜனை"
+      ],
+      "tagsEn": [
+        "bodhendra",
+        "sadguru",
+        "bhajanai"
+      ],
+      "searchAliases": [
+        "pothenthira",
+        "sadkuru",
+        "pothendhira",
+        "podhenthira",
+        "bothenthira",
+        "satkuru",
+        "chadkuru",
+        "pothendira",
+        "podhendhira",
+        "bothendhira",
+        "podenthira",
+        "bodhenthira",
+        "satguru",
+        "chadguru",
+        "sadhkuru",
+        "chatkuru",
+        "podhendira",
+        "bothendira",
+        "podendhira",
+        "bodhendhira",
+        "bodenthira",
+        "sadhguru",
+        "chatguru",
+        "sathkuru"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-03",
+      "sortOrder": 44,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000062",
+      "artistId": "ar_kadayanallur_sri_rajagopal_das_bhagavathar",
+      "categoryId": "cat_bhajanai",
+      "titleTa": "என் மனதுதித்தவனே",
+      "titleEn": "En Manathuthithavane",
+      "audioPath": "songs/sg_000062_a248e298_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 43,
+      "fileSizeBytes": 516716,
+      "tagsTa": [
+        "என்",
+        "மனதுதித்தவனே",
+        "பஜனை"
+      ],
+      "tagsEn": [
+        "en",
+        "manathuthithavane",
+        "bhajanai"
+      ],
+      "searchAliases": [
+        "manathuthidthavane",
+        "manathuthiddhavane",
+        "manathuthitthavane",
+        "manathudhidthavane",
+        "manadhuthidthavane",
+        "manathuthiddavane",
+        "manathuthitdhavane",
+        "manathudhiddhavane",
+        "manadhuthiddhavane",
+        "manathuthidhthavane",
+        "manathudhitthavane",
+        "manadhuthitthavane",
+        "manathudidthavane",
+        "manadhudhidthavane",
+        "manaduthidthavane",
+        "manathuthitdavane"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-03",
+      "sortOrder": 45,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000063",
+      "artistId": "ar_kadayanallur_sri_rajagopal_das_bhagavathar",
+      "categoryId": "cat_chanting",
+      "titleTa": "ஞானானந்தா ஞானானந்த சத்குரு ஞானானந்தா",
+      "titleEn": "gnanananda gnanananda sadguru gnanananda",
+      "audioPath": "songs/sg_000063_2564db0f_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 54,
+      "fileSizeBytes": 648908,
+      "tagsTa": [
+        "ஞானானந்தா",
+        "ஞானானந்த",
+        "சத்குரு",
+        "ஜபம்"
+      ],
+      "tagsEn": [
+        "gnanananda",
+        "sadguru",
+        "chanting"
+      ],
+      "searchAliases": [
+        "njananantha",
+        "sadkuru",
+        "njananandha",
+        "satkuru",
+        "chadkuru",
+        "njanananda",
+        "satguru",
+        "chadguru",
+        "sadhkuru",
+        "chatkuru",
+        "sadhguru",
+        "chatguru",
+        "sathkuru",
+        "chadhkuru",
+        "sathguru",
+        "chadhguru",
+        "chathkuru",
+        "chathguru"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-03",
+      "sortOrder": 46,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000064",
+      "artistId": "ar_kadayanallur_sri_rajagopal_das_bhagavathar",
+      "categoryId": "cat_chanting",
+      "titleTa": "ஸ்ரீ ராம் ஜய் ராம் ஜய் ஜய் ராம்",
+      "titleEn": "Shri Ram Jai Ram Jai Jai Ram",
+      "audioPath": "songs/sg_000064_70de15bb_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 61,
+      "fileSizeBytes": 737900,
+      "tagsTa": [
+        "ஸ்ரீ",
+        "ராம்",
+        "ஜய்",
+        "ஜபம்"
+      ],
+      "tagsEn": [
+        "ram",
+        "chanting"
+      ],
+      "searchAliases": [
+        "sri",
+        "jay"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-03",
+      "sortOrder": 47,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000065",
+      "artistId": "ar_chennai_sri_ashwin_kumar_bhagavathar",
+      "categoryId": "cat_namavali",
+      "titleTa": "ராதே ஷ்யாம் ராதே ஷ்யாம்",
+      "titleEn": "radhe shyam radhe shyam",
+      "audioPath": "songs/sg_000065_155e8127_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 58,
+      "fileSizeBytes": 690380,
+      "tagsTa": [
+        "ராதே",
+        "ஷ்யாம்",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "radhe",
+        "shyam",
+        "namavali"
+      ],
+      "searchAliases": [
+        "rathe",
+        "syam",
+        "rade"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-03",
+      "sortOrder": 48,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000066",
+      "artistId": "ar_chennai_sri_ashwin_kumar_bhagavathar",
+      "categoryId": "cat_bhajanai",
+      "titleTa": "குருநாதன் சரணமே",
+      "titleEn": "Gurunathan Charaname",
+      "audioPath": "songs/sg_000066_cb933749_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 59,
+      "fileSizeBytes": 703340,
+      "tagsTa": [
+        "குருநாதன்",
+        "சரணமே",
+        "பஜனை"
+      ],
+      "tagsEn": [
+        "gurunathan",
+        "charaname",
+        "bhajanai"
+      ],
+      "searchAliases": [
+        "kurunathan",
+        "saraname",
+        "kurunadhan",
+        "kurunadan",
+        "gurunadhan",
+        "gurunadan"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-03",
+      "sortOrder": 49,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000067",
+      "artistId": "ar_chennai_sri_ashwin_kumar_bhagavathar",
+      "categoryId": "cat_namavali",
+      "titleTa": "பன்சிதாரா கன்ஹையா",
+      "titleEn": "Bansidhara Kanhaiya",
+      "audioPath": "songs/sg_000067_cbc29ee6_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 55,
+      "fileSizeBytes": 663020,
+      "tagsTa": [
+        "பன்சிதாரா",
+        "கன்ஹையா",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "bansidhara",
+        "kanhaiya",
+        "namavali"
+      ],
+      "searchAliases": [
+        "pansithara",
+        "pansidhara",
+        "panchithara",
+        "bansithara",
+        "ganhaiya",
+        "pansidara",
+        "panchidhara",
+        "banchithara",
+        "panchidara",
+        "bansidara",
+        "banchidhara",
+        "banchidara"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-03",
+      "sortOrder": 50,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000068",
+      "artistId": "ar_chennai_sri_ashwin_kumar_bhagavathar",
+      "categoryId": "cat_namavali",
+      "titleTa": "ஜெய பிருந்தாவன கோவிந்தா",
+      "titleEn": "Jaya Brindavana Govinda",
+      "audioPath": "songs/sg_000068_4290d12e_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 57,
+      "fileSizeBytes": 685772,
+      "tagsTa": [
+        "ஜெய",
+        "பிருந்தாவன",
+        "கோவிந்தா",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "jaya",
+        "brindavana",
+        "govinda",
+        "namavali"
+      ],
+      "searchAliases": [
+        "jeya",
+        "pirunthavana",
+        "kovintha",
+        "jaia",
+        "pirundhavana",
+        "birunthavana",
+        "prunthavana",
+        "printhavana",
+        "kovindha",
+        "govintha",
+        "pirundavana",
+        "birundhavana",
+        "kovinda",
+        "govindha",
+        "birundavana"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-03",
+      "sortOrder": 51,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000069",
+      "artistId": "ar_chennai_sri_ashwin_kumar_bhagavathar",
+      "categoryId": "cat_namavali",
+      "titleTa": "நாமாவளி #1",
+      "titleEn": "Namavali #1",
+      "audioPath": "songs/sg_000069_9dfe529f_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 55,
+      "fileSizeBytes": 665900,
+      "tagsTa": [
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "namavali"
+      ],
+      "searchAliases": [],
+      "thumbPath": null,
+      "publishedAt": "2026-09-03",
+      "sortOrder": 52,
+      "isActive": true,
+      "isFeatured": false
     }
   ]
 }
