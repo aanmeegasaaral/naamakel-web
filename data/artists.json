@@ -73,6 +73,15 @@
       "songCount": 5,
       "sortOrder": 8,
       "isActive": true
+    },
+    {
+      "id": "ar_kumbakonam_smt_harini_vinoth",
+      "nameTa": "கும்பகோணம் திருமதி ஹரிணி வினோத்",
+      "nameEn": "kumbakonam Smt Harini Vinoth",
+      "photoPath": "artists/ar_kumbakonam_smt_harini_vinoth_bf11495c.webp",
+      "songCount": 11,
+      "sortOrder": 9,
+      "isActive": true
     }
   ]
 }

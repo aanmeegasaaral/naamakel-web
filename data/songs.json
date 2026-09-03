@@ -1977,6 +1977,411 @@
       "sortOrder": 52,
       "isActive": true,
       "isFeatured": false
+    },
+    {
+      "id": "sg_000070",
+      "artistId": "ar_kumbakonam_smt_harini_vinoth",
+      "categoryId": "cat_bhajanai",
+      "titleTa": "மனமே பிரேம பரோ",
+      "titleEn": "Maname Prema Bharo",
+      "audioPath": "songs/sg_000070_927ee26b_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 39,
+      "fileSizeBytes": 470060,
+      "tagsTa": [
+        "மனமே",
+        "பிரேம",
+        "பரோ",
+        "பஜனை"
+      ],
+      "tagsEn": [
+        "maname",
+        "prema",
+        "bharo",
+        "bhajanai"
+      ],
+      "searchAliases": [
+        "pirema",
+        "paro",
+        "birema",
+        "prima",
+        "baro"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-03",
+      "sortOrder": 53,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000071",
+      "artistId": "ar_kumbakonam_smt_harini_vinoth",
+      "categoryId": "cat_namavali",
+      "titleTa": "நீலமேக ஷ்யாமளா",
+      "titleEn": "Nelamangala Shamiyana",
+      "audioPath": "songs/sg_000071_875b45c8_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 57,
+      "fileSizeBytes": 685772,
+      "tagsTa": [
+        "நீலமேக",
+        "ஷ்யாமளா",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "nelamangala",
+        "shamiyana",
+        "namavali"
+      ],
+      "searchAliases": [
+        "nilameka",
+        "shyamala",
+        "nilamega",
+        "syamala"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-03",
+      "sortOrder": 54,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000072",
+      "artistId": "ar_kumbakonam_smt_harini_vinoth",
+      "categoryId": "cat_namavali",
+      "titleTa": "கோவிந்தா கோபாலா",
+      "titleEn": "Govinda Gopala",
+      "audioPath": "songs/sg_000072_8d77bdcf_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 58,
+      "fileSizeBytes": 694700,
+      "tagsTa": [
+        "கோவிந்தா",
+        "கோபாலா",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "govinda",
+        "gopala",
+        "namavali"
+      ],
+      "searchAliases": [
+        "kovintha",
+        "kopala",
+        "kovindha",
+        "govintha",
+        "kobala",
+        "kovinda",
+        "govindha",
+        "gobala"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-03",
+      "sortOrder": 55,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000073",
+      "artistId": "ar_kumbakonam_smt_harini_vinoth",
+      "categoryId": "cat_namavali",
+      "titleTa": "கிருஷ்ண கோவிந்தா கோபா கோபி ஜன வல்லபா",
+      "titleEn": "krishna govinda gopa gopi jana vallabha",
+      "audioPath": "songs/sg_000073_0e0a69fd_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 59,
+      "fileSizeBytes": 707084,
+      "tagsTa": [
+        "கிருஷ்ண",
+        "கோவிந்தா",
+        "கோபா",
+        "கோபி",
+        "ஜன",
+        "வல்லபா",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "krishna",
+        "govinda",
+        "gopa",
+        "gopi",
+        "jana",
+        "vallabha",
+        "namavali"
+      ],
+      "searchAliases": [
+        "kirushna",
+        "kovintha",
+        "kopa",
+        "kopi",
+        "vallapa",
+        "kirusna",
+        "girushna",
+        "krushna",
+        "kovindha",
+        "govintha",
+        "koba",
+        "kobi",
+        "vallaba",
+        "girusna",
+        "kovinda",
+        "govindha",
+        "goba",
+        "gobi"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-03",
+      "sortOrder": 56,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000074",
+      "artistId": "ar_kumbakonam_smt_harini_vinoth",
+      "categoryId": "cat_namavali",
+      "titleTa": "பன்சிதாரா கன்ஹையா",
+      "titleEn": "Bansidhara Kanhaiya",
+      "audioPath": "songs/sg_000074_4b5410ae_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 48,
+      "fileSizeBytes": 575180,
+      "tagsTa": [
+        "பன்சிதாரா",
+        "கன்ஹையா",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "bansidhara",
+        "kanhaiya",
+        "namavali"
+      ],
+      "searchAliases": [
+        "pansithara",
+        "pansidhara",
+        "panchithara",
+        "bansithara",
+        "ganhaiya",
+        "pansidara",
+        "panchidhara",
+        "banchithara",
+        "panchidara",
+        "bansidara",
+        "banchidhara",
+        "banchidara"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-03",
+      "sortOrder": 57,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000075",
+      "artistId": "ar_kumbakonam_smt_harini_vinoth",
+      "categoryId": "cat_namavali",
+      "titleTa": "ராதே கோவிந்தா",
+      "titleEn": "radhe govinda",
+      "audioPath": "songs/sg_000075_f6d106e9_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 32,
+      "fileSizeBytes": 381932,
+      "tagsTa": [
+        "ராதே",
+        "கோவிந்தா",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "radhe",
+        "govinda",
+        "namavali"
+      ],
+      "searchAliases": [
+        "rathe",
+        "kovintha",
+        "kovindha",
+        "govintha",
+        "rade",
+        "kovinda",
+        "govindha"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-03",
+      "sortOrder": 58,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000076",
+      "artistId": "ar_kumbakonam_smt_harini_vinoth",
+      "categoryId": "cat_namavali",
+      "titleTa": "வனமாலி ராதா ரமணா",
+      "titleEn": "Vanamali Radha Ramana",
+      "audioPath": "songs/sg_000076_fcbdbcf0_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 56,
+      "fileSizeBytes": 677420,
+      "tagsTa": [
+        "வனமாலி",
+        "ராதா",
+        "ரமணா",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "vanamali",
+        "radha",
+        "ramana",
+        "namavali"
+      ],
+      "searchAliases": [
+        "ratha",
+        "rada"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-03",
+      "sortOrder": 59,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000077",
+      "artistId": "ar_kumbakonam_smt_harini_vinoth",
+      "categoryId": "cat_bhajanai",
+      "titleTa": "யமுனா தீர விஹாரி",
+      "titleEn": "yamuna theera vihari",
+      "audioPath": "songs/sg_000077_8bbfa951_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 53,
+      "fileSizeBytes": 635372,
+      "tagsTa": [
+        "யமுனா",
+        "தீர",
+        "விஹாரி",
+        "பஜனை"
+      ],
+      "tagsEn": [
+        "yamuna",
+        "theera",
+        "vihari",
+        "bhajanai"
+      ],
+      "searchAliases": [
+        "thira",
+        "dhira",
+        "thra",
+        "thri",
+        "dira"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-03",
+      "sortOrder": 60,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000078",
+      "artistId": "ar_kumbakonam_smt_harini_vinoth",
+      "categoryId": "cat_bhajanai",
+      "titleTa": "ராஜாதி ராஜா",
+      "titleEn": "Rajathi Raja",
+      "audioPath": "songs/sg_000078_4ac00663_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 59,
+      "fileSizeBytes": 709388,
+      "tagsTa": [
+        "ராஜாதி",
+        "ராஜா",
+        "பஜனை"
+      ],
+      "tagsEn": [
+        "rajathi",
+        "raja",
+        "bhajanai"
+      ],
+      "searchAliases": [
+        "rajadhi",
+        "rajadi"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-03",
+      "sortOrder": 61,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000079",
+      "artistId": "ar_kumbakonam_smt_harini_vinoth",
+      "categoryId": "cat_namavali",
+      "titleTa": "ஜய கோவிந்தா ஜய கோபாலா",
+      "titleEn": "jaya govinda jaya gopala",
+      "audioPath": "songs/sg_000079_6227d560_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 56,
+      "fileSizeBytes": 676268,
+      "tagsTa": [
+        "ஜய",
+        "கோவிந்தா",
+        "கோபாலா",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "jaya",
+        "govinda",
+        "gopala",
+        "namavali"
+      ],
+      "searchAliases": [
+        "kovintha",
+        "kopala",
+        "kovindha",
+        "govintha",
+        "kobala",
+        "kovinda",
+        "govindha",
+        "gobala"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-03",
+      "sortOrder": 62,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000080",
+      "artistId": "ar_kumbakonam_smt_harini_vinoth",
+      "categoryId": "cat_namavali",
+      "titleTa": "கல்யாண கிருஷ்ணா கமனீய கிருஷ்ணா",
+      "titleEn": "Kalyana Krishna Kamaneeya Krishna",
+      "audioPath": "songs/sg_000080_3b7089ad_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 57,
+      "fileSizeBytes": 683180,
+      "tagsTa": [
+        "கல்யாண",
+        "கிருஷ்ணா",
+        "கமனீய",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "kalyana",
+        "krishna",
+        "kamaneeya",
+        "namavali"
+      ],
+      "searchAliases": [
+        "kirushna",
+        "kamaniya",
+        "galyana",
+        "kirusna",
+        "girushna",
+        "krushna",
+        "gamaniya",
+        "girusna"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-03",
+      "sortOrder": 63,
+      "isActive": true,
+      "isFeatured": true
     }
   ]
 }
