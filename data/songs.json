@@ -2382,6 +2382,638 @@
       "sortOrder": 63,
       "isActive": true,
       "isFeatured": true
+    },
+    {
+      "id": "sg_000081",
+      "artistId": "ar_chennai_sri_adithya_ramesh_bhagavathar",
+      "categoryId": "cat_namavali",
+      "titleTa": "கோவிந்தா கோபாலா",
+      "titleEn": "Govinda Gopala",
+      "audioPath": "songs/sg_000081_c1052701_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 61,
+      "fileSizeBytes": 737324,
+      "tagsTa": [
+        "கோவிந்தா",
+        "கோபாலா",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "govinda",
+        "gopala",
+        "namavali"
+      ],
+      "searchAliases": [
+        "kovintha",
+        "kopala",
+        "kovindha",
+        "govintha",
+        "kobala",
+        "kovinda",
+        "govindha",
+        "gobala"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-04",
+      "sortOrder": 64,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000082",
+      "artistId": "ar_chennai_sri_adithya_ramesh_bhagavathar",
+      "categoryId": "cat_bhajanai",
+      "titleTa": "நாமாவளி #2",
+      "titleEn": "Namavali #2",
+      "audioPath": "songs/sg_000082_7534ffc7_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 54,
+      "fileSizeBytes": 644876,
+      "tagsTa": [
+        "நாமாவளி",
+        "பஜனை"
+      ],
+      "tagsEn": [
+        "namavali",
+        "bhajanai"
+      ],
+      "searchAliases": [],
+      "thumbPath": null,
+      "publishedAt": "2026-09-04",
+      "sortOrder": 65,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000083",
+      "artistId": "ar_chennai_sri_adithya_ramesh_bhagavathar",
+      "categoryId": "cat_namavali",
+      "titleTa": "ஜெகந்நாத் ஜி ஜெகந்நாத் ஜி",
+      "titleEn": "jagannath ji jagannath ji",
+      "audioPath": "songs/sg_000083_050e0f11_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 59,
+      "fileSizeBytes": 708236,
+      "tagsTa": [
+        "ஜெகந்நாத்",
+        "ஜி",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "jagannath",
+        "ji",
+        "namavali"
+      ],
+      "searchAliases": [
+        "jekannad",
+        "jekannat",
+        "jegannad",
+        "jekannadh",
+        "jegannat",
+        "jekannath",
+        "jegannadh",
+        "jegannath"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-04",
+      "sortOrder": 66,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000084",
+      "artistId": "ar_chennai_sri_adithya_ramesh_bhagavathar",
+      "categoryId": "cat_bhajanai",
+      "titleTa": "ஹே மாதவா மதுசூதனா",
+      "titleEn": "Hey Madhava Madhusudana",
+      "audioPath": "songs/sg_000084_90f77983_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 60,
+      "fileSizeBytes": 725228,
+      "tagsTa": [
+        "ஹே",
+        "மாதவா",
+        "மதுசூதனா",
+        "பஜனை"
+      ],
+      "tagsEn": [
+        "hey",
+        "madhava",
+        "madhusudana",
+        "bhajanai"
+      ],
+      "searchAliases": [
+        "he",
+        "mathava",
+        "mathusuthana",
+        "mathusudhana",
+        "mathuchuthana",
+        "madhusuthana",
+        "madava",
+        "mathusudana",
+        "mathuchudhana",
+        "madhusudhana",
+        "madhuchuthana",
+        "madusuthana",
+        "mathuchudana",
+        "madhuchudhana",
+        "madusudhana",
+        "maduchuthana",
+        "madhuchudana",
+        "madusudana"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-04",
+      "sortOrder": 67,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000085",
+      "artistId": "ar_chennai_sri_adithya_ramesh_bhagavathar",
+      "categoryId": "cat_namavali",
+      "titleTa": "முரளிதரா மனமோகனா",
+      "titleEn": "muralidhara manamohana",
+      "audioPath": "songs/sg_000085_b6f48e98_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 56,
+      "fileSizeBytes": 670508,
+      "tagsTa": [
+        "முரளிதரா",
+        "மனமோகனா",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "muralidhara",
+        "manamohana",
+        "namavali"
+      ],
+      "searchAliases": [
+        "muralithara",
+        "manamokana",
+        "mralithara",
+        "mrulithara",
+        "manamogana",
+        "muralidara"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-04",
+      "sortOrder": 68,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000086",
+      "artistId": "ar_chennai_sri_adithya_ramesh_bhagavathar",
+      "categoryId": "cat_namavali",
+      "titleTa": "ஜெய் ராதா ரமணா",
+      "titleEn": "Jay Radha Ramana",
+      "audioPath": "songs/sg_000086_56f9b0e7_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 55,
+      "fileSizeBytes": 654380,
+      "tagsTa": [
+        "ஜெய்",
+        "ராதா",
+        "ரமணா",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "jay",
+        "radha",
+        "ramana",
+        "namavali"
+      ],
+      "searchAliases": [
+        "jey",
+        "ratha",
+        "jai",
+        "rada"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-04",
+      "sortOrder": 69,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000087",
+      "artistId": "ar_chennai_sri_adithya_ramesh_bhagavathar",
+      "categoryId": "cat_namavali",
+      "titleTa": "கிருஷ்ண கோவிந்தா கோபா கோபி ஜன வல்லபா",
+      "titleEn": "krishna govinda gopa gopi jana vallabha",
+      "audioPath": "songs/sg_000087_d17d6528_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 43,
+      "fileSizeBytes": 519020,
+      "tagsTa": [
+        "கிருஷ்ண",
+        "கோவிந்தா",
+        "கோபா",
+        "கோபி",
+        "ஜன",
+        "வல்லபா",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "krishna",
+        "govinda",
+        "gopa",
+        "gopi",
+        "jana",
+        "vallabha",
+        "namavali"
+      ],
+      "searchAliases": [
+        "kirushna",
+        "kovintha",
+        "kopa",
+        "kopi",
+        "vallapa",
+        "kirusna",
+        "girushna",
+        "krushna",
+        "kovindha",
+        "govintha",
+        "koba",
+        "kobi",
+        "vallaba",
+        "girusna",
+        "kovinda",
+        "govindha",
+        "goba",
+        "gobi"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-04",
+      "sortOrder": 70,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000088",
+      "artistId": "ar_chennai_sri_adithya_ramesh_bhagavathar",
+      "categoryId": "cat_bhajanai",
+      "titleTa": "யமுனா தீர விஹாரி",
+      "titleEn": "yamuna theera vihari",
+      "audioPath": "songs/sg_000088_b871fc4d_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 59,
+      "fileSizeBytes": 708236,
+      "tagsTa": [
+        "யமுனா",
+        "தீர",
+        "விஹாரி",
+        "பஜனை"
+      ],
+      "tagsEn": [
+        "yamuna",
+        "theera",
+        "vihari",
+        "bhajanai"
+      ],
+      "searchAliases": [
+        "thira",
+        "dhira",
+        "thra",
+        "thri",
+        "dira"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-04",
+      "sortOrder": 71,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000089",
+      "artistId": "ar_chennai_sri_adithya_ramesh_bhagavathar",
+      "categoryId": "cat_namavali",
+      "titleTa": "ஸ்ரீ மாதுரி ஸ்ரீ மாதுரி",
+      "titleEn": "Sri Madhuri Sri Madhuri",
+      "audioPath": "songs/sg_000089_8a0e7a93_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 61,
+      "fileSizeBytes": 726668,
+      "tagsTa": [
+        "ஸ்ரீ",
+        "மாதுரி",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "madhuri",
+        "namavali"
+      ],
+      "searchAliases": [
+        "mathuri",
+        "shri",
+        "maduri"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-04",
+      "sortOrder": 72,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000090",
+      "artistId": "ar_chennai_sri_adithya_ramesh_bhagavathar",
+      "categoryId": "cat_chanting",
+      "titleTa": "ஜெய் ஜெய் ராம கிருஷ்ண ஹரி",
+      "titleEn": "jay jay ram krishna hari",
+      "audioPath": "songs/sg_000090_8e978831_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 62,
+      "fileSizeBytes": 747116,
+      "tagsTa": [
+        "ஜெய்",
+        "ராம",
+        "கிருஷ்ண",
+        "ஹரி",
+        "ஜபம்"
+      ],
+      "tagsEn": [
+        "jay",
+        "ram",
+        "krishna",
+        "hari",
+        "chanting"
+      ],
+      "searchAliases": [
+        "jey",
+        "rama",
+        "kirushna",
+        "jai",
+        "kirusna",
+        "girushna",
+        "krushna",
+        "girusna"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-04",
+      "sortOrder": 73,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000091",
+      "artistId": "ar_chennai_sri_adithya_ramesh_bhagavathar",
+      "categoryId": "cat_namavali",
+      "titleTa": "யேஹி கோபால ஸ்ரீ வனமாலா",
+      "titleEn": "Yehi Gopala Sri Vanamala",
+      "audioPath": "songs/sg_000091_05fc4bc2_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 56,
+      "fileSizeBytes": 674252,
+      "tagsTa": [
+        "யேஹி",
+        "கோபால",
+        "ஸ்ரீ",
+        "வனமாலா",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "yehi",
+        "gopala",
+        "vanamala",
+        "namavali"
+      ],
+      "searchAliases": [
+        "kopala",
+        "kobala",
+        "shri",
+        "gobala"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-04",
+      "sortOrder": 74,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000092",
+      "artistId": "ar_chennai_sri_adithya_ramesh_bhagavathar",
+      "categoryId": "cat_namavali",
+      "titleTa": "ஶ்ரீங்கார மதன மோஹன பாண்டுரங்க",
+      "titleEn": "Shringaara Madana Mohana Panduranga",
+      "audioPath": "songs/sg_000092_519c6a69_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 57,
+      "fileSizeBytes": 688940,
+      "tagsTa": [
+        "ஶ்ரீங்கார",
+        "மதன",
+        "மோஹன",
+        "பாண்டுரங்க",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "shringaara",
+        "madana",
+        "mohana",
+        "panduranga",
+        "namavali"
+      ],
+      "searchAliases": [
+        "ringkara",
+        "mathana",
+        "panturangka",
+        "ringgara",
+        "madhana",
+        "panturangga",
+        "pandurangka",
+        "banturangka",
+        "pandurangga",
+        "banturangga",
+        "bandurangka",
+        "bandurangga"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-04",
+      "sortOrder": 75,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000093",
+      "artistId": "ar_chennai_sri_adithya_ramesh_bhagavathar",
+      "categoryId": "cat_namavali",
+      "titleTa": "கோலாஹல பக்த கோலாஹல",
+      "titleEn": "Kolahala Bhakta Kolahala",
+      "audioPath": "songs/sg_000093_ad11317f_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 51,
+      "fileSizeBytes": 616076,
+      "tagsTa": [
+        "கோலாஹல",
+        "பக்த",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "kolahala",
+        "bhakta",
+        "namavali"
+      ],
+      "searchAliases": [
+        "paktha",
+        "golahala",
+        "pakdha",
+        "pagtha",
+        "baktha",
+        "pakda",
+        "pagdha",
+        "bakdha",
+        "bagtha",
+        "pagda",
+        "bakda",
+        "bagdha",
+        "bagda"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-04",
+      "sortOrder": 76,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000094",
+      "artistId": "ar_chennai_sri_adithya_ramesh_bhagavathar",
+      "categoryId": "cat_namavali",
+      "titleTa": "சித்த சோரா",
+      "titleEn": "Siddha Sora",
+      "audioPath": "songs/sg_000094_e1a09405_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 59,
+      "fileSizeBytes": 703052,
+      "tagsTa": [
+        "சித்த",
+        "சோரா",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "siddha",
+        "sora",
+        "namavali"
+      ],
+      "searchAliases": [
+        "sidtha",
+        "sittha",
+        "chidtha",
+        "chora",
+        "sidda",
+        "sitdha",
+        "chiddha",
+        "sidhtha",
+        "chittha",
+        "sitda",
+        "chidda",
+        "sidhdha",
+        "chitdha",
+        "siththa",
+        "chidhtha",
+        "sidhda"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-04",
+      "sortOrder": 77,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000095",
+      "artistId": "ar_chennai_sri_adithya_ramesh_bhagavathar",
+      "categoryId": "cat_bhajanai",
+      "titleTa": "செல்வா முத்து குமாரன்",
+      "titleEn": "selva muthu kumaran",
+      "audioPath": "songs/sg_000095_603a9952_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 47,
+      "fileSizeBytes": 567980,
+      "tagsTa": [
+        "செல்வா",
+        "முத்து",
+        "குமாரன்",
+        "பஜனை"
+      ],
+      "tagsEn": [
+        "selva",
+        "muthu",
+        "kumaran",
+        "bhajanai"
+      ],
+      "searchAliases": [
+        "mudthu",
+        "chelva",
+        "muddhu",
+        "mutthu",
+        "gumaran",
+        "muddu",
+        "mutdhu",
+        "mudhthu",
+        "mutdu",
+        "mudhdhu",
+        "muththu",
+        "mudhdu",
+        "muthdhu",
+        "muthdu"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-04",
+      "sortOrder": 78,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000096",
+      "artistId": "ar_chennai_sri_adithya_ramesh_bhagavathar",
+      "categoryId": "cat_namavali",
+      "titleTa": "முத்தான முத்துகுமாரா",
+      "titleEn": "muthana muthukumara",
+      "audioPath": "songs/sg_000096_b109e279_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 61,
+      "fileSizeBytes": 738188,
+      "tagsTa": [
+        "முத்தான",
+        "முத்துகுமாரா",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "muthana",
+        "muthukumara",
+        "namavali"
+      ],
+      "searchAliases": [
+        "mudthana",
+        "mudthukumara",
+        "muddhana",
+        "mutthana",
+        "mudthugumara",
+        "muddhukumara",
+        "mutthukumara",
+        "muddana",
+        "mutdhana",
+        "mudhthana",
+        "muddhugumara",
+        "mutthugumara",
+        "muddukumara",
+        "mutdhukumara",
+        "mudhthukumara",
+        "mutdana",
+        "mudhdhana",
+        "muththana",
+        "muddugumara",
+        "mutdhugumara",
+        "mudhthugumara",
+        "mutdukumara",
+        "mudhdhukumara",
+        "muththukumara"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-04",
+      "sortOrder": 79,
+      "isActive": true,
+      "isFeatured": false
     }
   ]
 }

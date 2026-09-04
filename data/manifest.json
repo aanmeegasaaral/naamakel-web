@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "dataVersion": 32,
-  "updatedAt": "2026-09-03T16:02:24Z",
+  "dataVersion": 33,
+  "updatedAt": "2026-09-04T03:31:54Z",
   "artistsUrl": "https://naamaakel.aanmeegasaaral.in/data/artists.json",
   "songsUrl": "https://naamaakel.aanmeegasaaral.in/data/songs.json",
   "categoriesUrl": "https://naamaakel.aanmeegasaaral.in/data/categories.json",
@@ -22,5 +22,5 @@
     "en": "",
     "expiresAt": null
   },
-  "lastSongId": 80
+  "lastSongId": 96
 }

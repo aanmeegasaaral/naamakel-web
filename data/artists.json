@@ -82,6 +82,15 @@
       "songCount": 11,
       "sortOrder": 9,
       "isActive": true
+    },
+    {
+      "id": "ar_chennai_sri_adithya_ramesh_bhagavathar",
+      "nameTa": "சென்னை ஸ்ரீ ஆதித்ய ரமேஷ் பாகவதர்",
+      "nameEn": "Chennai Sri Adithya Ramesh Bhagavathar",
+      "photoPath": "artists/ar_chennai_sri_adithya_ramesh_bhagavathar_b3a38ee9.webp",
+      "songCount": 16,
+      "sortOrder": 10,
+      "isActive": true
     }
   ]
 }
