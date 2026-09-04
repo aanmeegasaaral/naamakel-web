@@ -3014,6 +3014,158 @@
       "sortOrder": 79,
       "isActive": true,
       "isFeatured": false
+    },
+    {
+      "id": "sg_000097",
+      "artistId": "ar_sri_briga_balu_bhagavathar",
+      "categoryId": "cat_bhajanai",
+      "titleTa": "போலோ போலோ சப் மில் போலோ ஓம் நம சிவாய",
+      "titleEn": "Bolo Bolo Sab Mil Bolo Om Namah Shivaya",
+      "audioPath": "songs/sg_000097_47b73ddb_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 55,
+      "fileSizeBytes": 665036,
+      "tagsTa": [
+        "போலோ",
+        "சப்",
+        "மில்",
+        "ஓம்",
+        "நம",
+        "சிவாய",
+        "பஜனை"
+      ],
+      "tagsEn": [
+        "bolo",
+        "sab",
+        "mil",
+        "om",
+        "namah",
+        "shivaya",
+        "bhajanai"
+      ],
+      "searchAliases": [
+        "polo",
+        "sap",
+        "nama",
+        "sivaya",
+        "chap",
+        "chivaya",
+        "chab"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-04",
+      "sortOrder": 80,
+      "isActive": true,
+      "isFeatured": true
+    },
+    {
+      "id": "sg_000098",
+      "artistId": "ar_sri_briga_balu_bhagavathar",
+      "categoryId": "cat_chanting",
+      "titleTa": "ஓம் நம சிவாய",
+      "titleEn": "Om Namah Shivaya",
+      "audioPath": "songs/sg_000098_c2b926ff_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 59,
+      "fileSizeBytes": 704780,
+      "tagsTa": [
+        "ஓம்",
+        "நம",
+        "சிவாய",
+        "ஜபம்"
+      ],
+      "tagsEn": [
+        "om",
+        "namah",
+        "shivaya",
+        "chanting"
+      ],
+      "searchAliases": [
+        "nama",
+        "sivaya",
+        "chivaya"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-04",
+      "sortOrder": 81,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000099",
+      "artistId": "ar_cuddalore_sri_gopi",
+      "categoryId": "cat_namavali",
+      "titleTa": "கேசவ ஸ்ரீதர கிருஷ்ணா நந்தனா",
+      "titleEn": "Keshava Sridhara krishna nandana",
+      "audioPath": "songs/sg_000099_0ccfc9db_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 60,
+      "fileSizeBytes": 723500,
+      "tagsTa": [
+        "கேசவ",
+        "ஸ்ரீதர",
+        "கிருஷ்ணா",
+        "நந்தனா",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "keshava",
+        "sridhara",
+        "krishna",
+        "nandana",
+        "namavali"
+      ],
+      "searchAliases": [
+        "kesava",
+        "srithara",
+        "kirushna",
+        "nanthana",
+        "kechava",
+        "gesava",
+        "shrithara",
+        "kirusna",
+        "girushna",
+        "krushna",
+        "nandhana",
+        "gechava",
+        "sridara",
+        "shridhara",
+        "girusna",
+        "shridara"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-04",
+      "sortOrder": 82,
+      "isActive": true,
+      "isFeatured": true
+    },
+    {
+      "id": "sg_000100",
+      "artistId": "ar_cuddalore_sri_gopi",
+      "categoryId": "cat_namavali",
+      "titleTa": "ராதே ராதே",
+      "titleEn": "Radhe Radhe",
+      "audioPath": "songs/sg_000100_9e6759d8_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 60,
+      "fileSizeBytes": 723500,
+      "tagsTa": [
+        "ராதே",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "radhe",
+        "namavali"
+      ],
+      "searchAliases": [
+        "rathe",
+        "rade"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-04",
+      "sortOrder": 83,
+      "isActive": true,
+      "isFeatured": false
     }
   ]
 }

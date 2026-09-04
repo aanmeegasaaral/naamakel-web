@@ -16,7 +16,7 @@
       "nameTa": "கடலூர் ஸ்ரீ கோபி பாகவதர்",
       "nameEn": "Cuddalore Sri Gopi Bhagavathar",
       "photoPath": "artists/ar_cuddalore_sri_gopi_1225e5a6.webp",
-      "songCount": 1,
+      "songCount": 3,
       "sortOrder": 1,
       "isActive": true
     },
@@ -90,6 +90,15 @@
       "photoPath": "artists/ar_chennai_sri_adithya_ramesh_bhagavathar_b3a38ee9.webp",
       "songCount": 16,
       "sortOrder": 10,
+      "isActive": true
+    },
+    {
+      "id": "ar_sri_briga_balu_bhagavathar",
+      "nameTa": "ஸ்ரீ ப்ரிகா பாலு பாகவதர்",
+      "nameEn": "Sri Briga Balu bhagavathar",
+      "photoPath": "artists/ar_sri_briga_balu_bhagavathar_fcc69cc0.webp",
+      "songCount": 2,
+      "sortOrder": 11,
       "isActive": true
     }
   ]
