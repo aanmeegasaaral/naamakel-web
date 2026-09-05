@@ -1960,7 +1960,7 @@
       "artistId": "ar_chennai_sri_ashwin_kumar_bhagavathar",
       "categoryId": "cat_namavali",
       "titleTa": "நாமாவளி #1",
-      "titleEn": "Namavali #1",
+      "titleEn": "Naamavali #1",
       "audioPath": "songs/sg_000069_9dfe529f_v1.mp3",
       "audioVersion": 1,
       "durationSec": 55,
@@ -1971,7 +1971,9 @@
       "tagsEn": [
         "namavali"
       ],
-      "searchAliases": [],
+      "searchAliases": [
+        "namavali"
+      ],
       "thumbPath": null,
       "publishedAt": "2026-09-03",
       "sortOrder": 52,
@@ -2424,7 +2426,7 @@
       "artistId": "ar_chennai_sri_adithya_ramesh_bhagavathar",
       "categoryId": "cat_bhajanai",
       "titleTa": "நாமாவளி #2",
-      "titleEn": "Namavali #2",
+      "titleEn": "Naamavali #2",
       "audioPath": "songs/sg_000082_7534ffc7_v1.mp3",
       "audioVersion": 1,
       "durationSec": 54,
@@ -2437,7 +2439,9 @@
         "namavali",
         "bhajanai"
       ],
-      "searchAliases": [],
+      "searchAliases": [
+        "namavali"
+      ],
       "thumbPath": null,
       "publishedAt": "2026-09-04",
       "sortOrder": 65,
@@ -3165,6 +3169,390 @@
       "publishedAt": "2026-09-04",
       "sortOrder": 83,
       "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000101",
+      "artistId": "ar_ambattur_sri_manikandan_bhagavathar",
+      "categoryId": "cat_bhajanai",
+      "titleTa": "சத்குரு சரணாரவிந்தம்",
+      "titleEn": "Sadhguru charana vindham",
+      "audioPath": "songs/sg_000101_105b0d7b_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 60,
+      "fileSizeBytes": 716300,
+      "tagsTa": [
+        "சத்குரு",
+        "சரணாரவிந்தம்",
+        "பஜனை"
+      ],
+      "tagsEn": [
+        "sadhguru",
+        "charana",
+        "vindham",
+        "bhajanai"
+      ],
+      "searchAliases": [
+        "sadkuru",
+        "saranaravintham",
+        "sadguru",
+        "satkuru",
+        "chadkuru",
+        "saranaravindham",
+        "charanaravintham",
+        "satguru",
+        "chadguru",
+        "sadhkuru",
+        "chatkuru",
+        "saranaravindam",
+        "charanaravindham",
+        "chatguru",
+        "sathkuru",
+        "chadhkuru",
+        "charanaravindam",
+        "sathguru",
+        "chadhguru",
+        "chathkuru",
+        "chathguru"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-05",
+      "sortOrder": 84,
+      "isActive": false,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000102",
+      "artistId": "ar_ambattur_sri_manikandan_bhagavathar",
+      "categoryId": "cat_namavali",
+      "titleTa": "நாமாவளி #3",
+      "titleEn": "Naamavali #3",
+      "audioPath": "songs/sg_000102_581f0963_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 53,
+      "fileSizeBytes": 641420,
+      "tagsTa": [
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "naamavali",
+        "namavali"
+      ],
+      "searchAliases": [
+        "namavali"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-05",
+      "sortOrder": 85,
+      "isActive": false,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000103",
+      "artistId": "ar_ambattur_sri_manikandan_bhagavathar",
+      "categoryId": "cat_namavali",
+      "titleTa": "ஆண்டவனே குருநாத ஞானானந்தா",
+      "titleEn": "Aandavane Gurunath Gnanananda",
+      "audioPath": "songs/sg_000103_6fe91d19_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 55,
+      "fileSizeBytes": 661292,
+      "tagsTa": [
+        "ஆண்டவனே",
+        "குருநாத",
+        "ஞானானந்தா",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "aandavane",
+        "gurunath",
+        "gnanananda",
+        "namavali"
+      ],
+      "searchAliases": [
+        "antavane",
+        "kurunatha",
+        "njananantha",
+        "andavane",
+        "kurunadha",
+        "gurunatha",
+        "njananandha",
+        "kurunada",
+        "gurunadha",
+        "njanananda",
+        "gurunada"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-05",
+      "sortOrder": 86,
+      "isActive": false,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000104",
+      "artistId": "ar_ambattur_sri_manikandan_bhagavathar",
+      "categoryId": "cat_bhajanai",
+      "titleTa": "ஸ்ரீ சக்ர ராஜ சிம்ஹாசனேஷ்வரி",
+      "titleEn": "Sri Chakra Raja Simhasaneshwari",
+      "audioPath": "songs/sg_000104_eb5d0268_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 63,
+      "fileSizeBytes": 752876,
+      "tagsTa": [
+        "ஸ்ரீ",
+        "சக்ர",
+        "ராஜ",
+        "சிம்ஹாசனேஷ்வரி",
+        "பஜனை"
+      ],
+      "tagsEn": [
+        "chakra",
+        "raja",
+        "simhasaneshwari",
+        "bhajanai"
+      ],
+      "searchAliases": [
+        "sakra",
+        "simhasaneshvari",
+        "shri",
+        "sagra",
+        "simhasanesvari",
+        "simhachaneshvari",
+        "chimhasaneshvari",
+        "chagra",
+        "simhachanesvari",
+        "chimhasanesvari",
+        "chimhachaneshvari",
+        "chimhachanesvari"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-05",
+      "sortOrder": 87,
+      "isActive": false,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000105",
+      "artistId": "ar_ambattur_sri_manikandan_bhagavathar",
+      "categoryId": "cat_chanting",
+      "titleTa": "ஜெய் ஜெய் ராம் சீதா ராம்",
+      "titleEn": "jay jay ram sita ram",
+      "audioPath": "songs/sg_000105_9c569adf_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 51,
+      "fileSizeBytes": 614060,
+      "tagsTa": [
+        "ஜெய்",
+        "ராம்",
+        "சீதா",
+        "ஜபம்"
+      ],
+      "tagsEn": [
+        "jay",
+        "ram",
+        "sita",
+        "chanting"
+      ],
+      "searchAliases": [
+        "jey",
+        "sitha",
+        "jai",
+        "sidha",
+        "chitha",
+        "sida",
+        "chidha",
+        "chida"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-05",
+      "sortOrder": 88,
+      "isActive": false,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000106",
+      "artistId": "ar_ambattur_sri_manikandan_bhagavathar",
+      "categoryId": "cat_namavali",
+      "titleTa": "ராமகிருஷ்ண கோவிந்த ஜனார்த்தன",
+      "titleEn": "ramakrishna govinda janardhana",
+      "audioPath": "songs/sg_000106_4f4a1e3a_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 57,
+      "fileSizeBytes": 680300,
+      "tagsTa": [
+        "ராமகிருஷ்ண",
+        "கோவிந்த",
+        "ஜனார்த்தன",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "ramakrishna",
+        "govinda",
+        "janardhana",
+        "namavali"
+      ],
+      "searchAliases": [
+        "ramakirushna",
+        "kovintha",
+        "janardthana",
+        "ramakirusna",
+        "ramagirushna",
+        "kovindha",
+        "govintha",
+        "janarddhana",
+        "janartthana",
+        "ramagirusna",
+        "kovinda",
+        "govindha",
+        "janarddana",
+        "janartdhana",
+        "janardhthana",
+        "janartdana",
+        "janardhdhana",
+        "janarththana",
+        "janardhdana",
+        "janarthdhana",
+        "janarthdana"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-05",
+      "sortOrder": 89,
+      "isActive": false,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000107",
+      "artistId": "ar_ambattur_sri_manikandan_bhagavathar",
+      "categoryId": "cat_namavali",
+      "titleTa": "ராதா கிருஷ்ணா ராதிகா கிருஷ்ணா",
+      "titleEn": "radha krishna radhika krishna",
+      "audioPath": "songs/sg_000107_da72c7af_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 58,
+      "fileSizeBytes": 695852,
+      "tagsTa": [
+        "ராதா",
+        "கிருஷ்ணா",
+        "ராதிகா",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "radha",
+        "krishna",
+        "radhika",
+        "namavali"
+      ],
+      "searchAliases": [
+        "ratha",
+        "kirushna",
+        "rathika",
+        "kirusna",
+        "girushna",
+        "krushna",
+        "rathiga",
+        "rada",
+        "girusna",
+        "radhiga",
+        "radika",
+        "radiga"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-05",
+      "sortOrder": 90,
+      "isActive": false,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000108",
+      "artistId": "ar_ambattur_sri_manikandan_bhagavathar",
+      "categoryId": "cat_namavali",
+      "titleTa": "பிருந்தாவன் குஞ்ஜ் பவன் நாசத் கிரிதாரி",
+      "titleEn": "Brindavaname Kunja Bhavan Nachata Giridhari",
+      "audioPath": "songs/sg_000108_0ee2435f_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 59,
+      "fileSizeBytes": 703340,
+      "tagsTa": [
+        "பிருந்தாவன்",
+        "குஞ்ஜ்",
+        "பவன்",
+        "நாசத்",
+        "கிரிதாரி",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "brindavaname",
+        "kunja",
+        "bhavan",
+        "nachata",
+        "giridhari",
+        "namavali"
+      ],
+      "searchAliases": [
+        "pirunthavan",
+        "kunjj",
+        "pavan",
+        "nasad",
+        "kirithari",
+        "pirundhavan",
+        "birunthavan",
+        "prunthavan",
+        "printhavan",
+        "gunjj",
+        "bavan",
+        "nasat",
+        "nachad",
+        "kiridhari",
+        "girithari",
+        "pirundavan",
+        "birundhavan",
+        "nasadh",
+        "nachat",
+        "kiridari",
+        "birundavan",
+        "nasath",
+        "nachadh",
+        "giridari"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-05",
+      "sortOrder": 91,
+      "isActive": false,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000109",
+      "artistId": "ar_ambattur_sri_manikandan_bhagavathar",
+      "categoryId": "cat_namavali",
+      "titleTa": "ராதே கிருஷ்ணா ராதே கிருஷ்ணா",
+      "titleEn": "radhe krishna radhe krishna",
+      "audioPath": "songs/sg_000109_dfedca7e_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 63,
+      "fileSizeBytes": 753452,
+      "tagsTa": [
+        "ராதே",
+        "கிருஷ்ணா",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "radhe",
+        "krishna",
+        "namavali"
+      ],
+      "searchAliases": [
+        "rathe",
+        "kirushna",
+        "kirusna",
+        "girushna",
+        "krushna",
+        "rade",
+        "girusna"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-05",
+      "sortOrder": 92,
+      "isActive": false,
       "isFeatured": false
     }
   ]

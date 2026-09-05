@@ -100,6 +100,15 @@
       "songCount": 2,
       "sortOrder": 11,
       "isActive": true
+    },
+    {
+      "id": "ar_ambattur_sri_manikandan_bhagavathar",
+      "nameTa": "அம்பத்தூர் ஸ்ரீ மணிகண்டன் பாகவதர்",
+      "nameEn": "Ambattur Sri Manikandan Bhagavathar",
+      "photoPath": "artists/ar_ambattur_sri_manikandan_bhagavathar_dd26c0cd.webp",
+      "songCount": 0,
+      "sortOrder": 12,
+      "isActive": true
     }
   ]
 }
