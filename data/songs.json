@@ -4089,6 +4089,95 @@
       "sortOrder": 106,
       "isActive": true,
       "isFeatured": false
+    },
+    {
+      "id": "sg_000124",
+      "artistId": "ar_manjapra_sri_mohan_bhagavathar",
+      "categoryId": "cat_namavali",
+      "titleTa": "பச்சை மயில் வாகனனே",
+      "titleEn": "pachai mayil vaahanane",
+      "audioPath": "songs/sg_000124_2b71fbcb_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 60,
+      "fileSizeBytes": 721196,
+      "tagsTa": [
+        "பச்சை",
+        "மயில்",
+        "வாகனனே",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "pachai",
+        "mayil",
+        "vaahanane",
+        "namavali"
+      ],
+      "searchAliases": [
+        "passai",
+        "vakanane",
+        "paschai",
+        "pachsai",
+        "bassai",
+        "vaganane",
+        "pachchai",
+        "baschai",
+        "bachsai",
+        "bachchai"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-05",
+      "sortOrder": 107,
+      "isActive": false,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000125",
+      "artistId": "ar_manjapra_sri_mohan_bhagavathar",
+      "categoryId": "cat_namavali",
+      "titleTa": "மாடன் வரானே கம்பத்தடி மாடன்",
+      "titleEn": "maadan varaanae kampaththadi maadan",
+      "audioPath": "songs/sg_000125_9f963470_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 60,
+      "fileSizeBytes": 721196,
+      "tagsTa": [
+        "மாடன்",
+        "வரானே",
+        "கம்பத்தடி",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "maadan",
+        "varaanae",
+        "kampaththadi",
+        "namavali"
+      ],
+      "searchAliases": [
+        "matan",
+        "varane",
+        "kampadthati",
+        "madan",
+        "kampadthadi",
+        "kampaddhati",
+        "kampatthati",
+        "kambadthati",
+        "gampadthati",
+        "kampaddhadi",
+        "kampatthadi",
+        "kambadthadi",
+        "gampadthadi",
+        "kampaddati",
+        "kampatdhati",
+        "kambaddhati",
+        "gampaddhati",
+        "kampadhthati",
+        "kambatthati"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-05",
+      "sortOrder": 108,
+      "isActive": false,
+      "isFeatured": false
     }
   ]
 }
