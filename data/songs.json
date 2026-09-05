@@ -3708,6 +3708,387 @@
       "sortOrder": 96,
       "isActive": true,
       "isFeatured": false
+    },
+    {
+      "id": "sg_000114",
+      "artistId": "ar_smt_savita_sreeram",
+      "categoryId": "cat_bhajanai",
+      "titleTa": "கோவிந்த ஹரி கோவிந்த ஹரி",
+      "titleEn": "Govinda Hari Govinda Hari",
+      "audioPath": "songs/sg_000114_18737dc2_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 65,
+      "fileSizeBytes": 779084,
+      "tagsTa": [
+        "கோவிந்த",
+        "ஹரி",
+        "பஜனை"
+      ],
+      "tagsEn": [
+        "govinda",
+        "hari",
+        "bhajanai"
+      ],
+      "searchAliases": [
+        "kovintha",
+        "kovindha",
+        "govintha",
+        "kovinda",
+        "govindha"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-05",
+      "sortOrder": 97,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000115",
+      "artistId": "ar_smt_savita_sreeram",
+      "categoryId": "cat_namavali",
+      "titleTa": "ராம ரமண ஹரி ராம ரமண ஹரி கோவிந்தா",
+      "titleEn": "Rama Ramana Hari Rama Ramana Hari Govinda",
+      "audioPath": "songs/sg_000115_31fff301_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 56,
+      "fileSizeBytes": 672236,
+      "tagsTa": [
+        "ராம",
+        "ரமண",
+        "ஹரி",
+        "கோவிந்தா",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "rama",
+        "ramana",
+        "hari",
+        "govinda",
+        "namavali"
+      ],
+      "searchAliases": [
+        "kovintha",
+        "kovindha",
+        "govintha",
+        "kovinda",
+        "govindha"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-05",
+      "sortOrder": 98,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000116",
+      "artistId": "ar_smt_savita_sreeram",
+      "categoryId": "cat_bhajanai",
+      "titleTa": "ஸ்ரீநிவாஸ கோவிந்தா ஸ்ரீ வெங்கடேச கோவிந்தா",
+      "titleEn": "Srinivasa Govinda Sri Venkatesa Govinda",
+      "audioPath": "songs/sg_000116_922aa236_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 62,
+      "fileSizeBytes": 749420,
+      "tagsTa": [
+        "ஸ்ரீநிவாஸ",
+        "கோவிந்தா",
+        "ஸ்ரீ",
+        "வெங்கடேச",
+        "பஜனை"
+      ],
+      "tagsEn": [
+        "srinivasa",
+        "govinda",
+        "venkatesa",
+        "bhajanai"
+      ],
+      "searchAliases": [
+        "kovintha",
+        "vengkatesa",
+        "shrinivasa",
+        "kovindha",
+        "govintha",
+        "shri",
+        "vengkatecha",
+        "vengkadesa",
+        "venggatesa",
+        "kovinda",
+        "govindha",
+        "vengkadecha",
+        "venggatecha",
+        "venggadesa",
+        "venggadecha"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-05",
+      "sortOrder": 99,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000117",
+      "artistId": "ar_smt_savita_sreeram",
+      "categoryId": "cat_namavali",
+      "titleTa": "கோவிந்தா கோபாலா",
+      "titleEn": "Govinda Gopala",
+      "audioPath": "songs/sg_000117_63d0422d_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 45,
+      "fileSizeBytes": 536588,
+      "tagsTa": [
+        "கோவிந்தா",
+        "கோபாலா",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "govinda",
+        "gopala",
+        "namavali"
+      ],
+      "searchAliases": [
+        "kovintha",
+        "kopala",
+        "kovindha",
+        "govintha",
+        "kobala",
+        "kovinda",
+        "govindha",
+        "gobala"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-05",
+      "sortOrder": 100,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000118",
+      "artistId": "ar_smt_savita_sreeram",
+      "categoryId": "cat_namavali",
+      "titleTa": "தயா கரோ குருநாதா",
+      "titleEn": "Daya Karo Gurunatha",
+      "audioPath": "songs/sg_000118_424b9d06_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 59,
+      "fileSizeBytes": 708236,
+      "tagsTa": [
+        "தயா",
+        "கரோ",
+        "குருநாதா",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "daya",
+        "karo",
+        "gurunatha",
+        "namavali"
+      ],
+      "searchAliases": [
+        "thaya",
+        "kurunatha",
+        "dhaya",
+        "garo",
+        "kurunadha",
+        "kurunada",
+        "gurunadha",
+        "gurunada"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-05",
+      "sortOrder": 101,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000119",
+      "artistId": "ar_smt_savita_sreeram",
+      "categoryId": "cat_namavali",
+      "titleTa": "சத்குரு வச்சோனி சாபடென சோய்",
+      "titleEn": "Sadguru vachoni sapadena soy",
+      "audioPath": "songs/sg_000119_8550f3ba_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 58,
+      "fileSizeBytes": 701900,
+      "tagsTa": [
+        "சத்குரு",
+        "வச்சோனி",
+        "சாபடென",
+        "சோய்",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "sadguru",
+        "vachoni",
+        "sapadena",
+        "soy",
+        "namavali"
+      ],
+      "searchAliases": [
+        "sadkuru",
+        "vassoni",
+        "sapatena",
+        "satkuru",
+        "chadkuru",
+        "vaschoni",
+        "vachsoni",
+        "sabatena",
+        "chapatena",
+        "choy",
+        "satguru",
+        "chadguru",
+        "sadhkuru",
+        "chatkuru",
+        "vachchoni",
+        "sabadena",
+        "chapadena",
+        "chabatena",
+        "sadhguru",
+        "chatguru",
+        "sathkuru",
+        "chadhkuru",
+        "chabadena",
+        "sathguru"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-05",
+      "sortOrder": 102,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000120",
+      "artistId": "ar_smt_savita_sreeram",
+      "categoryId": "cat_namavali",
+      "titleTa": "ஞானானந்த ஞானானந்த ஞானானந்த தேவா",
+      "titleEn": "gnanananda gnanananda gnanananda deva",
+      "audioPath": "songs/sg_000120_a783b52f_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 58,
+      "fileSizeBytes": 697868,
+      "tagsTa": [
+        "ஞானானந்த",
+        "தேவா",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "gnanananda",
+        "deva",
+        "namavali"
+      ],
+      "searchAliases": [
+        "njananantha",
+        "theva",
+        "njananandha",
+        "dheva",
+        "njanananda"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-05",
+      "sortOrder": 103,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000121",
+      "artistId": "ar_smt_savita_sreeram",
+      "categoryId": "cat_namavali",
+      "titleTa": "¯¾¡Ã Ðõ†¢ …óò",
+      "titleEn": "Udhara Thumi Santha",
+      "audioPath": "songs/sg_000121_858db8a3_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 35,
+      "fileSizeBytes": 415916,
+      "tagsTa": [
+        "¯¾",
+        "Ðõ",
+        "óò",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "udhara",
+        "thumi",
+        "santha",
+        "namavali"
+      ],
+      "searchAliases": [],
+      "thumbPath": null,
+      "publishedAt": "2026-09-05",
+      "sortOrder": 104,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000122",
+      "artistId": "ar_smt_savita_sreeram",
+      "categoryId": "cat_namavali",
+      "titleTa": "சாதோ கீ ஜெய் ஜெய்",
+      "titleEn": "Satho Ki Jai Jai",
+      "audioPath": "songs/sg_000122_ee8adad8_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 63,
+      "fileSizeBytes": 758060,
+      "tagsTa": [
+        "சாதோ",
+        "கீ",
+        "ஜெய்",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "satho",
+        "ki",
+        "namavali"
+      ],
+      "searchAliases": [
+        "jey",
+        "sadho",
+        "chatho",
+        "gi",
+        "sado",
+        "chadho",
+        "chado"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-05",
+      "sortOrder": 105,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000123",
+      "artistId": "ar_smt_savita_sreeram",
+      "categoryId": "cat_namavali",
+      "titleTa": "ராதா ரஸிக வரா ரஸ விஹாரா",
+      "titleEn": "Radha Rasika Vara Rasa Vihara",
+      "audioPath": "songs/sg_000123_f6c152f0_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 56,
+      "fileSizeBytes": 671660,
+      "tagsTa": [
+        "ராதா",
+        "ரஸிக",
+        "வரா",
+        "ரஸ",
+        "விஹாரா",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "radha",
+        "rasika",
+        "vara",
+        "rasa",
+        "vihara",
+        "namavali"
+      ],
+      "searchAliases": [
+        "ratha",
+        "rasiga",
+        "rada"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-05",
+      "sortOrder": 106,
+      "isActive": true,
+      "isFeatured": false
     }
   ]
 }

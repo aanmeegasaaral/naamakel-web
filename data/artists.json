@@ -109,6 +109,15 @@
       "songCount": 9,
       "sortOrder": 12,
       "isActive": true
+    },
+    {
+      "id": "ar_smt_savita_sreeram",
+      "nameTa": "திருமதி சவிதா ஸ்ரீராம்",
+      "nameEn": "Smt Savita Sreeram",
+      "photoPath": "artists/ar_smt_savita_sreeram_a5fc7ac3.webp",
+      "songCount": 10,
+      "sortOrder": 13,
+      "isActive": true
     }
   ]
 }
