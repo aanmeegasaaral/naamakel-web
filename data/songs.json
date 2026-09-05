@@ -1079,10 +1079,10 @@
       "categoryId": "cat_bhajanai",
       "titleTa": "சுந்தர தே தியானா",
       "titleEn": "Sundarathe Dhyana",
-      "audioPath": "songs/sg_000047_f9c26072_v2.mp3",
-      "audioVersion": 2,
-      "durationSec": 177,
-      "fileSizeBytes": 2127212,
+      "audioPath": "songs/sg_000047_e5c30095_v3.mp3",
+      "audioVersion": 3,
+      "durationSec": 58,
+      "fileSizeBytes": 690380,
       "tagsTa": [
         "சுந்தர",
         "தே",
@@ -3552,6 +3552,160 @@
       "thumbPath": null,
       "publishedAt": "2026-09-05",
       "sortOrder": 92,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000110",
+      "artistId": "ar_smt_gayathri_magesh",
+      "categoryId": "cat_namavali",
+      "titleTa": "நாராயண நாராயண ஜய ஜய",
+      "titleEn": "Narayana Narayana Jai Jai",
+      "audioPath": "songs/sg_000110_a2851c33_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 54,
+      "fileSizeBytes": 642572,
+      "tagsTa": [
+        "நாராயண",
+        "ஜய",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "narayana",
+        "namavali"
+      ],
+      "searchAliases": [
+        "jaya"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-05",
+      "sortOrder": 93,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000111",
+      "artistId": "ar_smt_gayathri_magesh",
+      "categoryId": "cat_namavali",
+      "titleTa": "குரு மகாராஜ் குரு ஜே ஜே",
+      "titleEn": "Guru Maharaj Guru Jai Jai",
+      "audioPath": "songs/sg_000111_ea36ce7c_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 50,
+      "fileSizeBytes": 597068,
+      "tagsTa": [
+        "குரு",
+        "மகாராஜ்",
+        "ஜே",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "guru",
+        "maharaj",
+        "namavali"
+      ],
+      "searchAliases": [
+        "kuru",
+        "makaraj",
+        "je",
+        "magaraj"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-05",
+      "sortOrder": 94,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000112",
+      "artistId": "ar_smt_gayathri_magesh",
+      "categoryId": "cat_namavali",
+      "titleTa": "கிருஷ்ண கோவிந்தா கோபா கோபி ஜன வல்லபா",
+      "titleEn": "krishna govinda gopa gopi jana vallabha",
+      "audioPath": "songs/sg_000112_2950fc38_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 59,
+      "fileSizeBytes": 713996,
+      "tagsTa": [
+        "கிருஷ்ண",
+        "கோவிந்தா",
+        "கோபா",
+        "கோபி",
+        "ஜன",
+        "வல்லபா",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "krishna",
+        "govinda",
+        "gopa",
+        "gopi",
+        "jana",
+        "vallabha",
+        "namavali"
+      ],
+      "searchAliases": [
+        "kirushna",
+        "kovintha",
+        "kopa",
+        "kopi",
+        "vallapa",
+        "kirusna",
+        "girushna",
+        "krushna",
+        "kovindha",
+        "govintha",
+        "koba",
+        "kobi",
+        "vallaba",
+        "girusna",
+        "kovinda",
+        "govindha",
+        "goba",
+        "gobi"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-05",
+      "sortOrder": 95,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000113",
+      "artistId": "ar_smt_gayathri_magesh",
+      "categoryId": "cat_namavali",
+      "titleTa": "கோவிந்தா பிரியா ராதே ராதே",
+      "titleEn": "Govinda Priya Radhe Radhe",
+      "audioPath": "songs/sg_000113_9d4ace53_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 58,
+      "fileSizeBytes": 690380,
+      "tagsTa": [
+        "கோவிந்தா",
+        "பிரியா",
+        "ராதே",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "govinda",
+        "priya",
+        "radhe",
+        "namavali"
+      ],
+      "searchAliases": [
+        "kovintha",
+        "piriya",
+        "rathe",
+        "kovindha",
+        "govintha",
+        "biriya",
+        "kovinda",
+        "govindha",
+        "rade"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-05",
+      "sortOrder": 96,
       "isActive": true,
       "isFeatured": false
     }
