@@ -4127,7 +4127,7 @@
       "thumbPath": null,
       "publishedAt": "2026-09-05",
       "sortOrder": 107,
-      "isActive": false,
+      "isActive": true,
       "isFeatured": false
     },
     {
@@ -4176,7 +4176,7 @@
       "thumbPath": null,
       "publishedAt": "2026-09-05",
       "sortOrder": 108,
-      "isActive": false,
+      "isActive": true,
       "isFeatured": false
     }
   ]
