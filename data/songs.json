@@ -4452,6 +4452,404 @@
       "sortOrder": 114,
       "isActive": true,
       "isFeatured": false
+    },
+    {
+      "id": "sg_000132",
+      "artistId": "ar_manjapra_sri_mohan_bhagavathar",
+      "categoryId": "cat_namavali",
+      "titleTa": "ஆத்மய ராம அகோசர ராம",
+      "titleEn": "Atmaya Rama Agochara Rama",
+      "audioPath": "songs/sg_000132_de575d3e_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 57,
+      "fileSizeBytes": 685484,
+      "tagsTa": [
+        "ஆத்மய",
+        "ராம",
+        "அகோசர",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "atmaya",
+        "rama",
+        "agochara",
+        "namavali"
+      ],
+      "searchAliases": [
+        "admaya",
+        "akosara",
+        "akochara",
+        "agosara",
+        "adhmaya",
+        "athmaya"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-09",
+      "sortOrder": 115,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000133",
+      "artistId": "ar_manjapra_sri_mohan_bhagavathar",
+      "categoryId": "cat_chanting",
+      "titleTa": "ஜெய் ஜெய் ராம் ஜெய் ஜெய் ராம்",
+      "titleEn": "Jai Jai Ram Jai Jai Ram",
+      "audioPath": "songs/sg_000133_73ea2b82_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 43,
+      "fileSizeBytes": 515276,
+      "tagsTa": [
+        "ஜெய்",
+        "ராம்",
+        "ஜபம்"
+      ],
+      "tagsEn": [
+        "ram",
+        "chanting"
+      ],
+      "searchAliases": [
+        "jey"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-09",
+      "sortOrder": 116,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000134",
+      "artistId": "ar_manjapra_sri_mohan_bhagavathar",
+      "categoryId": "cat_bhajanai",
+      "titleTa": "சுந்தர ராம சச்சிதா ராம",
+      "titleEn": "Sundara Rama Satchida Rama",
+      "audioPath": "songs/sg_000134_3dfa88d1_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 59,
+      "fileSizeBytes": 711116,
+      "tagsTa": [
+        "சுந்தர",
+        "ராம",
+        "சச்சிதா",
+        "பஜனை"
+      ],
+      "tagsEn": [
+        "sundara",
+        "rama",
+        "satchida",
+        "bhajanai"
+      ],
+      "searchAliases": [
+        "sunthara",
+        "sassitha",
+        "sundhara",
+        "chunthara",
+        "sassidha",
+        "saschitha",
+        "sachsitha",
+        "chassitha",
+        "chundhara",
+        "sassida",
+        "saschidha",
+        "sachsidha",
+        "chassidha",
+        "sachchitha",
+        "chaschitha",
+        "chachsitha",
+        "chundara",
+        "saschida",
+        "sachsida",
+        "chassida",
+        "sachchidha"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-09",
+      "sortOrder": 117,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000135",
+      "artistId": "ar_manjapra_sri_mohan_bhagavathar",
+      "categoryId": "cat_namavali",
+      "titleTa": "ஞானானந்த ஞானானந்த ஞானானந்த தேவா",
+      "titleEn": "gnanananda gnanananda gnanananda deva",
+      "audioPath": "songs/sg_000135_1701b0e2_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 61,
+      "fileSizeBytes": 733580,
+      "tagsTa": [
+        "ஞானானந்த",
+        "தேவா",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "gnanananda",
+        "deva",
+        "namavali"
+      ],
+      "searchAliases": [
+        "njananantha",
+        "theva",
+        "njananandha",
+        "dheva",
+        "njanananda"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-09",
+      "sortOrder": 118,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000136",
+      "artistId": "ar_manjapra_sri_mohan_bhagavathar",
+      "categoryId": "cat_instrumental",
+      "titleTa": "ஹார்மோனியம் #2",
+      "titleEn": "Harmonium #2",
+      "audioPath": "songs/sg_000136_704971fb_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 23,
+      "fileSizeBytes": 280844,
+      "tagsTa": [
+        "ஹார்மோனியம்",
+        "பக்கவாத்தியம்"
+      ],
+      "tagsEn": [
+        "harmonium",
+        "instrumental"
+      ],
+      "searchAliases": [
+        "harmoniyam"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-09",
+      "sortOrder": 119,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000137",
+      "artistId": "ar_manjapra_sri_mohan_bhagavathar",
+      "categoryId": "cat_instrumental",
+      "titleTa": "ஹார்மோனியம் #3",
+      "titleEn": "Harmonium #3",
+      "audioPath": "songs/sg_000137_f4efdf90_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 24,
+      "fileSizeBytes": 285740,
+      "tagsTa": [
+        "ஹார்மோனியம்",
+        "பக்கவாத்தியம்"
+      ],
+      "tagsEn": [
+        "harmonium",
+        "instrumental"
+      ],
+      "searchAliases": [
+        "harmoniyam"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-09",
+      "sortOrder": 120,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000138",
+      "artistId": "ar_manjapra_sri_mohan_bhagavathar",
+      "categoryId": "cat_bhajanai",
+      "titleTa": "எந்த மலை சேவித்தாலும்",
+      "titleEn": "entha malai sevithalum",
+      "audioPath": "songs/sg_000138_5073677c_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 46,
+      "fileSizeBytes": 557900,
+      "tagsTa": [
+        "எந்த",
+        "மலை",
+        "சேவித்தாலும்",
+        "பஜனை"
+      ],
+      "tagsEn": [
+        "entha",
+        "malai",
+        "sevithalum",
+        "bhajanai"
+      ],
+      "searchAliases": [
+        "sevidthalum",
+        "endha",
+        "seviddhalum",
+        "sevitthalum",
+        "chevidthalum",
+        "enda",
+        "seviddalum",
+        "sevitdhalum",
+        "cheviddhalum",
+        "sevidhthalum",
+        "chevitthalum",
+        "sevitdalum",
+        "cheviddalum",
+        "sevidhdhalum",
+        "chevitdhalum",
+        "seviththalum",
+        "chevidhthalum",
+        "sevidhdalum"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-09",
+      "sortOrder": 121,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000139",
+      "artistId": "ar_manjapra_sri_mohan_bhagavathar",
+      "categoryId": "cat_bhajanai",
+      "titleTa": "சபரிநாயகா சரணம் சரணம் என்று",
+      "titleEn": "Sabarinaayaga saranam saranam endru",
+      "audioPath": "songs/sg_000139_a6b4ffe4_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 58,
+      "fileSizeBytes": 691820,
+      "tagsTa": [
+        "சபரிநாயகா",
+        "சரணம்",
+        "என்று",
+        "பஜனை"
+      ],
+      "tagsEn": [
+        "sabarinaayaga",
+        "saranam",
+        "endru",
+        "bhajanai"
+      ],
+      "searchAliases": [
+        "saparinayaka",
+        "enru",
+        "saparinayaga",
+        "sabarinayaka",
+        "chaparinayaka",
+        "charanam",
+        "sabarinayaga",
+        "chaparinayaga",
+        "chabarinayaka",
+        "chabarinayaga"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-09",
+      "sortOrder": 122,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000140",
+      "artistId": "ar_manjapra_sri_mohan_bhagavathar",
+      "categoryId": "cat_instrumental",
+      "titleTa": "ஹார்மோனியம் #4",
+      "titleEn": "Harmonium #4",
+      "audioPath": "songs/sg_000140_23a51133_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 36,
+      "fileSizeBytes": 431468,
+      "tagsTa": [
+        "ஹார்மோனியம்",
+        "பக்கவாத்தியம்"
+      ],
+      "tagsEn": [
+        "harmonium",
+        "instrumental"
+      ],
+      "searchAliases": [
+        "harmoniyam"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-09",
+      "sortOrder": 123,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000141",
+      "artistId": "ar_manjapra_sri_mohan_bhagavathar",
+      "categoryId": "cat_bhajanai",
+      "titleTa": "பச்சை பட்டாடை கட்டி",
+      "titleEn": "Pachai pattaadai katti",
+      "audioPath": "songs/sg_000141_69c96f8a_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 58,
+      "fileSizeBytes": 694700,
+      "tagsTa": [
+        "பச்சை",
+        "பட்டாடை",
+        "கட்டி",
+        "பஜனை"
+      ],
+      "tagsEn": [
+        "pachai",
+        "pattaadai",
+        "katti",
+        "bhajanai"
+      ],
+      "searchAliases": [
+        "passai",
+        "pattatai",
+        "paschai",
+        "pachsai",
+        "bassai",
+        "pattadai",
+        "patdatai",
+        "padtatai",
+        "battatai",
+        "katdi",
+        "kadti",
+        "gatti",
+        "pachchai",
+        "baschai",
+        "bachsai",
+        "patdadai",
+        "padtadai",
+        "battadai",
+        "paddatai",
+        "batdatai",
+        "badtatai",
+        "kaddi",
+        "gatdi",
+        "gadti"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-09",
+      "sortOrder": 124,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000142",
+      "artistId": "ar_manjapra_sri_mohan_bhagavathar",
+      "categoryId": "cat_chanting",
+      "titleTa": "ஹரி நாராயண ஹரி நாராயண",
+      "titleEn": "hari narayana hari narayana",
+      "audioPath": "songs/sg_000142_285111ee_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 59,
+      "fileSizeBytes": 707660,
+      "tagsTa": [
+        "ஹரி",
+        "நாராயண",
+        "ஜபம்"
+      ],
+      "tagsEn": [
+        "hari",
+        "narayana",
+        "chanting"
+      ],
+      "searchAliases": [],
+      "thumbPath": null,
+      "publishedAt": "2026-09-09",
+      "sortOrder": 125,
+      "isActive": true,
+      "isFeatured": false
     }
   ]
 }
