@@ -4850,6 +4850,205 @@
       "sortOrder": 125,
       "isActive": true,
       "isFeatured": false
+    },
+    {
+      "id": "sg_000143",
+      "artistId": "ar_madurai_sri_sri_ramananda_saraswathi_swamigal",
+      "categoryId": "cat_bhajanai",
+      "titleTa": "ஜெய பிருந்தாவன கோவிந்த ஹரி",
+      "titleEn": "Jaya Brindavana Govinda Hari",
+      "audioPath": "songs/sg_000143_06ca0ab3_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 60,
+      "fileSizeBytes": 719468,
+      "tagsTa": [
+        "ஜெய",
+        "பிருந்தாவன",
+        "கோவிந்த",
+        "ஹரி",
+        "பஜனை"
+      ],
+      "tagsEn": [
+        "jaya",
+        "brindavana",
+        "govinda",
+        "hari",
+        "bhajanai"
+      ],
+      "searchAliases": [
+        "jeya",
+        "pirunthavana",
+        "kovintha",
+        "jaia",
+        "pirundhavana",
+        "birunthavana",
+        "prunthavana",
+        "printhavana",
+        "kovindha",
+        "govintha",
+        "pirundavana",
+        "birundhavana",
+        "kovinda",
+        "govindha",
+        "birundavana"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-10",
+      "sortOrder": 126,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000144",
+      "artistId": "ar_erode_sri_rajamani_bhagavathar",
+      "categoryId": "cat_namavali",
+      "titleTa": "ராதா ரஸிக வரா ரஸ விஹாரா",
+      "titleEn": "Radha Rasika Vara Rasa Vihara",
+      "audioPath": "songs/sg_000144_79720579_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 56,
+      "fileSizeBytes": 675116,
+      "tagsTa": [
+        "ராதா",
+        "ரஸிக",
+        "வரா",
+        "ரஸ",
+        "விஹாரா",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "radha",
+        "rasika",
+        "vara",
+        "rasa",
+        "vihara",
+        "namavali"
+      ],
+      "searchAliases": [
+        "ratha",
+        "rasiga",
+        "rada"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-10",
+      "sortOrder": 127,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000145",
+      "artistId": "ar_erode_sri_rajamani_bhagavathar",
+      "categoryId": "cat_bhajanai",
+      "titleTa": "ராம் ராம் சீதா ராமா",
+      "titleEn": "ram ram sita rama",
+      "audioPath": "songs/sg_000145_fe5539bf_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 56,
+      "fileSizeBytes": 675116,
+      "tagsTa": [
+        "ராம்",
+        "சீதா",
+        "ராமா",
+        "பஜனை"
+      ],
+      "tagsEn": [
+        "ram",
+        "sita",
+        "rama",
+        "bhajanai"
+      ],
+      "searchAliases": [
+        "sitha",
+        "sidha",
+        "chitha",
+        "sida",
+        "chidha",
+        "chida"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-10",
+      "sortOrder": 128,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000146",
+      "artistId": "ar_erode_sri_rajamani_bhagavathar",
+      "categoryId": "cat_bhajanai",
+      "titleTa": "ஜெய் ஜெய் ராம கிருஷ்ண கோவிந்தா",
+      "titleEn": "jay jay ram krishna Govinda",
+      "audioPath": "songs/sg_000146_1b2d6628_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 53,
+      "fileSizeBytes": 635660,
+      "tagsTa": [
+        "ஜெய்",
+        "ராம",
+        "கிருஷ்ண",
+        "கோவிந்தா",
+        "பஜனை"
+      ],
+      "tagsEn": [
+        "jay",
+        "ram",
+        "krishna",
+        "govinda",
+        "bhajanai"
+      ],
+      "searchAliases": [
+        "jey",
+        "rama",
+        "kirushna",
+        "kovintha",
+        "jai",
+        "kirusna",
+        "girushna",
+        "krushna",
+        "kovindha",
+        "govintha",
+        "girusna",
+        "kovinda",
+        "govindha"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-10",
+      "sortOrder": 129,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000147",
+      "artistId": "ar_erode_sri_rajamani_bhagavathar",
+      "categoryId": "cat_chanting",
+      "titleTa": "பாண்டுரங்கா பாண்டுரங்கா",
+      "titleEn": "paandurangaa paandurangaa",
+      "audioPath": "songs/sg_000147_40df327b_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 53,
+      "fileSizeBytes": 641132,
+      "tagsTa": [
+        "பாண்டுரங்கா",
+        "ஜபம்"
+      ],
+      "tagsEn": [
+        "paandurangaa",
+        "chanting"
+      ],
+      "searchAliases": [
+        "panturangka",
+        "panturangga",
+        "pandurangka",
+        "banturangka",
+        "pandurangga",
+        "banturangga",
+        "bandurangka",
+        "bandurangga"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-10",
+      "sortOrder": 130,
+      "isActive": true,
+      "isFeatured": false
     }
   ]
 }

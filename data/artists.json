@@ -127,6 +127,24 @@
       "songCount": 13,
       "sortOrder": 14,
       "isActive": true
+    },
+    {
+      "id": "ar_madurai_sri_sri_ramananda_saraswathi_swamigal",
+      "nameTa": "மதுரை ஸ்ரீ ஸ்ரீ ராமானந்த சரஸ்வதி சுவாமிகள்",
+      "nameEn": "Madurai Sri Sri Ramananda Saraswathi Swamigal",
+      "photoPath": "artists/ar_madurai_sri_sri_ramananda_saraswathi_swamigal_a8cb06a4.webp",
+      "songCount": 1,
+      "sortOrder": 15,
+      "isActive": true
+    },
+    {
+      "id": "ar_erode_sri_rajamani_bhagavathar",
+      "nameTa": "ஈரோடு ஸ்ரீ ராஜாமணி பாகவதர்",
+      "nameEn": "Erode Sri Rajamani Bhagavathar",
+      "photoPath": "artists/ar_erode_sri_rajamani_bhagavathar_f1e99b1f.webp",
+      "songCount": 4,
+      "sortOrder": 16,
+      "isActive": true
     }
   ]
 }
