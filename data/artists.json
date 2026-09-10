@@ -145,6 +145,24 @@
       "songCount": 4,
       "sortOrder": 16,
       "isActive": true
+    },
+    {
+      "id": "ar_haridwaramangalam_sri_ram_gopal_bhagavathar",
+      "nameTa": "ஹரித்வாரமங்கலம் ஸ்ரீ ராம் கோபால் பாகவதர்",
+      "nameEn": "Haridwaramangalam Sri Ram Gopal Bhagavathar",
+      "photoPath": "artists/ar_haridwaramangalam_sri_ram_gopal_bhagavathar_68a36f4b.webp",
+      "songCount": 10,
+      "sortOrder": 17,
+      "isActive": true
+    },
+    {
+      "id": "ar_valadi_sri_karthik_bhagavathar",
+      "nameTa": "வாளாடி ஸ்ரீ கார்த்திக் பாகவதர்",
+      "nameEn": "Valadi Sri Karthik Bhagavathar",
+      "photoPath": "artists/ar_valadi_sri_karthik_bhagavathar_dbb7c1b1.webp",
+      "songCount": 1,
+      "sortOrder": 18,
+      "isActive": true
     }
   ]
 }

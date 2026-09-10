@@ -5049,6 +5049,425 @@
       "sortOrder": 130,
       "isActive": true,
       "isFeatured": false
+    },
+    {
+      "id": "sg_000148",
+      "artistId": "ar_haridwaramangalam_sri_ram_gopal_bhagavathar",
+      "categoryId": "cat_chanting",
+      "titleTa": "கோவிந்த நாராயண ஸ்ரீ ஹரி",
+      "titleEn": "Govinda Narayana Sri hari",
+      "audioPath": "songs/sg_000148_87926052_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 59,
+      "fileSizeBytes": 702476,
+      "tagsTa": [
+        "கோவிந்த",
+        "நாராயண",
+        "ஸ்ரீ",
+        "ஹரி",
+        "ஜபம்"
+      ],
+      "tagsEn": [
+        "govinda",
+        "narayana",
+        "hari",
+        "chanting"
+      ],
+      "searchAliases": [
+        "kovintha",
+        "kovindha",
+        "govintha",
+        "shri",
+        "kovinda",
+        "govindha"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-10",
+      "sortOrder": 131,
+      "isActive": true,
+      "isFeatured": true
+    },
+    {
+      "id": "sg_000149",
+      "artistId": "ar_haridwaramangalam_sri_ram_gopal_bhagavathar",
+      "categoryId": "cat_chanting",
+      "titleTa": "ஹரி நாராயண ஹரி நாராயண",
+      "titleEn": "hari narayana hari narayana",
+      "audioPath": "songs/sg_000149_eef75fd6_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 61,
+      "fileSizeBytes": 731564,
+      "tagsTa": [
+        "ஹரி",
+        "நாராயண",
+        "ஜபம்"
+      ],
+      "tagsEn": [
+        "hari",
+        "narayana",
+        "chanting"
+      ],
+      "searchAliases": [],
+      "thumbPath": null,
+      "publishedAt": "2026-09-10",
+      "sortOrder": 132,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000150",
+      "artistId": "ar_haridwaramangalam_sri_ram_gopal_bhagavathar",
+      "categoryId": "cat_bhajanai",
+      "titleTa": "ஞான பாதம் ஞானாநந்தம் பேர் ஆனந்தம்",
+      "titleEn": "Gnana paadham gnana nantham per aanandham",
+      "audioPath": "songs/sg_000150_410bfb8a_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 41,
+      "fileSizeBytes": 493100,
+      "tagsTa": [
+        "ஞான",
+        "பாதம்",
+        "ஞானாநந்தம்",
+        "பேர்",
+        "ஆனந்தம்",
+        "பஜனை"
+      ],
+      "tagsEn": [
+        "gnana",
+        "paadham",
+        "nantham",
+        "per",
+        "aanandham",
+        "bhajanai"
+      ],
+      "searchAliases": [
+        "njana",
+        "patham",
+        "njananantham",
+        "anantham",
+        "padham",
+        "batham",
+        "njananandham",
+        "ber",
+        "anandham",
+        "padam",
+        "badham",
+        "njananandam",
+        "anandam",
+        "badam"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-10",
+      "sortOrder": 133,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000151",
+      "artistId": "ar_haridwaramangalam_sri_ram_gopal_bhagavathar",
+      "categoryId": "cat_namavali",
+      "titleTa": "திருவே என் குருவே",
+      "titleEn": "Thiruve En Guruve",
+      "audioPath": "songs/sg_000151_0b885bce_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 58,
+      "fileSizeBytes": 690668,
+      "tagsTa": [
+        "திருவே",
+        "என்",
+        "குருவே",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "thiruve",
+        "en",
+        "guruve",
+        "namavali"
+      ],
+      "searchAliases": [
+        "kuruve",
+        "dhiruve",
+        "thruve",
+        "thrive",
+        "diruve"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-10",
+      "sortOrder": 134,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000152",
+      "artistId": "ar_haridwaramangalam_sri_ram_gopal_bhagavathar",
+      "categoryId": "cat_bhajanai",
+      "titleTa": "ஏழை எந்தனை ஏற்க உன் மனம்",
+      "titleEn": "ezhai ethanai yerka un manam",
+      "audioPath": "songs/sg_000152_fe11f8b6_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 59,
+      "fileSizeBytes": 709964,
+      "tagsTa": [
+        "ஏழை",
+        "எந்தனை",
+        "ஏற்க",
+        "உன்",
+        "மனம்",
+        "பஜனை"
+      ],
+      "tagsEn": [
+        "ezhai",
+        "ethanai",
+        "yerka",
+        "un",
+        "manam",
+        "bhajanai"
+      ],
+      "searchAliases": [
+        "enthanai",
+        "erka",
+        "elai",
+        "endhanai",
+        "erga",
+        "endanai"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-10",
+      "sortOrder": 135,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000153",
+      "artistId": "ar_haridwaramangalam_sri_ram_gopal_bhagavathar",
+      "categoryId": "cat_bhajanai",
+      "titleTa": "ஞான தேவன் ஞான மூர்த்தி",
+      "titleEn": "gnana dhevan gnana moorthy",
+      "audioPath": "songs/sg_000153_cec3ffd0_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 57,
+      "fileSizeBytes": 688364,
+      "tagsTa": [
+        "ஞான",
+        "தேவன்",
+        "மூர்த்தி",
+        "ஜபம்"
+      ],
+      "tagsEn": [
+        "gnana",
+        "dhevan",
+        "moorthy",
+        "chanting"
+      ],
+      "searchAliases": [
+        "njana",
+        "thevan",
+        "murdthi",
+        "murddhi",
+        "murtthi",
+        "devan",
+        "murddi",
+        "murtdhi",
+        "murdhthi",
+        "murtdi",
+        "murdhdhi",
+        "murththi",
+        "murdhdi",
+        "murthdhi",
+        "murthdi"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-10",
+      "sortOrder": 136,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000154",
+      "artistId": "ar_haridwaramangalam_sri_ram_gopal_bhagavathar",
+      "categoryId": "cat_bhajanai",
+      "titleTa": "அம்பலத்தே அமர்ந்தவனே சபரிமலை நாதா",
+      "titleEn": "Ambalatha Amarnthavane Sabarimalai Natha",
+      "audioPath": "songs/sg_000154_cb517a87_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 52,
+      "fileSizeBytes": 621260,
+      "tagsTa": [
+        "அம்பலத்தே",
+        "அமர்ந்தவனே",
+        "சபரிமலை",
+        "நாதா",
+        "பஜனை"
+      ],
+      "tagsEn": [
+        "ambalatha",
+        "amarnthavane",
+        "sabarimalai",
+        "natha",
+        "bhajanai"
+      ],
+      "searchAliases": [
+        "ampaladthe",
+        "saparimalai",
+        "ampaladdhe",
+        "ampalatthe",
+        "ambaladthe",
+        "amarndhavane",
+        "chaparimalai",
+        "nadha",
+        "ampaladde",
+        "ampalatdhe",
+        "ambaladdhe",
+        "ampaladhthe",
+        "ambalatthe",
+        "amarndavane",
+        "chabarimalai",
+        "nada",
+        "ampalatde",
+        "ambaladde",
+        "ampaladhdhe",
+        "ambalatdhe",
+        "ampalaththe",
+        "ambaladhthe",
+        "ampaladhde"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-10",
+      "sortOrder": 137,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000155",
+      "artistId": "ar_haridwaramangalam_sri_ram_gopal_bhagavathar",
+      "categoryId": "cat_chanting",
+      "titleTa": "ஜெய் ஜெய் ராம் ஜெய் ஜெய் ராம்",
+      "titleEn": "Jai Jai Ram Jai Jai Ram",
+      "audioPath": "songs/sg_000155_6be9aa19_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 58,
+      "fileSizeBytes": 697580,
+      "tagsTa": [
+        "ஜெய்",
+        "ராம்",
+        "ஜபம்"
+      ],
+      "tagsEn": [
+        "ram",
+        "chanting"
+      ],
+      "searchAliases": [
+        "jey"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-10",
+      "sortOrder": 138,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000156",
+      "artistId": "ar_haridwaramangalam_sri_ram_gopal_bhagavathar",
+      "categoryId": "cat_bhajanai",
+      "titleTa": "கூவும் எனது உள்ளம்",
+      "titleEn": "Koovum Enathu Ullam",
+      "audioPath": "songs/sg_000156_fbcc1e1e_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 59,
+      "fileSizeBytes": 707660,
+      "tagsTa": [
+        "கூவும்",
+        "எனது",
+        "உள்ளம்",
+        "பஜனை"
+      ],
+      "tagsEn": [
+        "koovum",
+        "enathu",
+        "ullam",
+        "bhajanai"
+      ],
+      "searchAliases": [
+        "kuvum",
+        "guvum",
+        "enadhu",
+        "enadu"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-10",
+      "sortOrder": 139,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000157",
+      "artistId": "ar_haridwaramangalam_sri_ram_gopal_bhagavathar",
+      "categoryId": "cat_namavali",
+      "titleTa": "ஞானானந்த ஞானானந்த ஞானானந்த தேவா",
+      "titleEn": "gnanananda gnanananda gnanananda deva",
+      "audioPath": "songs/sg_000157_c2897498_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 58,
+      "fileSizeBytes": 701324,
+      "tagsTa": [
+        "ஞானானந்த",
+        "தேவா",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "gnanananda",
+        "deva",
+        "namavali"
+      ],
+      "searchAliases": [
+        "njananantha",
+        "theva",
+        "njananandha",
+        "dheva",
+        "njanananda"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-10",
+      "sortOrder": 140,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000158",
+      "artistId": "ar_valadi_sri_karthik_bhagavathar",
+      "categoryId": "cat_chanting",
+      "titleTa": "ஜெய் ஜெய் ராம் கிருஷ்ண ஹரி",
+      "titleEn": "Jai Jai Ram Krishna Hari",
+      "audioPath": "songs/sg_000158_79712368_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 61,
+      "fileSizeBytes": 730124,
+      "tagsTa": [
+        "ஜெய்",
+        "ராம்",
+        "கிருஷ்ண",
+        "ஹரி",
+        "ஜபம்"
+      ],
+      "tagsEn": [
+        "ram",
+        "krishna",
+        "hari",
+        "chanting"
+      ],
+      "searchAliases": [
+        "jey",
+        "kirushna",
+        "kirusna",
+        "girushna",
+        "krushna",
+        "girusna"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-10",
+      "sortOrder": 141,
+      "isActive": true,
+      "isFeatured": true
     }
   ]
 }
