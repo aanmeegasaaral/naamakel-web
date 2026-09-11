@@ -172,6 +172,15 @@
       "songCount": 5,
       "sortOrder": 19,
       "isActive": true
+    },
+    {
+      "id": "ar_udayalur_sri_kalyanaraman_bhagavathar",
+      "nameTa": "உடையாளூர் ஸ்ரீ கல்யாணராமன் பாகவதர்",
+      "nameEn": "Udayalur Sri Kalyanaraman Bhagavathar",
+      "photoPath": "artists/ar_udayalur_sri_kalyanaraman_bhagavathar_18d9b3ba.webp",
+      "songCount": 0,
+      "sortOrder": 1,
+      "isActive": true
     }
   ]
 }

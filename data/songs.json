@@ -3992,7 +3992,7 @@
       "id": "sg_000121",
       "artistId": "ar_smt_savita_sreeram",
       "categoryId": "cat_namavali",
-      "titleTa": "¯¾¡Ã Ðõ†¢ …óò",
+      "titleTa": "உதார துமி சாந்தா",
       "titleEn": "Udhara Thumi Santha",
       "audioPath": "songs/sg_000121_858db8a3_v1.mp3",
       "audioVersion": 1,
@@ -4010,7 +4010,17 @@
         "santha",
         "namavali"
       ],
-      "searchAliases": [],
+      "searchAliases": [
+        "uthara",
+        "dhumi",
+        "sandha",
+        "chantha",
+        "udara",
+        "dumi",
+        "sanda",
+        "chandha",
+        "chanda"
+      ],
       "thumbPath": null,
       "publishedAt": "2026-09-05",
       "sortOrder": 104,
@@ -5777,6 +5787,137 @@
       "publishedAt": "2026-09-11",
       "sortOrder": 148,
       "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000166",
+      "artistId": "ar_udayalur_sri_kalyanaraman_bhagavathar",
+      "categoryId": "cat_bhajanai",
+      "titleTa": "ஆடிடும் பெருமான்",
+      "titleEn": "Aadidum perumaan",
+      "audioPath": "songs/sg_000166_d5ad1b23_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 49,
+      "fileSizeBytes": 590732,
+      "tagsTa": [
+        "ஆடிடும்",
+        "பெருமான்",
+        "பஜனை"
+      ],
+      "tagsEn": [
+        "aadidum",
+        "perumaan",
+        "bhajanai"
+      ],
+      "searchAliases": [
+        "atitum",
+        "peruman",
+        "atidum",
+        "aditum",
+        "beruman",
+        "adidum"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-11",
+      "sortOrder": 149,
+      "isActive": false,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000167",
+      "artistId": "ar_udayalur_sri_kalyanaraman_bhagavathar",
+      "categoryId": "cat_namavali",
+      "titleTa": "பரிசுத பரிசுத ஸத்குரு கிருபா",
+      "titleEn": "Parisutha parisutha satguru kripa",
+      "audioPath": "songs/sg_000167_9df9e4fb_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 61,
+      "fileSizeBytes": 735308,
+      "tagsTa": [
+        "பரிசுத",
+        "ஸத்குரு",
+        "கிருபா",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "parisutha",
+        "satguru",
+        "kripa",
+        "namavali"
+      ],
+      "searchAliases": [
+        "sadkuru",
+        "kirupa",
+        "parisudha",
+        "parichutha",
+        "barisutha",
+        "sadguru",
+        "satkuru",
+        "kiruba",
+        "girupa",
+        "krupa",
+        "parisuda",
+        "parichudha",
+        "barisudha",
+        "barichutha",
+        "sadhkuru",
+        "giruba",
+        "parichuda",
+        "barisuda",
+        "barichudha",
+        "sadhguru",
+        "sathkuru",
+        "barichuda",
+        "sathguru"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-11",
+      "sortOrder": 150,
+      "isActive": false,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000168",
+      "artistId": "ar_udayalur_sri_kalyanaraman_bhagavathar",
+      "categoryId": "cat_bhajanai",
+      "titleTa": "ஹரே முராரே மது கைடபாரே",
+      "titleEn": "Hare Murare Madhu Kaitabhare",
+      "audioPath": "songs/sg_000168_35433ce4_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 52,
+      "fileSizeBytes": 622124,
+      "tagsTa": [
+        "ஹரே",
+        "முராரே",
+        "மது",
+        "கைடபாரே",
+        "பஜனை"
+      ],
+      "tagsEn": [
+        "hare",
+        "murare",
+        "madhu",
+        "kaitabhare",
+        "bhajanai"
+      ],
+      "searchAliases": [
+        "mathu",
+        "kaitapare",
+        "mrare",
+        "mrure",
+        "kaitabare",
+        "kaidapare",
+        "gaitapare",
+        "madu",
+        "kaidabare",
+        "gaitabare",
+        "gaidapare",
+        "gaidabare"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-11",
+      "sortOrder": 151,
+      "isActive": false,
       "isFeatured": false
     }
   ]
