@@ -5919,6 +5919,332 @@
       "sortOrder": 151,
       "isActive": true,
       "isFeatured": false
+    },
+    {
+      "id": "sg_000169",
+      "artistId": "ar_sri_vittal_vinod_bhagavathar",
+      "categoryId": "cat_chanting",
+      "titleTa": "ஜெய் ஜெய் ராம் ஜெய் ஜெய் ராம்",
+      "titleEn": "Jai Jai Ram Jai Jai Ram",
+      "audioPath": "songs/sg_000169_ad40a385_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 60,
+      "fileSizeBytes": 719180,
+      "tagsTa": [
+        "ஜெய்",
+        "ராம்",
+        "ஜபம்"
+      ],
+      "tagsEn": [
+        "ram",
+        "chanting"
+      ],
+      "searchAliases": [
+        "jey"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-11",
+      "sortOrder": 152,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000170",
+      "artistId": "ar_sri_vittal_vinod_bhagavathar",
+      "categoryId": "cat_bhajanai",
+      "titleTa": "கஜமுக போல்",
+      "titleEn": "Gajamukha Bol",
+      "audioPath": "songs/sg_000170_ffe166a9_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 58,
+      "fileSizeBytes": 699884,
+      "tagsTa": [
+        "கஜமுக",
+        "போல்",
+        "பஜனை"
+      ],
+      "tagsEn": [
+        "gajamukha",
+        "bol",
+        "bhajanai"
+      ],
+      "searchAliases": [
+        "kajamuka",
+        "pol",
+        "kajamuga",
+        "gajamuka",
+        "gajamuga"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-11",
+      "sortOrder": 153,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000171",
+      "artistId": "ar_sri_vittal_vinod_bhagavathar",
+      "categoryId": "cat_bhajanai",
+      "titleTa": "சத்குரு நாத சுவாமி ஹரி",
+      "titleEn": "Sadguru Natha Swami hari",
+      "audioPath": "songs/sg_000171_c831364f_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 57,
+      "fileSizeBytes": 687212,
+      "tagsTa": [
+        "சத்குரு",
+        "நாத",
+        "சுவாமி",
+        "ஹரி",
+        "பஜனை"
+      ],
+      "tagsEn": [
+        "sadguru",
+        "natha",
+        "swami",
+        "hari",
+        "bhajanai"
+      ],
+      "searchAliases": [
+        "sadkuru",
+        "suvami",
+        "satkuru",
+        "chadkuru",
+        "nadha",
+        "chuvami",
+        "satguru",
+        "chadguru",
+        "sadhkuru",
+        "chatkuru",
+        "nada",
+        "sadhguru",
+        "chatguru",
+        "sathkuru",
+        "chadhkuru",
+        "sathguru",
+        "chadhguru",
+        "chathkuru",
+        "chathguru"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-11",
+      "sortOrder": 154,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000172",
+      "artistId": "ar_sri_vittal_vinod_bhagavathar",
+      "categoryId": "cat_bhajanai",
+      "titleTa": "பிரம்ம மூர்த்தி சாந்தா",
+      "titleEn": "Brahma Murthi Santha",
+      "audioPath": "songs/sg_000172_7875c57f_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 51,
+      "fileSizeBytes": 610028,
+      "tagsTa": [
+        "பிரம்ம",
+        "மூர்த்தி",
+        "சாந்தா",
+        "பஜனை"
+      ],
+      "tagsEn": [
+        "brahma",
+        "murthi",
+        "santha",
+        "bhajanai"
+      ],
+      "searchAliases": [
+        "piramma",
+        "murdthi",
+        "biramma",
+        "pramma",
+        "primma",
+        "murddhi",
+        "murtthi",
+        "sandha",
+        "chantha",
+        "murddi",
+        "murtdhi",
+        "murdhthi",
+        "sanda",
+        "chandha",
+        "murtdi",
+        "murdhdhi",
+        "murththi",
+        "chanda",
+        "murdhdi",
+        "murthdhi",
+        "murthdi"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-11",
+      "sortOrder": 155,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000173",
+      "artistId": "ar_sri_vittal_vinod_bhagavathar",
+      "categoryId": "cat_namavali",
+      "titleTa": "விட்டல விட்டல பாண்டுரங்கா",
+      "titleEn": "vittala vittala panduranga",
+      "audioPath": "songs/sg_000173_e2e72ffc_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 58,
+      "fileSizeBytes": 696140,
+      "tagsTa": [
+        "விட்டல",
+        "பாண்டுரங்கா",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "vittala",
+        "panduranga",
+        "namavali"
+      ],
+      "searchAliases": [
+        "panturangka",
+        "vitdala",
+        "vidtala",
+        "panturangga",
+        "pandurangka",
+        "banturangka",
+        "viddala",
+        "pandurangga",
+        "banturangga",
+        "bandurangka",
+        "bandurangga"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-11",
+      "sortOrder": 156,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000174",
+      "artistId": "ar_sri_vittal_vinod_bhagavathar",
+      "categoryId": "cat_bhajanai",
+      "titleTa": "கோபுரத்தின் உச்சியிலே என் குரலும் கேட்கலையோ",
+      "titleEn": "Gopurathu Uchiyile En Kural kaetkalaiyoa",
+      "audioPath": "songs/sg_000174_a67b23d0_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 61,
+      "fileSizeBytes": 734732,
+      "tagsTa": [
+        "கோபுரத்தின்",
+        "உச்சியிலே",
+        "என்",
+        "குரலும்",
+        "கேட்கலையோ",
+        "பஜனை"
+      ],
+      "tagsEn": [
+        "gopurathu",
+        "uchiyile",
+        "en",
+        "kural",
+        "kaetkalaiyoa",
+        "bhajanai"
+      ],
+      "searchAliases": [
+        "kopuradthin",
+        "ussiyile",
+        "kuralum",
+        "ketkalaiyo",
+        "kopuraddhin",
+        "kopuratthin",
+        "koburadthin",
+        "gopuradthin",
+        "uschiyile",
+        "uchsiyile",
+        "guralum",
+        "kralum",
+        "krulum",
+        "ketgalaiyo",
+        "kedkalaiyo",
+        "getkalaiyo",
+        "kopuraddin",
+        "kopuratdhin",
+        "koburaddhin",
+        "gopuraddhin",
+        "kopuradhthin",
+        "koburatthin",
+        "gopuratthin",
+        "goburadthin"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-11",
+      "sortOrder": 157,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000175",
+      "artistId": "ar_sri_vittal_vinod_bhagavathar",
+      "categoryId": "cat_chanting",
+      "titleTa": "ஓம் நம சிவாய",
+      "titleEn": "Om Namah Shivaya",
+      "audioPath": "songs/sg_000175_b08e97cc_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 52,
+      "fileSizeBytes": 629900,
+      "tagsTa": [
+        "ஓம்",
+        "நம",
+        "சிவாய",
+        "ஜபம்"
+      ],
+      "tagsEn": [
+        "om",
+        "namah",
+        "shivaya",
+        "chanting"
+      ],
+      "searchAliases": [
+        "nama",
+        "sivaya",
+        "chivaya"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-11",
+      "sortOrder": 158,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000176",
+      "artistId": "ar_sri_vittal_vinod_bhagavathar",
+      "categoryId": "cat_chanting",
+      "titleTa": "ஜெய் ஜெய் விட்டல ஜெய் ஹரி விட்டல",
+      "titleEn": "Jai Jai vittala Jai hari vittala",
+      "audioPath": "songs/sg_000176_827dcc9d_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 60,
+      "fileSizeBytes": 716300,
+      "tagsTa": [
+        "ஜெய்",
+        "விட்டல",
+        "ஹரி",
+        "ஜபம்"
+      ],
+      "tagsEn": [
+        "vittala",
+        "hari",
+        "chanting"
+      ],
+      "searchAliases": [
+        "jey",
+        "vitdala",
+        "vidtala",
+        "viddala"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-11",
+      "sortOrder": 159,
+      "isActive": true,
+      "isFeatured": true
     }
   ]
 }

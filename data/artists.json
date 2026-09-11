@@ -8,7 +8,7 @@
       "nameEn": "Govindapuram Sri Muralidharadas Bhagavathar",
       "photoPath": "artists/ar_govindapuram_sri_muralidharadas_e7c73acb.webp",
       "songCount": 25,
-      "sortOrder": 2,
+      "sortOrder": 35,
       "isActive": true
     },
     {
@@ -180,6 +180,15 @@
       "photoPath": "artists/ar_udayalur_sri_kalyanaraman_bhagavathar_18d9b3ba.webp",
       "songCount": 3,
       "sortOrder": 1,
+      "isActive": true
+    },
+    {
+      "id": "ar_sri_vittal_vinod_bhagavathar",
+      "nameTa": "ஸ்ரீ விட்டல் வினோத் பாகவதர்",
+      "nameEn": "Sri Vittal Vinod Bhagavathar",
+      "photoPath": "artists/ar_sri_vittal_vinod_bhagavathar_b853b375.webp",
+      "songCount": 8,
+      "sortOrder": 36,
       "isActive": true
     }
   ]
