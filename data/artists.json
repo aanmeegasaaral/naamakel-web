@@ -43,7 +43,7 @@
       "nameTa": "பெங்களூர் ஸ்ரீ கார்த்திக் பாகவதர்",
       "nameEn": "Bangalore Sri Karthik Bhagavathar",
       "photoPath": "artists/ar_bangalore_sri_karthik_bhagavathar_50319f87.webp",
-      "songCount": 1,
+      "songCount": 3,
       "sortOrder": 5,
       "isActive": true
     },
@@ -162,6 +162,15 @@
       "photoPath": "artists/ar_valadi_sri_karthik_bhagavathar_dbb7c1b1.webp",
       "songCount": 1,
       "sortOrder": 18,
+      "isActive": true
+    },
+    {
+      "id": "ar_chennai_sri_karthik_gnaneshwar_bhagavathar",
+      "nameTa": "சென்னை ஸ்ரீ கார்த்திக் ஞானேஷ்வர் பாகவதர்",
+      "nameEn": "Chennai Sri Karthik Gnaneshwar Bhagavathar",
+      "photoPath": "artists/ar_chennai_sri_karthik_gnaneshwar_bhagavathar_6b4faa2e.webp",
+      "songCount": 5,
+      "sortOrder": 19,
       "isActive": true
     }
   ]
