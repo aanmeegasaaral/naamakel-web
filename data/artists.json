@@ -199,6 +199,15 @@
       "songCount": 7,
       "sortOrder": 37,
       "isActive": true
+    },
+    {
+      "id": "ar_muscat_sri_anand_bhagavathar",
+      "nameTa": "மஸ்கட் ஸ்ரீ ஆனந்த் பாகவதர்",
+      "nameEn": "Muscat Sri Anand Bhagavathar",
+      "photoPath": "artists/ar_muscat_sri_anand_bhagavathar_ccf85fcf.webp",
+      "songCount": 7,
+      "sortOrder": 38,
+      "isActive": true
     }
   ]
 }

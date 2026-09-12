@@ -6537,6 +6537,280 @@
       "sortOrder": 166,
       "isActive": true,
       "isFeatured": false
+    },
+    {
+      "id": "sg_000184",
+      "artistId": "ar_muscat_sri_anand_bhagavathar",
+      "categoryId": "cat_chanting",
+      "titleTa": "ஞானானந்த குரு ஞானானந்தா",
+      "titleEn": "gnananantha guru gnanananda",
+      "audioPath": "songs/sg_000184_740fd03c_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 62,
+      "fileSizeBytes": 739628,
+      "tagsTa": [
+        "ஞானானந்த",
+        "குரு",
+        "ஞானானந்தா",
+        "ஜபம்"
+      ],
+      "tagsEn": [
+        "gnananantha",
+        "guru",
+        "gnanananda",
+        "chanting"
+      ],
+      "searchAliases": [
+        "njananantha",
+        "kuru",
+        "njananandha",
+        "njanananda"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-12",
+      "sortOrder": 167,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000185",
+      "artistId": "ar_muscat_sri_anand_bhagavathar",
+      "categoryId": "cat_namavali",
+      "titleTa": "ஜெய் குரு ஓம்கார ஜெய் சத்குரு ஓம்கார",
+      "titleEn": "jai guru omkara jai sadguru omkara",
+      "audioPath": "songs/sg_000185_78ded4e4_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 57,
+      "fileSizeBytes": 679148,
+      "tagsTa": [
+        "ஜெய்",
+        "குரு",
+        "ஓம்கார",
+        "சத்குரு",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "guru",
+        "omkara",
+        "sadguru",
+        "namavali"
+      ],
+      "searchAliases": [
+        "jey",
+        "kuru",
+        "sadkuru",
+        "omgara",
+        "satkuru",
+        "chadkuru",
+        "satguru",
+        "chadguru",
+        "sadhkuru",
+        "chatkuru",
+        "sadhguru",
+        "chatguru",
+        "sathkuru",
+        "chadhkuru",
+        "sathguru",
+        "chadhguru",
+        "chathkuru",
+        "chathguru"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-12",
+      "sortOrder": 168,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000186",
+      "artistId": "ar_muscat_sri_anand_bhagavathar",
+      "categoryId": "cat_bhajanai",
+      "titleTa": "சங்கர குரு சங்கர குரு",
+      "titleEn": "Shankara Guru Shankara Guru",
+      "audioPath": "songs/sg_000186_cb247fd5_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 54,
+      "fileSizeBytes": 642860,
+      "tagsTa": [
+        "சங்கர",
+        "குரு",
+        "பஜனை"
+      ],
+      "tagsEn": [
+        "shankara",
+        "guru",
+        "bhajanai"
+      ],
+      "searchAliases": [
+        "sangkara",
+        "kuru",
+        "sanggara",
+        "changkara",
+        "changgara"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-12",
+      "sortOrder": 169,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000187",
+      "artistId": "ar_muscat_sri_anand_bhagavathar",
+      "categoryId": "cat_namavali",
+      "titleTa": "trividha thApAsi hAraka hE gurupAya",
+      "titleEn": "trividha thApAsi hAraka hE gurupAya",
+      "audioPath": "songs/sg_000187_2922c37e_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 56,
+      "fileSizeBytes": 667340,
+      "tagsTa": [
+        "trividha",
+        "thApAsi",
+        "hAraka",
+        "hE",
+        "gurupAya",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "trividha",
+        "thapasi",
+        "haraka",
+        "he",
+        "gurupaya",
+        "namavali"
+      ],
+      "searchAliases": [],
+      "thumbPath": null,
+      "publishedAt": "2026-09-12",
+      "sortOrder": 170,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000188",
+      "artistId": "ar_muscat_sri_anand_bhagavathar",
+      "categoryId": "cat_namavali",
+      "titleTa": "ஞானானந்த ஞானானந்த ஞானானந்த தேவா",
+      "titleEn": "gnanananda gnanananda gnanananda deva",
+      "audioPath": "songs/sg_000188_ff7ed83a_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 44,
+      "fileSizeBytes": 531980,
+      "tagsTa": [
+        "ஞானானந்த",
+        "தேவா",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "gnanananda",
+        "deva",
+        "namavali"
+      ],
+      "searchAliases": [
+        "njananantha",
+        "theva",
+        "njananandha",
+        "dheva",
+        "njanananda"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-12",
+      "sortOrder": 171,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000189",
+      "artistId": "ar_muscat_sri_anand_bhagavathar",
+      "categoryId": "cat_bhajanai",
+      "titleTa": "பாடுவோமே பேரானந்தம் உடனே",
+      "titleEn": "Paduvome peranandam udane",
+      "audioPath": "songs/sg_000189_f52a84fb_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 56,
+      "fileSizeBytes": 672524,
+      "tagsTa": [
+        "பாடுவோமே",
+        "பேரானந்தம்",
+        "உடனே",
+        "பஜனை"
+      ],
+      "tagsEn": [
+        "paduvome",
+        "peranandam",
+        "udane",
+        "bhajanai"
+      ],
+      "searchAliases": [
+        "patuvome",
+        "peranantham",
+        "utane",
+        "batuvome",
+        "peranandham",
+        "beranantham",
+        "baduvome",
+        "beranandham",
+        "beranandam"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-12",
+      "sortOrder": 172,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000190",
+      "artistId": "ar_muscat_sri_anand_bhagavathar",
+      "categoryId": "cat_namavali",
+      "titleTa": "பரிசுத பரிசுத ஸத்குரு கிருபா",
+      "titleEn": "Parisutha parisutha satguru kripa",
+      "audioPath": "songs/sg_000190_5f522322_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 64,
+      "fileSizeBytes": 774188,
+      "tagsTa": [
+        "பரிசுத",
+        "ஸத்குரு",
+        "கிருபா",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "parisutha",
+        "satguru",
+        "kripa",
+        "namavali"
+      ],
+      "searchAliases": [
+        "sadkuru",
+        "kirupa",
+        "parisudha",
+        "parichutha",
+        "barisutha",
+        "sadguru",
+        "satkuru",
+        "kiruba",
+        "girupa",
+        "krupa",
+        "parisuda",
+        "parichudha",
+        "barisudha",
+        "barichutha",
+        "sadhkuru",
+        "giruba",
+        "parichuda",
+        "barisuda",
+        "barichudha",
+        "sadhguru",
+        "sathkuru",
+        "barichuda",
+        "sathguru"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-12",
+      "sortOrder": 173,
+      "isActive": true,
+      "isFeatured": false
     }
   ]
 }
