@@ -6245,6 +6245,298 @@
       "sortOrder": 159,
       "isActive": true,
       "isFeatured": true
+    },
+    {
+      "id": "sg_000177",
+      "artistId": "ar_kum_rajeevi_ganesh",
+      "categoryId": "cat_bhajanai",
+      "titleTa": "ரகுபதே ராமச்சந்திரா",
+      "titleEn": "Raghupathe Ramachandra",
+      "audioPath": "songs/sg_000177_8bef8728_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 57,
+      "fileSizeBytes": 678860,
+      "tagsTa": [
+        "ரகுபதே",
+        "ராமச்சந்திரா",
+        "பஜனை"
+      ],
+      "tagsEn": [
+        "raghupathe",
+        "ramachandra",
+        "bhajanai"
+      ],
+      "searchAliases": [
+        "rakupathe",
+        "ramassanthira",
+        "rakupadhe",
+        "rakubathe",
+        "ragupathe",
+        "ramassandhira",
+        "ramaschanthira",
+        "ramachsanthira",
+        "rakupade",
+        "rakubadhe",
+        "ragupadhe",
+        "ragubathe",
+        "ramassandira",
+        "ramaschandhira",
+        "ramachsandhira",
+        "ramachchanthira",
+        "rakubade",
+        "ragupade",
+        "ragubadhe",
+        "ramaschandira",
+        "ramachsandira",
+        "ramachchandhira",
+        "ragubade",
+        "ramachchandira"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-12",
+      "sortOrder": 160,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000178",
+      "artistId": "ar_kum_rajeevi_ganesh",
+      "categoryId": "cat_bhajanai",
+      "titleTa": "சத்குரு பாஹிமாம்",
+      "titleEn": "Sadguru Pahimam",
+      "audioPath": "songs/sg_000178_fff3debb_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 50,
+      "fileSizeBytes": 603980,
+      "tagsTa": [
+        "சத்குரு",
+        "பாஹிமாம்",
+        "பஜனை"
+      ],
+      "tagsEn": [
+        "sadguru",
+        "pahimam",
+        "bhajanai"
+      ],
+      "searchAliases": [
+        "sadkuru",
+        "satkuru",
+        "chadkuru",
+        "bahimam",
+        "satguru",
+        "chadguru",
+        "sadhkuru",
+        "chatkuru",
+        "sadhguru",
+        "chatguru",
+        "sathkuru",
+        "chadhkuru",
+        "sathguru",
+        "chadhguru",
+        "chathkuru",
+        "chathguru"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-12",
+      "sortOrder": 161,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000179",
+      "artistId": "ar_kum_rajeevi_ganesh",
+      "categoryId": "cat_namavali",
+      "titleTa": "குருநாத குருநாத ராகவேந்திர சத்குருநாதா",
+      "titleEn": "gurunatha gurunatha raghavendra sadgurunatha",
+      "audioPath": "songs/sg_000179_088203d7_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 60,
+      "fileSizeBytes": 720620,
+      "tagsTa": [
+        "குருநாத",
+        "ராகவேந்திர",
+        "சத்குருநாதா",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "gurunatha",
+        "raghavendra",
+        "sadgurunatha",
+        "namavali"
+      ],
+      "searchAliases": [
+        "kurunatha",
+        "rakaventhira",
+        "sadkurunatha",
+        "kurunadha",
+        "rakavendhira",
+        "ragaventhira",
+        "sadkurunadha",
+        "satkurunatha",
+        "chadkurunatha",
+        "kurunada",
+        "gurunadha",
+        "rakavendira",
+        "ragavendhira",
+        "sadkurunada",
+        "sadgurunadha",
+        "satkurunadha",
+        "chadkurunadha",
+        "satgurunatha",
+        "chadgurunatha",
+        "sadhkurunatha",
+        "chatkurunatha",
+        "gurunada",
+        "ragavendira",
+        "sadgurunada"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-12",
+      "sortOrder": 162,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000180",
+      "artistId": "ar_kum_rajeevi_ganesh",
+      "categoryId": "cat_namavali",
+      "titleTa": "ஞானானந்த ஞானானந்த ஞானானந்த தேவா",
+      "titleEn": "gnanananda gnanananda gnanananda deva",
+      "audioPath": "songs/sg_000180_858a38cc_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 56,
+      "fileSizeBytes": 675980,
+      "tagsTa": [
+        "ஞானானந்த",
+        "தேவா",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "gnanananda",
+        "deva",
+        "namavali"
+      ],
+      "searchAliases": [
+        "njananantha",
+        "theva",
+        "njananandha",
+        "dheva",
+        "njanananda"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-12",
+      "sortOrder": 163,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000181",
+      "artistId": "ar_kum_rajeevi_ganesh",
+      "categoryId": "cat_chanting",
+      "titleTa": "ஜய ஜய சங்கரா",
+      "titleEn": "jay jay shankara",
+      "audioPath": "songs/sg_000181_afc43130_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 59,
+      "fileSizeBytes": 713420,
+      "tagsTa": [
+        "ஜய",
+        "சங்கரா",
+        "பஜனை"
+      ],
+      "tagsEn": [
+        "jay",
+        "shankara",
+        "bhajanai"
+      ],
+      "searchAliases": [
+        "jaya",
+        "sangkara",
+        "sanggara",
+        "changkara",
+        "changgara"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-12",
+      "sortOrder": 164,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000182",
+      "artistId": "ar_kum_rajeevi_ganesh",
+      "categoryId": "cat_bhajanai",
+      "titleTa": "ஆடிடும் பெருமான்",
+      "titleEn": "Aadidum perumaan",
+      "audioPath": "songs/sg_000182_5ee6067b_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 57,
+      "fileSizeBytes": 688940,
+      "tagsTa": [
+        "ஆடிடும்",
+        "பெருமான்",
+        "பஜனை"
+      ],
+      "tagsEn": [
+        "aadidum",
+        "perumaan",
+        "bhajanai"
+      ],
+      "searchAliases": [
+        "atitum",
+        "peruman",
+        "atidum",
+        "aditum",
+        "beruman",
+        "adidum"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-12",
+      "sortOrder": 165,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000183",
+      "artistId": "ar_kum_rajeevi_ganesh",
+      "categoryId": "cat_namavali",
+      "titleTa": "பம்பா கணபதி",
+      "titleEn": "Pamba Ganapathi",
+      "audioPath": "songs/sg_000183_6402f1df_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 51,
+      "fileSizeBytes": 612908,
+      "tagsTa": [
+        "பம்பா",
+        "கணபதி",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "pamba",
+        "ganapathi",
+        "namavali"
+      ],
+      "searchAliases": [
+        "pampa",
+        "kanapathi",
+        "bampa",
+        "kanapadhi",
+        "kanabathi",
+        "bamba",
+        "kanapadi",
+        "kanabadhi",
+        "ganapadhi",
+        "ganabathi",
+        "kanabadi",
+        "ganapadi",
+        "ganabadhi",
+        "ganabadi"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-12",
+      "sortOrder": 166,
+      "isActive": true,
+      "isFeatured": false
     }
   ]
 }

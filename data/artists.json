@@ -190,6 +190,15 @@
       "songCount": 8,
       "sortOrder": 36,
       "isActive": true
+    },
+    {
+      "id": "ar_kum_rajeevi_ganesh",
+      "nameTa": "குமாரி ராஜீவி கணேஷ்",
+      "nameEn": "Kum Rajeevi Ganesh",
+      "photoPath": "artists/ar_kum_rajeevi_ganesh_e2d566ff.webp",
+      "songCount": 7,
+      "sortOrder": 37,
+      "isActive": true
     }
   ]
 }
