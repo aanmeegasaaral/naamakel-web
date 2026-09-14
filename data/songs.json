@@ -6811,6 +6811,1146 @@
       "sortOrder": 173,
       "isActive": true,
       "isFeatured": false
+    },
+    {
+      "id": "sg_000191",
+      "artistId": "ar_govindapuram_sri_srinath_das_bhagavathar",
+      "categoryId": "cat_namavali",
+      "titleTa": "குரு த்யாயி குரு த்யாயி",
+      "titleEn": "Guru Dhyayi Guru Dhyayi",
+      "audioPath": "songs/sg_000191_9859f723_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 59,
+      "fileSizeBytes": 706508,
+      "tagsTa": [
+        "குரு",
+        "த்யாயி",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "guru",
+        "dhyayi",
+        "namavali"
+      ],
+      "searchAliases": [
+        "kuru",
+        "dyayi",
+        "tyayi",
+        "thyayi"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-14",
+      "sortOrder": 174,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000192",
+      "artistId": "ar_govindapuram_sri_srinath_das_bhagavathar",
+      "categoryId": "cat_namavali",
+      "titleTa": "ஹர ஹர போலா நாத உமா பாதே",
+      "titleEn": "Hara Hara Bhola Natha Uma Pathey",
+      "audioPath": "songs/sg_000192_e919224b_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 56,
+      "fileSizeBytes": 673964,
+      "tagsTa": [
+        "ஹர",
+        "போலா",
+        "நாத",
+        "உமா",
+        "பாதே",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "hara",
+        "bhola",
+        "natha",
+        "uma",
+        "pathey",
+        "namavali"
+      ],
+      "searchAliases": [
+        "pola",
+        "pathe",
+        "bola",
+        "nadha",
+        "padhe",
+        "bathe",
+        "nada",
+        "pade",
+        "badhe",
+        "bade"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-14",
+      "sortOrder": 175,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000193",
+      "artistId": "ar_govindapuram_sri_srinath_das_bhagavathar",
+      "categoryId": "cat_namavali",
+      "titleTa": "பச்சை மயில் வாகனனே",
+      "titleEn": "pachai mayil vaahanane",
+      "audioPath": "songs/sg_000193_5b4c9fa1_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 58,
+      "fileSizeBytes": 699020,
+      "tagsTa": [
+        "பச்சை",
+        "மயில்",
+        "வாகனனே",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "pachai",
+        "mayil",
+        "vaahanane",
+        "namavali"
+      ],
+      "searchAliases": [
+        "passai",
+        "vakanane",
+        "paschai",
+        "pachsai",
+        "bassai",
+        "vaganane",
+        "pachchai",
+        "baschai",
+        "bachsai",
+        "bachchai"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-14",
+      "sortOrder": 176,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000194",
+      "artistId": "ar_govindapuram_sri_srinath_das_bhagavathar",
+      "categoryId": "cat_namavali",
+      "titleTa": "வேலவா வேலவா வேல்முருகா வா வா",
+      "titleEn": "velava velava vel muruga vaa vaa",
+      "audioPath": "songs/sg_000194_8c7a3661_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 55,
+      "fileSizeBytes": 659276,
+      "tagsTa": [
+        "வேலவா",
+        "வேல்முருகா",
+        "வா",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "velava",
+        "vel",
+        "muruga",
+        "vaa",
+        "namavali"
+      ],
+      "searchAliases": [
+        "velmuruka",
+        "va",
+        "velmuruga"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-14",
+      "sortOrder": 177,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000195",
+      "artistId": "ar_govindapuram_sri_srinath_das_bhagavathar",
+      "categoryId": "cat_namavali",
+      "titleTa": "விட்டல விட்டல பாண்டுரங்கா",
+      "titleEn": "vittala vittala panduranga",
+      "audioPath": "songs/sg_000195_bf733bd5_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 49,
+      "fileSizeBytes": 588140,
+      "tagsTa": [
+        "விட்டல",
+        "பாண்டுரங்கா",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "vittala",
+        "panduranga",
+        "namavali"
+      ],
+      "searchAliases": [
+        "panturangka",
+        "vitdala",
+        "vidtala",
+        "panturangga",
+        "pandurangka",
+        "banturangka",
+        "viddala",
+        "pandurangga",
+        "banturangga",
+        "bandurangka",
+        "bandurangga"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-14",
+      "sortOrder": 178,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000196",
+      "artistId": "ar_kadayanallur_sri_rajagopal_das_bhagavathar",
+      "categoryId": "cat_bhajanai",
+      "titleTa": "மதகஜ கமந மங்கள சரணா",
+      "titleEn": "Madhagaja Gamana Mangala Charana",
+      "audioPath": "songs/sg_000196_16a748b4_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 61,
+      "fileSizeBytes": 737900,
+      "tagsTa": [
+        "மதகஜ",
+        "கமந",
+        "மங்கள",
+        "சரணா",
+        "பஜனை"
+      ],
+      "tagsEn": [
+        "madhagaja",
+        "gamana",
+        "mangala",
+        "charana",
+        "bhajanai"
+      ],
+      "searchAliases": [
+        "mathakaja",
+        "kamana",
+        "mangkala",
+        "sarana",
+        "mathagaja",
+        "madhakaja",
+        "manggala",
+        "madakaja",
+        "madagaja"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-14",
+      "sortOrder": 179,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000197",
+      "artistId": "ar_kadayanallur_sri_rajagopal_das_bhagavathar",
+      "categoryId": "cat_namavali",
+      "titleTa": "சத்குரு வச்சோனி சப்தேனா சோய்",
+      "titleEn": "SADGURU VACHONI SAPDENA SOY",
+      "audioPath": "songs/sg_000197_e254b939_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 61,
+      "fileSizeBytes": 727244,
+      "tagsTa": [
+        "சத்குரு",
+        "வச்சோனி",
+        "சப்தேனா",
+        "சோய்",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "sadguru",
+        "vachoni",
+        "sapdena",
+        "soy",
+        "namavali"
+      ],
+      "searchAliases": [
+        "sadkuru",
+        "vassoni",
+        "sapthena",
+        "satkuru",
+        "chadkuru",
+        "vaschoni",
+        "vachsoni",
+        "sapdhena",
+        "sabthena",
+        "chapthena",
+        "choy",
+        "satguru",
+        "chadguru",
+        "sadhkuru",
+        "chatkuru",
+        "vachchoni",
+        "sabdhena",
+        "chapdhena",
+        "chabthena",
+        "sadhguru",
+        "chatguru",
+        "sathkuru",
+        "chadhkuru",
+        "sabdena"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-14",
+      "sortOrder": 180,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000198",
+      "artistId": "ar_kadayanallur_sri_rajagopal_das_bhagavathar",
+      "categoryId": "cat_namavali",
+      "titleTa": "சத்குரு ஜெய குரு சச்சிதானந்த குரு",
+      "titleEn": "Sadguru jaya guru sachidananda guru",
+      "audioPath": "songs/sg_000198_29fd1a45_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 39,
+      "fileSizeBytes": 472940,
+      "tagsTa": [
+        "சத்குரு",
+        "ஜெய",
+        "குரு",
+        "சச்சிதானந்த",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "sadguru",
+        "jaya",
+        "guru",
+        "sachidananda",
+        "namavali"
+      ],
+      "searchAliases": [
+        "sadkuru",
+        "jeya",
+        "kuru",
+        "sassithanantha",
+        "satkuru",
+        "chadkuru",
+        "jaia",
+        "sassithanandha",
+        "sassidhanantha",
+        "saschithanantha",
+        "sachsithanantha",
+        "chassithanantha",
+        "satguru",
+        "chadguru",
+        "sadhkuru",
+        "chatkuru",
+        "sassithananda",
+        "sassidhanandha",
+        "saschithanandha",
+        "sachsithanandha",
+        "chassithanandha",
+        "sassidanantha",
+        "saschidhanantha",
+        "sachsidhanantha"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-14",
+      "sortOrder": 181,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000199",
+      "artistId": "ar_kadayanallur_sri_rajagopal_das_bhagavathar",
+      "categoryId": "cat_namavali",
+      "titleTa": "யேஹி கோபால ஸ்ரீ வனமாலா",
+      "titleEn": "Yehi Gopala Sri Vanamala",
+      "audioPath": "songs/sg_000199_029a672f_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 60,
+      "fileSizeBytes": 721196,
+      "tagsTa": [
+        "யேஹி",
+        "கோபால",
+        "ஸ்ரீ",
+        "வனமாலா",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "yehi",
+        "gopala",
+        "vanamala",
+        "namavali"
+      ],
+      "searchAliases": [
+        "kopala",
+        "kobala",
+        "shri",
+        "gobala"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-14",
+      "sortOrder": 182,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000200",
+      "artistId": "ar_kadayanallur_sri_rajagopal_das_bhagavathar",
+      "categoryId": "cat_namavali",
+      "titleTa": "ஶங்க சக்ர தாரா வைஜயந்தி தாரா",
+      "titleEn": "Shankha chakra dhara Vyjayanthi dhara",
+      "audioPath": "songs/sg_000200_122bdbc2_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 49,
+      "fileSizeBytes": 585836,
+      "tagsTa": [
+        "ஶங்க",
+        "சக்ர",
+        "தாரா",
+        "வைஜயந்தி",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "shankha",
+        "chakra",
+        "dhara",
+        "vyjayanthi",
+        "namavali"
+      ],
+      "searchAliases": [
+        "ngka",
+        "sakra",
+        "thara",
+        "vaijayanthi",
+        "ngga",
+        "sagra",
+        "vaijayandhi",
+        "chagra",
+        "dara",
+        "vaijayandi"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-14",
+      "sortOrder": 183,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000201",
+      "artistId": "ar_kadayanallur_sri_rajagopal_das_bhagavathar",
+      "categoryId": "cat_chanting",
+      "titleTa": "பாண்டுரங்கா பாண்டுரங்கா",
+      "titleEn": "panduranga panduranga",
+      "audioPath": "songs/sg_000201_46cf77f0_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 59,
+      "fileSizeBytes": 705932,
+      "tagsTa": [
+        "பாண்டுரங்கா",
+        "ஜபம்"
+      ],
+      "tagsEn": [
+        "panduranga",
+        "chanting"
+      ],
+      "searchAliases": [
+        "panturangka",
+        "panturangga",
+        "pandurangka",
+        "banturangka",
+        "pandurangga",
+        "banturangga",
+        "bandurangka",
+        "bandurangga"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-14",
+      "sortOrder": 184,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000202",
+      "artistId": "ar_kadayanallur_sri_rajagopal_das_bhagavathar",
+      "categoryId": "cat_namavali",
+      "titleTa": "கோவிந்த தாமோதரா தாமோதரா",
+      "titleEn": "govinda damodara damodara",
+      "audioPath": "songs/sg_000202_ab1ab3a8_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 60,
+      "fileSizeBytes": 720620,
+      "tagsTa": [
+        "கோவிந்த",
+        "தாமோதரா",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "govinda",
+        "damodara",
+        "namavali"
+      ],
+      "searchAliases": [
+        "kovintha",
+        "thamothara",
+        "kovindha",
+        "govintha",
+        "thamodhara",
+        "dhamothara",
+        "kovinda",
+        "govindha",
+        "thamodara",
+        "dhamodhara",
+        "damothara",
+        "dhamodara",
+        "damodhara"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-14",
+      "sortOrder": 185,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000203",
+      "artistId": "ar_kadayanallur_sri_rajagopal_das_bhagavathar",
+      "categoryId": "cat_namavali",
+      "titleTa": "வித்தோபா ராமகிருஷ்ண ஹரி",
+      "titleEn": "Vithoba Ramakrishna Hari",
+      "audioPath": "songs/sg_000203_70dabf4d_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 33,
+      "fileSizeBytes": 392588,
+      "tagsTa": [
+        "வித்தோபா",
+        "ராமகிருஷ்ண",
+        "ஹரி",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "vithoba",
+        "ramakrishna",
+        "hari",
+        "namavali"
+      ],
+      "searchAliases": [
+        "vidthopa",
+        "ramakirushna",
+        "vidthoba",
+        "viddhopa",
+        "vitthopa",
+        "ramakirusna",
+        "ramagirushna",
+        "viddhoba",
+        "vitthoba",
+        "viddopa",
+        "vitdhopa",
+        "vidhthopa",
+        "ramagirusna",
+        "viddoba",
+        "vitdhoba",
+        "vidhthoba",
+        "vitdopa",
+        "vidhdhopa",
+        "viththopa",
+        "vitdoba"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-14",
+      "sortOrder": 186,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000204",
+      "artistId": "ar_kadayanallur_sri_rajagopal_das_bhagavathar",
+      "categoryId": "cat_chanting",
+      "titleTa": "ராமகிருஷ்ண ஹரி பாண்டுரங்க ஹரி",
+      "titleEn": "Ramakrishna Hari Panduranga Hari",
+      "audioPath": "songs/sg_000204_c4341a5b_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 59,
+      "fileSizeBytes": 714284,
+      "tagsTa": [
+        "ராமகிருஷ்ண",
+        "ஹரி",
+        "பாண்டுரங்க",
+        "ஜபம்"
+      ],
+      "tagsEn": [
+        "ramakrishna",
+        "hari",
+        "panduranga",
+        "chanting"
+      ],
+      "searchAliases": [
+        "ramakirushna",
+        "panturangka",
+        "ramakirusna",
+        "ramagirushna",
+        "panturangga",
+        "pandurangka",
+        "banturangka",
+        "ramagirusna",
+        "pandurangga",
+        "banturangga",
+        "bandurangka",
+        "bandurangga"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-14",
+      "sortOrder": 187,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000205",
+      "artistId": "ar_kadayanallur_sri_rajagopal_das_bhagavathar",
+      "categoryId": "cat_namavali",
+      "titleTa": "ராதே ராதே",
+      "titleEn": "Radhe Radhe",
+      "audioPath": "songs/sg_000205_7f1864a9_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 53,
+      "fileSizeBytes": 633356,
+      "tagsTa": [
+        "ராதே",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "radhe",
+        "namavali"
+      ],
+      "searchAliases": [
+        "rathe",
+        "rade"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-14",
+      "sortOrder": 188,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000206",
+      "artistId": "ar_mayuram_sri_muthukrishna_bhagavathar",
+      "categoryId": "cat_namavali",
+      "titleTa": "அபார மகிமை",
+      "titleEn": "Apaara Mahima",
+      "audioPath": "songs/sg_000206_d5075c7d_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 53,
+      "fileSizeBytes": 639980,
+      "tagsTa": [
+        "அபார",
+        "மகிமை",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "apaara",
+        "mahima",
+        "namavali"
+      ],
+      "searchAliases": [
+        "apara",
+        "makimai",
+        "abara",
+        "magimai"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-14",
+      "sortOrder": 189,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000207",
+      "artistId": "ar_mayuram_sri_muthukrishna_bhagavathar",
+      "categoryId": "cat_namavali",
+      "titleTa": "கிருஷ்ணம் வந்தே ஜகத்குரும்",
+      "titleEn": "Krishnam Vande Jagadgurum",
+      "audioPath": "songs/sg_000207_ed64fdf2_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 56,
+      "fileSizeBytes": 667340,
+      "tagsTa": [
+        "கிருஷ்ணம்",
+        "வந்தே",
+        "ஜகத்குரும்",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "krishnam",
+        "vande",
+        "jagadgurum",
+        "namavali"
+      ],
+      "searchAliases": [
+        "kirushnam",
+        "vanthe",
+        "jakadkurum",
+        "kirusnam",
+        "girushnam",
+        "krushnam",
+        "vandhe",
+        "jakadgurum",
+        "jakatkurum",
+        "jagadkurum",
+        "girusnam",
+        "jakatgurum",
+        "jakadhkurum",
+        "jagatkurum",
+        "jakadhgurum",
+        "jagatgurum",
+        "jakathkurum",
+        "jagadhkurum",
+        "jakathgurum",
+        "jagadhgurum",
+        "jagathkurum",
+        "jagathgurum"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-14",
+      "sortOrder": 190,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000208",
+      "artistId": "ar_mayuram_sri_muthukrishna_bhagavathar",
+      "categoryId": "cat_chanting",
+      "titleTa": "ஜெய் கிருஷ்ண ஜெய் கிருஷ்ண",
+      "titleEn": "jay krishna jay krishna",
+      "audioPath": "songs/sg_000208_07cf108a_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 38,
+      "fileSizeBytes": 457964,
+      "tagsTa": [
+        "ஜெய்",
+        "கிருஷ்ண",
+        "ஜபம்"
+      ],
+      "tagsEn": [
+        "jay",
+        "krishna",
+        "chanting"
+      ],
+      "searchAliases": [
+        "jey",
+        "kirushna",
+        "jai",
+        "kirusna",
+        "girushna",
+        "krushna",
+        "girusna"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-14",
+      "sortOrder": 191,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000209",
+      "artistId": "ar_mayuram_sri_muthukrishna_bhagavathar",
+      "categoryId": "cat_namavali",
+      "titleTa": "கிருஷ்ண பஜோ",
+      "titleEn": "krishna bhajo",
+      "audioPath": "songs/sg_000209_fc24594f_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 59,
+      "fileSizeBytes": 711980,
+      "tagsTa": [
+        "கிருஷ்ண",
+        "பஜோ",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "krishna",
+        "bhajo",
+        "namavali"
+      ],
+      "searchAliases": [
+        "kirushna",
+        "pajo",
+        "kirusna",
+        "girushna",
+        "krushna",
+        "bajo",
+        "girusna"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-14",
+      "sortOrder": 192,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000210",
+      "artistId": "ar_mayuram_sri_muthukrishna_bhagavathar",
+      "categoryId": "cat_bhajanai",
+      "titleTa": "ஹே மாதவா மதுசூதனா",
+      "titleEn": "Hey Madhava Madhusudana",
+      "audioPath": "songs/sg_000210_93f74af3_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 56,
+      "fileSizeBytes": 668780,
+      "tagsTa": [
+        "ஹே",
+        "மாதவா",
+        "மதுசூதனா",
+        "பஜனை"
+      ],
+      "tagsEn": [
+        "hey",
+        "madhava",
+        "madhusudana",
+        "bhajanai"
+      ],
+      "searchAliases": [
+        "he",
+        "mathava",
+        "mathusuthana",
+        "mathusudhana",
+        "mathuchuthana",
+        "madhusuthana",
+        "madava",
+        "mathusudana",
+        "mathuchudhana",
+        "madhusudhana",
+        "madhuchuthana",
+        "madusuthana",
+        "mathuchudana",
+        "madhuchudhana",
+        "madusudhana",
+        "maduchuthana",
+        "madhuchudana",
+        "madusudana"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-14",
+      "sortOrder": 193,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000211",
+      "artistId": "ar_mayuram_sri_muthukrishna_bhagavathar",
+      "categoryId": "cat_namavali",
+      "titleTa": "கேசவ ஸ்ரீதர கிருஷ்ணா நந்தனா",
+      "titleEn": "Kesava Sridhara krishna nandana",
+      "audioPath": "songs/sg_000211_7ecf1b7a_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 55,
+      "fileSizeBytes": 663308,
+      "tagsTa": [
+        "கேசவ",
+        "ஸ்ரீதர",
+        "கிருஷ்ணா",
+        "நந்தனா",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "kesava",
+        "sridhara",
+        "krishna",
+        "nandana",
+        "namavali"
+      ],
+      "searchAliases": [
+        "srithara",
+        "kirushna",
+        "nanthana",
+        "kechava",
+        "gesava",
+        "shrithara",
+        "kirusna",
+        "girushna",
+        "krushna",
+        "nandhana",
+        "gechava",
+        "sridara",
+        "shridhara",
+        "girusna",
+        "shridara"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-14",
+      "sortOrder": 194,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000212",
+      "artistId": "ar_thepperumanallur_sri_narasimha_bhagavathar",
+      "categoryId": "cat_bhajanai",
+      "titleTa": "ஆடிடும் பெருமான்",
+      "titleEn": "Aadidum perumaan",
+      "audioPath": "songs/sg_000212_7c68a15f_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 57,
+      "fileSizeBytes": 684908,
+      "tagsTa": [
+        "ஆடிடும்",
+        "பெருமான்",
+        "பஜனை"
+      ],
+      "tagsEn": [
+        "aadidum",
+        "perumaan",
+        "bhajanai"
+      ],
+      "searchAliases": [
+        "atitum",
+        "peruman",
+        "atidum",
+        "aditum",
+        "beruman",
+        "adidum"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-14",
+      "sortOrder": 195,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000213",
+      "artistId": "ar_melarcode_sisters",
+      "categoryId": "cat_chanting",
+      "titleTa": "ஜெய் ஜெய் ராம் கிருஷ்ண ஹரி",
+      "titleEn": "Jai Jai Ram Krishna Hari",
+      "audioPath": "songs/sg_000213_4bea8621_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 56,
+      "fileSizeBytes": 670220,
+      "tagsTa": [
+        "ஜெய்",
+        "ராம்",
+        "கிருஷ்ண",
+        "ஹரி",
+        "ஜபம்"
+      ],
+      "tagsEn": [
+        "ram",
+        "krishna",
+        "hari",
+        "chanting"
+      ],
+      "searchAliases": [
+        "jey",
+        "kirushna",
+        "kirusna",
+        "girushna",
+        "krushna",
+        "girusna"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-14",
+      "sortOrder": 196,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000214",
+      "artistId": "ar_melarcode_sisters",
+      "categoryId": "cat_namavali",
+      "titleTa": "ஞானானந்த தேவா வா",
+      "titleEn": "gnanananda deva va",
+      "audioPath": "songs/sg_000214_1a59d21e_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 62,
+      "fileSizeBytes": 745388,
+      "tagsTa": [
+        "ஞானானந்த",
+        "தேவா",
+        "வா",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "gnanananda",
+        "deva",
+        "va",
+        "namavali"
+      ],
+      "searchAliases": [
+        "njananantha",
+        "theva",
+        "njananandha",
+        "dheva",
+        "njanananda"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-14",
+      "sortOrder": 197,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000215",
+      "artistId": "ar_melarcode_sisters",
+      "categoryId": "cat_namavali",
+      "titleTa": "சாதோ கீ ஜெய் ஜெய்",
+      "titleEn": "Satho Ki Jai Jai",
+      "audioPath": "songs/sg_000215_1d60341f_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 69,
+      "fileSizeBytes": 831212,
+      "tagsTa": [
+        "சாதோ",
+        "கீ",
+        "ஜெய்",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "satho",
+        "ki",
+        "namavali"
+      ],
+      "searchAliases": [
+        "jey",
+        "sadho",
+        "chatho",
+        "gi",
+        "sado",
+        "chadho",
+        "chado"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-14",
+      "sortOrder": 198,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000216",
+      "artistId": "ar_melarcode_sisters",
+      "categoryId": "cat_bhajanai",
+      "titleTa": "ராம மங்கள தாம",
+      "titleEn": "rama mangala dhama",
+      "audioPath": "songs/sg_000216_d52021d9_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 60,
+      "fileSizeBytes": 724940,
+      "tagsTa": [
+        "ராம",
+        "மங்கள",
+        "தாம",
+        "பஜனை"
+      ],
+      "tagsEn": [
+        "rama",
+        "mangala",
+        "dhama",
+        "bhajanai"
+      ],
+      "searchAliases": [
+        "mangkala",
+        "thama",
+        "manggala",
+        "dama"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-14",
+      "sortOrder": 199,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000217",
+      "artistId": "ar_melarcode_sisters",
+      "categoryId": "cat_namavali",
+      "titleTa": "கிருஷ்ணா கிருஷ்ணா மன மோகனா",
+      "titleEn": "Krishna Krishna Mana Mohana",
+      "audioPath": "songs/sg_000217_8d90a2c4_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 56,
+      "fileSizeBytes": 675692,
+      "tagsTa": [
+        "கிருஷ்ணா",
+        "மன",
+        "மோகனா",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "krishna",
+        "mana",
+        "mohana",
+        "namavali"
+      ],
+      "searchAliases": [
+        "kirushna",
+        "mokana",
+        "kirusna",
+        "girushna",
+        "krushna",
+        "mogana",
+        "girusna"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-14",
+      "sortOrder": 200,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000218",
+      "artistId": "ar_melarcode_sisters",
+      "categoryId": "cat_namavali",
+      "titleTa": "கிருஷ்ண கன்ஹையா",
+      "titleEn": "krishna kanhaiya",
+      "audioPath": "songs/sg_000218_9b4f8c06_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 58,
+      "fileSizeBytes": 699596,
+      "tagsTa": [
+        "கிருஷ்ண",
+        "கன்ஹையா",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "krishna",
+        "kanhaiya",
+        "namavali"
+      ],
+      "searchAliases": [
+        "kirushna",
+        "kirusna",
+        "girushna",
+        "krushna",
+        "ganhaiya",
+        "girusna"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-14",
+      "sortOrder": 201,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000219",
+      "artistId": "ar_melarcode_sisters",
+      "categoryId": "cat_namavali",
+      "titleTa": "ஹர ஹர மஹாதேவா",
+      "titleEn": "Hara Hara Mahadeva",
+      "audioPath": "songs/sg_000219_0a7ff2ad_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 64,
+      "fileSizeBytes": 763532,
+      "tagsTa": [
+        "ஹர",
+        "மஹாதேவா",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "hara",
+        "mahadeva",
+        "namavali"
+      ],
+      "searchAliases": [
+        "mahatheva",
+        "mahadheva"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-14",
+      "sortOrder": 202,
+      "isActive": true,
+      "isFeatured": false
     }
   ]
 }

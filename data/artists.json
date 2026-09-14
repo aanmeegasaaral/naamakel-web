@@ -61,7 +61,7 @@
       "nameTa": "கடையநல்லூர் ஸ்ரீ ராஜகோபால் தாஸ் பாகவதர்",
       "nameEn": "Kadayanallur Sri Rajagopal Das Bhagavathar",
       "photoPath": "artists/ar_kadayanallur_sri_rajagopal_das_bhagavathar_be5ca525.webp",
-      "songCount": 4,
+      "songCount": 14,
       "sortOrder": 7,
       "isActive": true
     },
@@ -207,6 +207,42 @@
       "photoPath": "artists/ar_muscat_sri_anand_bhagavathar_ccf85fcf.webp",
       "songCount": 7,
       "sortOrder": 38,
+      "isActive": true
+    },
+    {
+      "id": "ar_govindapuram_sri_srinath_das_bhagavathar",
+      "nameTa": "கோவிந்தபுரம் ஸ்ரீ ஸ்ரீநாத் தாஸ் பாகவதர்",
+      "nameEn": "Govindapuram Sri Srinath Das Bhagavathar",
+      "photoPath": "artists/ar_govindapuram_sri_srinath_das_bhagavathar_1485d0ab.webp",
+      "songCount": 5,
+      "sortOrder": 39,
+      "isActive": true
+    },
+    {
+      "id": "ar_mayuram_sri_muthukrishna_bhagavathar",
+      "nameTa": "மாயூரம் ஸ்ரீ முத்துகிருஷ்ண பாகவதர்",
+      "nameEn": "Mayuram Sri Muthukrishna Bhagavathar",
+      "photoPath": "artists/ar_mayuram_sri_muthukrishna_bhagavathar_e82a9644.webp",
+      "songCount": 6,
+      "sortOrder": 40,
+      "isActive": true
+    },
+    {
+      "id": "ar_thepperumanallur_sri_narasimha_bhagavathar",
+      "nameTa": "தேப்பெருமாநல்லூர் ஸ்ரீ நரசிம்ம பாகவதர்",
+      "nameEn": "Thepperumanallur Sri Narasimha Bhagavathar",
+      "photoPath": "artists/ar_thepperumanallur_sri_narasimha_bhagavathar_faa41c8b.webp",
+      "songCount": 1,
+      "sortOrder": 41,
+      "isActive": true
+    },
+    {
+      "id": "ar_melarcode_sisters",
+      "nameTa": "மேலர்கோடு சகோதரிகள்",
+      "nameEn": "Melarcode Sisters",
+      "photoPath": "artists/ar_melarcode_sisters_88e36d1a.webp",
+      "songCount": 7,
+      "sortOrder": 42,
       "isActive": true
     }
   ]
