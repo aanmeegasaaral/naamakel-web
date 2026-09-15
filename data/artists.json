@@ -133,7 +133,7 @@
       "nameTa": "மதுரை ஸ்ரீ ஸ்ரீ ராமானந்த சரஸ்வதி சுவாமிகள்",
       "nameEn": "Madurai Sri Sri Ramananda Saraswathi Swamigal",
       "photoPath": "artists/ar_madurai_sri_sri_ramananda_saraswathi_swamigal_a8cb06a4.webp",
-      "songCount": 1,
+      "songCount": 8,
       "sortOrder": 15,
       "isActive": true
     },
@@ -243,6 +243,78 @@
       "photoPath": "artists/ar_melarcode_sisters_88e36d1a.webp",
       "songCount": 7,
       "sortOrder": 42,
+      "isActive": true
+    },
+    {
+      "id": "ar_madurai_vittal_krishna_bhagavathar",
+      "nameTa": "மதுரை விட்டல் கிருஷ்ண பாகவதர்",
+      "nameEn": "Madurai Vittal Krishna bhagavathar",
+      "photoPath": null,
+      "songCount": 2,
+      "sortOrder": 43,
+      "isActive": true
+    },
+    {
+      "id": "ar_mumbai_sri_sathya_bhagavathar",
+      "nameTa": "மும்பை ஸ்ரீ சத்ய பாகவதர்",
+      "nameEn": "Mumbai Sri Sathya Bhagavathar",
+      "photoPath": "artists/ar_mumbai_sri_sathya_bhagavathar_926f113e.webp",
+      "songCount": 1,
+      "sortOrder": 44,
+      "isActive": true
+    },
+    {
+      "id": "ar_govindapuram_sri_gnaneshwar_ramakrishnan_bhagavathar",
+      "nameTa": "கோவிந்தபுரம் ஸ்ரீ ஞானேஸ்வர் ராமகிருஷ்ணன் பாகவதர்",
+      "nameEn": "Govindapuram Sri Gnaneshwar Ramakrishnan Bhagavathar",
+      "photoPath": "artists/ar_govindapuram_sri_gnaneshwar_ramakrishnan_bhagavathar_8ba49c8d.webp",
+      "songCount": 7,
+      "sortOrder": 45,
+      "isActive": true
+    },
+    {
+      "id": "ar_mohanur_sri_srikanth_koundinyan_bhagavathar",
+      "nameTa": "மோகனூர் ஸ்ரீ ஸ்ரீகாந்த் கவுண்டினியன் பாகவதர்",
+      "nameEn": "Mohanur Sri Srikanth Koundinyan Bhagavathar",
+      "photoPath": "artists/ar_mohanur_sri_srikanth_koundinyan_bhagavathar_cd3a5b74.webp",
+      "songCount": 8,
+      "sortOrder": 46,
+      "isActive": true
+    },
+    {
+      "id": "ar_thane_sri_srinivasan_bhagavathar",
+      "nameTa": "தானே ஸ்ரீ ஸ்ரீனிவாசன் பாகவதர்",
+      "nameEn": "Thane Sri Srinivasan Bhagavathar",
+      "photoPath": "artists/ar_thane_sri_srinivasan_bhagavathar_ebb72dcb.webp",
+      "songCount": 3,
+      "sortOrder": 47,
+      "isActive": true
+    },
+    {
+      "id": "ar_sengottai_sri_harihara_subramanian_bhagavathar",
+      "nameTa": "செங்கோட்டை ஸ்ரீ ஹரிஹர சுப்பிரமணிய பாகவதர்",
+      "nameEn": "Sengottai Sri Harihara Subramanian Bhagavathar",
+      "photoPath": "artists/ar_sengottai_sri_harihara_subramanian_bhagavathar_6ef2f7cf.webp",
+      "songCount": 10,
+      "sortOrder": 48,
+      "isActive": true
+    },
+    {
+      "id": "ar_ayikudi_sri_sriram_bhagavathar",
+      "nameTa": "ஆய்க்குடி ஸ்ரீ ஸ்ரீராம் பாகவதர்",
+      "nameEn": "Ayikudi Sri Sriram Bhagavathar",
+      "photoPath": "artists/ar_ayikudi_sri_sriram_bhagavathar_e875ce1a.webp",
+      "songCount": 2,
+      "sortOrder": 49,
+      "isActive": true
+    },
+    {
+      "id": "ar_ayikudi_sri_kumar_bhagavathar",
+      "nameTa": "ஆயிகுடி ஸ்ரீ குமார் பாகவதர்",
+      "nameEn": "Ayikudi Sri Kumar Bhagavathar",
+      "photoPath": "artists/ar_ayikudi_sri_kumar_bhagavathar_63e5da8a.webp",
+      "songCount": 6,
+      "sortOrder": 50,
       "isActive": true
     }
   ]
