@@ -9699,6 +9699,279 @@
       "sortOrder": 248,
       "isActive": true,
       "isFeatured": false
+    },
+    {
+      "id": "sg_000266",
+      "artistId": "ar_valadi_sri_karthik_bhagavathar",
+      "categoryId": "cat_bhajanai",
+      "titleTa": "கைலாஸ பதே மஹாதேவ ஶம்போ",
+      "titleEn": "Kailasa Pathey Mahadeva Shambho",
+      "audioPath": "songs/sg_000266_916b89e1_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 66,
+      "fileSizeBytes": 791180,
+      "tagsTa": [
+        "கைலாஸ",
+        "பதே",
+        "மஹாதேவ",
+        "ஶம்போ",
+        "பஜனை"
+      ],
+      "tagsEn": [
+        "kailasa",
+        "pathey",
+        "mahadeva",
+        "shambho",
+        "bhajanai"
+      ],
+      "searchAliases": [
+        "pathe",
+        "mahatheva",
+        "mpo",
+        "gailasa",
+        "padhe",
+        "bathe",
+        "mahadheva",
+        "mbo",
+        "pade",
+        "badhe",
+        "bade"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-15",
+      "sortOrder": 249,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000267",
+      "artistId": "ar_valadi_sri_karthik_bhagavathar",
+      "categoryId": "cat_chanting",
+      "titleTa": "ஞானானந்தா ஞானானந்த சத்குரு ஞானானந்தா",
+      "titleEn": "gnanananda gnanananda sadguru gnanananda",
+      "audioPath": "songs/sg_000267_764ae2e5_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 36,
+      "fileSizeBytes": 432908,
+      "tagsTa": [
+        "ஞானானந்தா",
+        "ஞானானந்த",
+        "சத்குரு",
+        "ஜபம்"
+      ],
+      "tagsEn": [
+        "gnanananda",
+        "sadguru",
+        "chanting"
+      ],
+      "searchAliases": [
+        "njananantha",
+        "sadkuru",
+        "njananandha",
+        "satkuru",
+        "chadkuru",
+        "njanananda",
+        "satguru",
+        "chadguru",
+        "sadhkuru",
+        "chatkuru",
+        "sadhguru",
+        "chatguru",
+        "sathkuru",
+        "chadhkuru",
+        "sathguru",
+        "chadhguru",
+        "chathkuru",
+        "chathguru"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-15",
+      "sortOrder": 250,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000268",
+      "artistId": "ar_valadi_sri_karthik_bhagavathar",
+      "categoryId": "cat_bhajanai",
+      "titleTa": "எழை எண்தனை யெர்கா உன் மனம்",
+      "titleEn": "Ezhai Endhanai Yerka Un Manam",
+      "audioPath": "songs/sg_000268_b4c0e0ca_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 56,
+      "fileSizeBytes": 666476,
+      "tagsTa": [
+        "எழை",
+        "எண்தனை",
+        "யெர்கா",
+        "உன்",
+        "மனம்",
+        "பஜனை"
+      ],
+      "tagsEn": [
+        "ezhai",
+        "endhanai",
+        "yerka",
+        "un",
+        "manam",
+        "bhajanai"
+      ],
+      "searchAliases": [
+        "enthanai",
+        "elai",
+        "yerga",
+        "endanai"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-15",
+      "sortOrder": 251,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000269",
+      "artistId": "ar_valadi_sri_karthik_bhagavathar",
+      "categoryId": "cat_chanting",
+      "titleTa": "ஞானானந்தா ஞானானந்த ஞானானந்தா",
+      "titleEn": "gnanananda gnanananda gnanananda",
+      "audioPath": "songs/sg_000269_e19b745e_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 50,
+      "fileSizeBytes": 605420,
+      "tagsTa": [
+        "ஞானானந்தா",
+        "ஞானானந்த",
+        "ஜபம்"
+      ],
+      "tagsEn": [
+        "gnanananda",
+        "chanting"
+      ],
+      "searchAliases": [
+        "njananantha",
+        "njananandha",
+        "njanananda"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-15",
+      "sortOrder": 252,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000270",
+      "artistId": "ar_valadi_sri_karthik_bhagavathar",
+      "categoryId": "cat_namavali",
+      "titleTa": "உதார துமி சாந்தா",
+      "titleEn": "Udhara Thumi Santha",
+      "audioPath": "songs/sg_000270_c2c5d534_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 49,
+      "fileSizeBytes": 591020,
+      "tagsTa": [
+        "¯¾",
+        "Ðõ",
+        "óò",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "udhara",
+        "thumi",
+        "santha",
+        "namavali"
+      ],
+      "searchAliases": [
+        "uthara",
+        "dhumi",
+        "sandha",
+        "chantha",
+        "udara",
+        "dumi",
+        "sanda",
+        "chandha",
+        "chanda"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-15",
+      "sortOrder": 253,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000271",
+      "artistId": "ar_valadi_sri_karthik_bhagavathar",
+      "categoryId": "cat_bhajanai",
+      "titleTa": "வனமாலீ வாஸுதேவ மனமோஹந ராதா ரமணா",
+      "titleEn": "Vanamali Vasudeva Manamohana Radha Ramana",
+      "audioPath": "songs/sg_000271_5e3c9dd9_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 61,
+      "fileSizeBytes": 737900,
+      "tagsTa": [
+        "வனமாலீ",
+        "வாஸுதேவ",
+        "மனமோஹந",
+        "ராதா",
+        "ரமணா",
+        "பஜனை"
+      ],
+      "tagsEn": [
+        "vanamali",
+        "vasudeva",
+        "manamohana",
+        "radha",
+        "ramana",
+        "bhajanai"
+      ],
+      "searchAliases": [
+        "vasutheva",
+        "ratha",
+        "vasudheva",
+        "rada"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-15",
+      "sortOrder": 254,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000272",
+      "artistId": "ar_valadi_sri_karthik_bhagavathar",
+      "categoryId": "cat_namavali",
+      "titleTa": "கோவிந்த ஹரி கோபாலா ஹரி",
+      "titleEn": "Govinda Hari Gopala Hari",
+      "audioPath": "songs/sg_000272_87735e3f_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 41,
+      "fileSizeBytes": 497996,
+      "tagsTa": [
+        "கோவிந்த",
+        "ஹரி",
+        "கோபாலா",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "govinda",
+        "hari",
+        "gopala",
+        "namavali"
+      ],
+      "searchAliases": [
+        "kovintha",
+        "kopala",
+        "kovindha",
+        "govintha",
+        "kobala",
+        "kovinda",
+        "govindha",
+        "gobala"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-15",
+      "sortOrder": 255,
+      "isActive": true,
+      "isFeatured": false
     }
   ]
 }
