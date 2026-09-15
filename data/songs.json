@@ -9972,6 +9972,615 @@
       "sortOrder": 255,
       "isActive": true,
       "isFeatured": false
+    },
+    {
+      "id": "sg_000273",
+      "artistId": "ar_srivanchiyam_sri_bharadhan_bhagavathar",
+      "categoryId": "cat_namavali",
+      "titleTa": "ராதா மன மோகன",
+      "titleEn": "Radha Mana Mohana",
+      "audioPath": "songs/sg_000273_b487b64e_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 62,
+      "fileSizeBytes": 740780,
+      "tagsTa": [
+        "ராதா",
+        "மன",
+        "மோகன",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "radha",
+        "mana",
+        "mohana",
+        "namavali"
+      ],
+      "searchAliases": [
+        "ratha",
+        "mokana",
+        "mogana",
+        "rada"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-15",
+      "sortOrder": 256,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000274",
+      "artistId": "ar_srivanchiyam_sri_bharadhan_bhagavathar",
+      "categoryId": "cat_namavali",
+      "titleTa": "கங்காதர கங்காதர",
+      "titleEn": "Gangadhara Gangadhara",
+      "audioPath": "songs/sg_000274_60287cbb_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 56,
+      "fileSizeBytes": 674540,
+      "tagsTa": [
+        "கங்காதர",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "gangadhara",
+        "namavali"
+      ],
+      "searchAliases": [
+        "kangkathara",
+        "kangkadhara",
+        "kanggathara",
+        "gangkathara",
+        "kangkadara",
+        "kanggadhara",
+        "gangkadhara",
+        "ganggathara",
+        "kanggadara",
+        "gangkadara",
+        "ganggadhara",
+        "ganggadara"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-15",
+      "sortOrder": 257,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000275",
+      "artistId": "ar_udayalur_sri_kalyanaraman_bhagavathar",
+      "categoryId": "cat_namavali",
+      "titleTa": "போதேந்திர சத்குரு",
+      "titleEn": "bodhendra sadhguru",
+      "audioPath": "songs/sg_000275_c57e963d_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 41,
+      "fileSizeBytes": 497708,
+      "tagsTa": [
+        "போதேந்திர",
+        "சத்குரு",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "bodhendra",
+        "sadhguru",
+        "namavali"
+      ],
+      "searchAliases": [
+        "pothenthira",
+        "sadkuru",
+        "pothendhira",
+        "podhenthira",
+        "bothenthira",
+        "sadguru",
+        "satkuru",
+        "chadkuru",
+        "pothendira",
+        "podhendhira",
+        "bothendhira",
+        "podenthira",
+        "bodhenthira",
+        "satguru",
+        "chadguru",
+        "sadhkuru",
+        "chatkuru",
+        "podhendira",
+        "bothendira",
+        "podendhira",
+        "bodhendhira",
+        "bodenthira",
+        "chatguru",
+        "sathkuru"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-15",
+      "sortOrder": 258,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000276",
+      "artistId": "ar_udayalur_sri_kalyanaraman_bhagavathar",
+      "categoryId": "cat_namavali",
+      "titleTa": "கங்காதர கங்காதர",
+      "titleEn": "Gangadhara Gangadhara",
+      "audioPath": "songs/sg_000276_52c5e693_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 50,
+      "fileSizeBytes": 601676,
+      "tagsTa": [
+        "கங்காதர",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "gangadhara",
+        "namavali"
+      ],
+      "searchAliases": [
+        "kangkathara",
+        "kangkadhara",
+        "kanggathara",
+        "gangkathara",
+        "kangkadara",
+        "kanggadhara",
+        "gangkadhara",
+        "ganggathara",
+        "kanggadara",
+        "gangkadara",
+        "ganggadhara",
+        "ganggadara"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-15",
+      "sortOrder": 259,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000277",
+      "artistId": "ar_udayalur_sri_kalyanaraman_bhagavathar",
+      "categoryId": "cat_namavali",
+      "titleTa": "பஜே சத்குரும் அனிஷம்",
+      "titleEn": "Bhaje Sadgurum Anisham",
+      "audioPath": "songs/sg_000277_ca99aa69_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 61,
+      "fileSizeBytes": 733580,
+      "tagsTa": [
+        "பஜே",
+        "சத்குரும்",
+        "அனிஷம்",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "bhaje",
+        "sadgurum",
+        "anisham",
+        "namavali"
+      ],
+      "searchAliases": [
+        "paje",
+        "sadkurum",
+        "baje",
+        "satkurum",
+        "chadkurum",
+        "anisam",
+        "satgurum",
+        "chadgurum",
+        "sadhkurum",
+        "chatkurum",
+        "sadhgurum",
+        "chatgurum",
+        "sathkurum",
+        "chadhkurum",
+        "sathgurum",
+        "chadhgurum",
+        "chathkurum",
+        "chathgurum"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-15",
+      "sortOrder": 260,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000278",
+      "artistId": "ar_udayalur_sri_kalyanaraman_bhagavathar",
+      "categoryId": "cat_chanting",
+      "titleTa": "ஜய ஜய சங்கரா",
+      "titleEn": "jay jay shankara",
+      "audioPath": "songs/sg_000278_6ca8d271_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 36,
+      "fileSizeBytes": 434060,
+      "tagsTa": [
+        "ஜய",
+        "சங்கரா",
+        "பஜனை"
+      ],
+      "tagsEn": [
+        "jay",
+        "shankara",
+        "bhajanai"
+      ],
+      "searchAliases": [
+        "jaya",
+        "sangkara",
+        "sanggara",
+        "changkara",
+        "changgara"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-15",
+      "sortOrder": 261,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000279",
+      "artistId": "ar_udayalur_sri_kalyanaraman_bhagavathar",
+      "categoryId": "cat_namavali",
+      "titleTa": "சத்குரு நா மானே",
+      "titleEn": "sadguru na maane",
+      "audioPath": "songs/sg_000279_05ec03c0_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 60,
+      "fileSizeBytes": 720620,
+      "tagsTa": [
+        "சத்குரு",
+        "நா",
+        "மானே",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "sadguru",
+        "na",
+        "maane",
+        "namavali"
+      ],
+      "searchAliases": [
+        "sadkuru",
+        "mane",
+        "satkuru",
+        "chadkuru",
+        "satguru",
+        "chadguru",
+        "sadhkuru",
+        "chatkuru",
+        "sadhguru",
+        "chatguru",
+        "sathkuru",
+        "chadhkuru",
+        "sathguru",
+        "chadhguru",
+        "chathkuru",
+        "chathguru"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-15",
+      "sortOrder": 262,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000280",
+      "artistId": "ar_udayalur_sri_kalyanaraman_bhagavathar",
+      "categoryId": "cat_bhajanai",
+      "titleTa": "மனமே பிரேம பரோ",
+      "titleEn": "Maname Prema Bharo",
+      "audioPath": "songs/sg_000280_8db1f459_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 59,
+      "fileSizeBytes": 709388,
+      "tagsTa": [
+        "மனமே",
+        "பிரேம",
+        "பரோ",
+        "பஜனை"
+      ],
+      "tagsEn": [
+        "maname",
+        "prema",
+        "bharo",
+        "bhajanai"
+      ],
+      "searchAliases": [
+        "pirema",
+        "paro",
+        "birema",
+        "prima",
+        "baro"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-15",
+      "sortOrder": 263,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000281",
+      "artistId": "ar_chennai_sri_karthik_gnaneshwar_bhagavathar",
+      "categoryId": "cat_bhajanai",
+      "titleTa": "ராம கிருஷ்ண கோவிந்த ஜனார்தன அச்யுத பர்மானந்தா",
+      "titleEn": "Rama Krishna Govinda Janardana Achyuta Parmananda",
+      "audioPath": "songs/sg_000281_001dea68_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 49,
+      "fileSizeBytes": 588140,
+      "tagsTa": [
+        "ராம",
+        "கிருஷ்ண",
+        "கோவிந்த",
+        "ஜனார்தன",
+        "அச்யுத",
+        "பர்மானந்தா",
+        "பஜனை"
+      ],
+      "tagsEn": [
+        "rama",
+        "krishna",
+        "govinda",
+        "janardana",
+        "achyuta",
+        "parmananda",
+        "bhajanai"
+      ],
+      "searchAliases": [
+        "kirushna",
+        "kovintha",
+        "janarthana",
+        "asyutha",
+        "parmanantha",
+        "kirusna",
+        "girushna",
+        "krushna",
+        "kovindha",
+        "govintha",
+        "janardhana",
+        "asyudha",
+        "achyutha",
+        "parmanandha",
+        "barmanantha",
+        "girusna",
+        "kovinda",
+        "govindha",
+        "asyuda",
+        "achyudha",
+        "barmanandha",
+        "achyuda",
+        "barmananda"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-15",
+      "sortOrder": 264,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000282",
+      "artistId": "ar_udayalur_sri_kalyanaraman_bhagavathar",
+      "categoryId": "cat_namavali",
+      "titleTa": "ராதா ரமண ஹரி நாம",
+      "titleEn": "Radha Ramana Hari Nama",
+      "audioPath": "songs/sg_000282_97243ff0_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 58,
+      "fileSizeBytes": 694988,
+      "tagsTa": [
+        "ராதா",
+        "ரமண",
+        "ஹரி",
+        "நாம",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "radha",
+        "ramana",
+        "hari",
+        "nama",
+        "namavali"
+      ],
+      "searchAliases": [
+        "ratha",
+        "rada"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-15",
+      "sortOrder": 265,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000283",
+      "artistId": "ar_udayalur_sri_kalyanaraman_bhagavathar",
+      "categoryId": "cat_namavali",
+      "titleTa": "ஜய ராதா ரமணா",
+      "titleEn": "jaya radha ramana",
+      "audioPath": "songs/sg_000283_8bc37f4c_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 58,
+      "fileSizeBytes": 695564,
+      "tagsTa": [
+        "ஜய",
+        "ராதா",
+        "ரமணா",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "jaya",
+        "radha",
+        "ramana",
+        "namavali"
+      ],
+      "searchAliases": [
+        "ratha",
+        "rada"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-15",
+      "sortOrder": 266,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000284",
+      "artistId": "ar_udayalur_sri_kalyanaraman_bhagavathar",
+      "categoryId": "cat_namavali",
+      "titleTa": "ஜெய் ஜெய் கிருஷ்ணா",
+      "titleEn": "jay jay Krishna",
+      "audioPath": "songs/sg_000284_247af476_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 56,
+      "fileSizeBytes": 667916,
+      "tagsTa": [
+        "ஜெய்",
+        "கிருஷ்ணா",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "jay",
+        "krishna",
+        "namavali"
+      ],
+      "searchAliases": [
+        "jey",
+        "kirushna",
+        "jai",
+        "kirusna",
+        "girushna",
+        "krushna",
+        "girusna"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-15",
+      "sortOrder": 267,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000285",
+      "artistId": "ar_udayalur_sri_kalyanaraman_bhagavathar",
+      "categoryId": "cat_namavali",
+      "titleTa": "கிருஷ்ணா கிருஷ்ண முகுந்த ஜனார்த்தன",
+      "titleEn": "krishna krishna mukunda janardhana",
+      "audioPath": "songs/sg_000285_b587a336_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 59,
+      "fileSizeBytes": 703052,
+      "tagsTa": [
+        "கிருஷ்ணா",
+        "கிருஷ்ண",
+        "முகுந்த",
+        "ஜனார்த்தன",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "krishna",
+        "mukunda",
+        "janardhana",
+        "namavali"
+      ],
+      "searchAliases": [
+        "kirushna",
+        "mukuntha",
+        "janardthana",
+        "kirusna",
+        "girushna",
+        "krushna",
+        "mukundha",
+        "muguntha",
+        "janarddhana",
+        "janartthana",
+        "girusna",
+        "mugundha",
+        "janarddana",
+        "janartdhana",
+        "janardhthana",
+        "mugunda",
+        "janartdana",
+        "janardhdhana",
+        "janarththana",
+        "janardhdana",
+        "janarthdhana",
+        "janarthdana"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-15",
+      "sortOrder": 268,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000286",
+      "artistId": "ar_udayalur_sri_kalyanaraman_bhagavathar",
+      "categoryId": "cat_namavali",
+      "titleTa": "ராதா லோல சின்ன கிருஷ்ணா",
+      "titleEn": "radha lola chinni krishna",
+      "audioPath": "songs/sg_000286_76113164_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 56,
+      "fileSizeBytes": 676556,
+      "tagsTa": [
+        "ராதா",
+        "லோல",
+        "சின்ன",
+        "கிருஷ்ணா",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "radha",
+        "lola",
+        "chinni",
+        "krishna",
+        "namavali"
+      ],
+      "searchAliases": [
+        "ratha",
+        "sinna",
+        "kirushna",
+        "chinna",
+        "kirusna",
+        "girushna",
+        "krushna",
+        "rada",
+        "girusna"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-15",
+      "sortOrder": 269,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000287",
+      "artistId": "ar_udayalur_sri_kalyanaraman_bhagavathar",
+      "categoryId": "cat_namavali",
+      "titleTa": "ராதே ஷ்யாம் ராதே ஷ்யாம்",
+      "titleEn": "radhe shyam radhe shyam",
+      "audioPath": "songs/sg_000287_96020c0a_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 56,
+      "fileSizeBytes": 676556,
+      "tagsTa": [
+        "ராதே",
+        "ஷ்யாம்",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "radhe",
+        "shyam",
+        "namavali"
+      ],
+      "searchAliases": [
+        "rathe",
+        "syam",
+        "rade"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-15",
+      "sortOrder": 270,
+      "isActive": true,
+      "isFeatured": false
     }
   ]
 }
