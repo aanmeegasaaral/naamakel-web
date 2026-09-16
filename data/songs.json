@@ -38,7 +38,7 @@
       "publishedAt": "2026-08-27",
       "sortOrder": 1,
       "isActive": true,
-      "isFeatured": true
+      "isFeatured": false
     },
     {
       "id": "sg_000019",
@@ -10299,7 +10299,7 @@
     },
     {
       "id": "sg_000281",
-      "artistId": "ar_chennai_sri_karthik_gnaneshwar_bhagavathar",
+      "artistId": "ar_udayalur_sri_kalyanaraman_bhagavathar",
       "categoryId": "cat_bhajanai",
       "titleTa": "ராம கிருஷ்ண கோவிந்த ஜனார்தன அச்யுத பர்மானந்தா",
       "titleEn": "Rama Krishna Govinda Janardana Achyuta Parmananda",
