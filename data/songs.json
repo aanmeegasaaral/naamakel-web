@@ -169,7 +169,7 @@
       "publishedAt": "2026-08-27",
       "sortOrder": 5,
       "isActive": true,
-      "isFeatured": true
+      "isFeatured": false
     },
     {
       "id": "sg_000023",
@@ -1024,7 +1024,7 @@
       "publishedAt": "2026-08-28",
       "sortOrder": 28,
       "isActive": true,
-      "isFeatured": true
+      "isFeatured": false
     },
     {
       "id": "sg_000046",
@@ -1112,7 +1112,7 @@
       "publishedAt": "2026-08-29",
       "sortOrder": 30,
       "isActive": true,
-      "isFeatured": true
+      "isFeatured": false
     },
     {
       "id": "sg_000048",
@@ -2383,7 +2383,7 @@
       "publishedAt": "2026-09-03",
       "sortOrder": 63,
       "isActive": true,
-      "isFeatured": true
+      "isFeatured": false
     },
     {
       "id": "sg_000081",
@@ -3060,7 +3060,7 @@
       "publishedAt": "2026-09-04",
       "sortOrder": 80,
       "isActive": true,
-      "isFeatured": true
+      "isFeatured": false
     },
     {
       "id": "sg_000098",
@@ -3141,7 +3141,7 @@
       "publishedAt": "2026-09-04",
       "sortOrder": 82,
       "isActive": true,
-      "isFeatured": true
+      "isFeatured": false
     },
     {
       "id": "sg_000100",
@@ -5095,7 +5095,7 @@
       "publishedAt": "2026-09-10",
       "sortOrder": 131,
       "isActive": true,
-      "isFeatured": true
+      "isFeatured": false
     },
     {
       "id": "sg_000149",
@@ -5477,7 +5477,7 @@
       "publishedAt": "2026-09-10",
       "sortOrder": 141,
       "isActive": true,
-      "isFeatured": true
+      "isFeatured": false
     },
     {
       "id": "sg_000159",
@@ -6244,7 +6244,7 @@
       "publishedAt": "2026-09-11",
       "sortOrder": 159,
       "isActive": true,
-      "isFeatured": true
+      "isFeatured": false
     },
     {
       "id": "sg_000177",
