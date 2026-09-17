@@ -325,6 +325,24 @@
       "songCount": 2,
       "sortOrder": 51,
       "isActive": true
+    },
+    {
+      "id": "ar_srivanchiyam_sri_muralidhara_bhagavathar",
+      "nameTa": "ஸ்ரீவாஞ்சியம் ஸ்ரீ முரளிதர பாகவதர்",
+      "nameEn": "Srivanchiyam Sri Muralidhara Bhagavathar",
+      "photoPath": "artists/ar_srivanchiyam_sri_muralidhara_bhagavathar_11639af0.webp",
+      "songCount": 9,
+      "sortOrder": 52,
+      "isActive": true
+    },
+    {
+      "id": "ar_smt_sivapriya_ramaswamy",
+      "nameTa": "திருமதி சிவப்பிரியா ராமசாமி",
+      "nameEn": "Smt Sivapriya Ramaswamy",
+      "photoPath": "artists/ar_smt_sivapriya_ramaswamy_0e811443.webp",
+      "songCount": 7,
+      "sortOrder": 53,
+      "isActive": true
     }
   ]
 }

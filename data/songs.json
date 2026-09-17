@@ -10581,6 +10581,616 @@
       "sortOrder": 270,
       "isActive": true,
       "isFeatured": false
+    },
+    {
+      "id": "sg_000288",
+      "artistId": "ar_srivanchiyam_sri_muralidhara_bhagavathar",
+      "categoryId": "cat_bhajanai",
+      "titleTa": "நடமாடும் தெய்வம்",
+      "titleEn": "Nadamadum Deivam",
+      "audioPath": "songs/sg_000288_a90f586e_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 48,
+      "fileSizeBytes": 579212,
+      "tagsTa": [
+        "நடமாடும்",
+        "தெய்வம்",
+        "பஜனை"
+      ],
+      "tagsEn": [
+        "nadamadum",
+        "deivam",
+        "bhajanai"
+      ],
+      "searchAliases": [
+        "natamatum",
+        "theyvam",
+        "natamadum",
+        "nadamatum",
+        "dheyvam",
+        "thaivam",
+        "deyvam"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-17",
+      "sortOrder": 271,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000289",
+      "artistId": "ar_srivanchiyam_sri_muralidhara_bhagavathar",
+      "categoryId": "cat_chanting",
+      "titleTa": "ஜய ஜய சங்கரா",
+      "titleEn": "jay jay shankara",
+      "audioPath": "songs/sg_000289_391ac0aa_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 60,
+      "fileSizeBytes": 720620,
+      "tagsTa": [
+        "ஜய",
+        "சங்கரா",
+        "பஜனை"
+      ],
+      "tagsEn": [
+        "jay",
+        "shankara",
+        "bhajanai"
+      ],
+      "searchAliases": [
+        "jaya",
+        "sangkara",
+        "sanggara",
+        "changkara",
+        "changgara"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-17",
+      "sortOrder": 272,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000290",
+      "artistId": "ar_srivanchiyam_sri_muralidhara_bhagavathar",
+      "categoryId": "cat_bhajanai",
+      "titleTa": "சத்குரு ஞானானந்தா",
+      "titleEn": "sadguru gnanananda",
+      "audioPath": "songs/sg_000290_d606d04e_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 57,
+      "fileSizeBytes": 679148,
+      "tagsTa": [
+        "சத்குரு",
+        "ஞானானந்தா",
+        "பஜனை"
+      ],
+      "tagsEn": [
+        "sadguru",
+        "gnanananda",
+        "bhajanai"
+      ],
+      "searchAliases": [
+        "sadkuru",
+        "njananantha",
+        "satkuru",
+        "chadkuru",
+        "njananandha",
+        "satguru",
+        "chadguru",
+        "sadhkuru",
+        "chatkuru",
+        "njanananda",
+        "sadhguru",
+        "chatguru",
+        "sathkuru",
+        "chadhkuru",
+        "sathguru",
+        "chadhguru",
+        "chathkuru",
+        "chathguru"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-17",
+      "sortOrder": 273,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000291",
+      "artistId": "ar_srivanchiyam_sri_muralidhara_bhagavathar",
+      "categoryId": "cat_namavali",
+      "titleTa": "குருநாத குருநாத ஞானானந்தா",
+      "titleEn": "gurunatha gurunatha gnanananda",
+      "audioPath": "songs/sg_000291_8b922833_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 60,
+      "fileSizeBytes": 719468,
+      "tagsTa": [
+        "குருநாத",
+        "ஞானானந்தா",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "gurunatha",
+        "gnanananda",
+        "namavali"
+      ],
+      "searchAliases": [
+        "kurunatha",
+        "njananantha",
+        "kurunadha",
+        "njananandha",
+        "kurunada",
+        "gurunadha",
+        "njanananda",
+        "gurunada"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-17",
+      "sortOrder": 274,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000292",
+      "artistId": "ar_srivanchiyam_sri_muralidhara_bhagavathar",
+      "categoryId": "cat_namavali",
+      "titleTa": "கிருஷ்ண பஜோ",
+      "titleEn": "krishna bhajo",
+      "audioPath": "songs/sg_000292_330a7bcd_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 59,
+      "fileSizeBytes": 703052,
+      "tagsTa": [
+        "கிருஷ்ண",
+        "பஜோ",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "krishna",
+        "bhajo",
+        "namavali"
+      ],
+      "searchAliases": [
+        "kirushna",
+        "pajo",
+        "kirusna",
+        "girushna",
+        "krushna",
+        "bajo",
+        "girusna"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-17",
+      "sortOrder": 275,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000293",
+      "artistId": "ar_srivanchiyam_sri_muralidhara_bhagavathar",
+      "categoryId": "cat_namavali",
+      "titleTa": "கிருஷ்ணா கிருஷ்ண முகுந்த ஜனார்த்தன",
+      "titleEn": "krishna krishna mukunda janardhana",
+      "audioPath": "songs/sg_000293_815c4765_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 59,
+      "fileSizeBytes": 703340,
+      "tagsTa": [
+        "கிருஷ்ணா",
+        "கிருஷ்ண",
+        "முகுந்த",
+        "ஜனார்த்தன",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "krishna",
+        "mukunda",
+        "janardhana",
+        "namavali"
+      ],
+      "searchAliases": [
+        "kirushna",
+        "mukuntha",
+        "janardthana",
+        "kirusna",
+        "girushna",
+        "krushna",
+        "mukundha",
+        "muguntha",
+        "janarddhana",
+        "janartthana",
+        "girusna",
+        "mugundha",
+        "janarddana",
+        "janartdhana",
+        "janardhthana",
+        "mugunda",
+        "janartdana",
+        "janardhdhana",
+        "janarththana",
+        "janardhdana",
+        "janarthdhana",
+        "janarthdana"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-17",
+      "sortOrder": 276,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000294",
+      "artistId": "ar_srivanchiyam_sri_muralidhara_bhagavathar",
+      "categoryId": "cat_bhajanai",
+      "titleTa": "ஹரி போலோ ஹரி போலோ",
+      "titleEn": "hari bolo hari bolo",
+      "audioPath": "songs/sg_000294_2ea74717_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 61,
+      "fileSizeBytes": 731276,
+      "tagsTa": [
+        "ஹரி",
+        "போலோ",
+        "பஜனை"
+      ],
+      "tagsEn": [
+        "hari",
+        "bolo",
+        "bhajanai"
+      ],
+      "searchAliases": [
+        "polo"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-17",
+      "sortOrder": 277,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000295",
+      "artistId": "ar_srivanchiyam_sri_muralidhara_bhagavathar",
+      "categoryId": "cat_bhajanai",
+      "titleTa": "நாமாவளி #5",
+      "titleEn": "Naamavali #5",
+      "audioPath": "songs/sg_000295_0dcb1517_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 52,
+      "fileSizeBytes": 621260,
+      "tagsTa": [
+        "நாமாவளி",
+        "பஜனை"
+      ],
+      "tagsEn": [
+        "naamavali",
+        "bhajanai"
+      ],
+      "searchAliases": [
+        "namavali"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-17",
+      "sortOrder": 278,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000296",
+      "artistId": "ar_srivanchiyam_sri_muralidhara_bhagavathar",
+      "categoryId": "cat_bhajanai",
+      "titleTa": "ஆத்ம ராம ஆனந்த ரமண",
+      "titleEn": "atma rama ananda ramana",
+      "audioPath": "songs/sg_000296_cace0e07_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 55,
+      "fileSizeBytes": 656684,
+      "tagsTa": [
+        "ஆத்ம",
+        "ராம",
+        "ஆனந்த",
+        "ரமண",
+        "பஜனை"
+      ],
+      "tagsEn": [
+        "atma",
+        "rama",
+        "ananda",
+        "ramana",
+        "bhajanai"
+      ],
+      "searchAliases": [
+        "adma",
+        "anantha",
+        "anandha",
+        "adhma",
+        "athma"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-17",
+      "sortOrder": 279,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000297",
+      "artistId": "ar_smt_sivapriya_ramaswamy",
+      "categoryId": "cat_namavali",
+      "titleTa": "தவசீலா ஞானதேவா",
+      "titleEn": "Thavaseela Gnanadeva",
+      "audioPath": "songs/sg_000297_5b0f26ad_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 57,
+      "fileSizeBytes": 688940,
+      "tagsTa": [
+        "தவசீலா",
+        "ஞானதேவா",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "thavaseela",
+        "gnanadeva",
+        "namavali"
+      ],
+      "searchAliases": [
+        "thavasila",
+        "njanatheva",
+        "thavachila",
+        "dhavasila",
+        "njanadheva",
+        "dhavachila",
+        "davasila",
+        "njanadeva",
+        "davachila"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-17",
+      "sortOrder": 280,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000298",
+      "artistId": "ar_smt_sivapriya_ramaswamy",
+      "categoryId": "cat_chanting",
+      "titleTa": "ஞானானந்தா ஞானானந்த சத்குரு ஞானானந்தா",
+      "titleEn": "gnanananda gnanananda sadguru gnanananda",
+      "audioPath": "songs/sg_000298_7d01a75d_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 60,
+      "fileSizeBytes": 714572,
+      "tagsTa": [
+        "ஞானானந்தா",
+        "ஞானானந்த",
+        "சத்குரு",
+        "ஜபம்"
+      ],
+      "tagsEn": [
+        "gnanananda",
+        "sadguru",
+        "chanting"
+      ],
+      "searchAliases": [
+        "njananantha",
+        "sadkuru",
+        "njananandha",
+        "satkuru",
+        "chadkuru",
+        "njanananda",
+        "satguru",
+        "chadguru",
+        "sadhkuru",
+        "chatkuru",
+        "sadhguru",
+        "chatguru",
+        "sathkuru",
+        "chadhkuru",
+        "sathguru",
+        "chadhguru",
+        "chathkuru",
+        "chathguru"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-17",
+      "sortOrder": 281,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000299",
+      "artistId": "ar_smt_sivapriya_ramaswamy",
+      "categoryId": "cat_namavali",
+      "titleTa": "வேணுகான ரமணா",
+      "titleEn": "Venugana Ramana",
+      "audioPath": "songs/sg_000299_e4288630_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 57,
+      "fileSizeBytes": 680012,
+      "tagsTa": [
+        "வேணுகான",
+        "ரமணா",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "venugana",
+        "ramana",
+        "namavali"
+      ],
+      "searchAliases": [
+        "venukana"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-17",
+      "sortOrder": 282,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000300",
+      "artistId": "ar_smt_sivapriya_ramaswamy",
+      "categoryId": "cat_bhajanai",
+      "titleTa": "ஹே மாதவா மதுசூதனா",
+      "titleEn": "Hey Madhava Madhusudana",
+      "audioPath": "songs/sg_000300_bcf74d33_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 60,
+      "fileSizeBytes": 720908,
+      "tagsTa": [
+        "ஹே",
+        "மாதவா",
+        "மதுசூதனா",
+        "பஜனை"
+      ],
+      "tagsEn": [
+        "hey",
+        "madhava",
+        "madhusudana",
+        "bhajanai"
+      ],
+      "searchAliases": [
+        "he",
+        "mathava",
+        "mathusuthana",
+        "mathusudhana",
+        "mathuchuthana",
+        "madhusuthana",
+        "madava",
+        "mathusudana",
+        "mathuchudhana",
+        "madhusudhana",
+        "madhuchuthana",
+        "madusuthana",
+        "mathuchudana",
+        "madhuchudhana",
+        "madusudhana",
+        "maduchuthana",
+        "madhuchudana",
+        "madusudana"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-17",
+      "sortOrder": 283,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000301",
+      "artistId": "ar_smt_sivapriya_ramaswamy",
+      "categoryId": "cat_bhajanai",
+      "titleTa": "கோவிந்த கோவிந்த கிரிதர",
+      "titleEn": "Govinda Govinda Giridhara",
+      "audioPath": "songs/sg_000301_07797cf7_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 59,
+      "fileSizeBytes": 708236,
+      "tagsTa": [
+        "கோவிந்த",
+        "கிரிதர",
+        "பஜனை"
+      ],
+      "tagsEn": [
+        "govinda",
+        "giridhara",
+        "bhajanai"
+      ],
+      "searchAliases": [
+        "kovintha",
+        "kirithara",
+        "kovindha",
+        "govintha",
+        "kiridhara",
+        "girithara",
+        "kovinda",
+        "govindha",
+        "kiridara",
+        "giridara"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-17",
+      "sortOrder": 284,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000302",
+      "artistId": "ar_smt_sivapriya_ramaswamy",
+      "categoryId": "cat_bhajanai",
+      "titleTa": "நாமாவளி #6",
+      "titleEn": "Naamavali #6",
+      "audioPath": "songs/sg_000302_1b9091cc_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 59,
+      "fileSizeBytes": 710252,
+      "tagsTa": [
+        "நாமாவளி",
+        "பஜனை"
+      ],
+      "tagsEn": [
+        "naamavali",
+        "bhajanai"
+      ],
+      "searchAliases": [
+        "namavali"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-17",
+      "sortOrder": 285,
+      "isActive": true,
+      "isFeatured": false
+    },
+    {
+      "id": "sg_000303",
+      "artistId": "ar_smt_sivapriya_ramaswamy",
+      "categoryId": "cat_namavali",
+      "titleTa": "கிருஷ்ணா கிருஷ்ண முகுந்த ஜனார்த்தன",
+      "titleEn": "krishna krishna mukunda janardhana",
+      "audioPath": "songs/sg_000303_29b69afa_v1.mp3",
+      "audioVersion": 1,
+      "durationSec": 58,
+      "fileSizeBytes": 700748,
+      "tagsTa": [
+        "கிருஷ்ணா",
+        "கிருஷ்ண",
+        "முகுந்த",
+        "ஜனார்த்தன",
+        "நாமாவளி"
+      ],
+      "tagsEn": [
+        "krishna",
+        "mukunda",
+        "janardhana",
+        "namavali"
+      ],
+      "searchAliases": [
+        "kirushna",
+        "mukuntha",
+        "janardthana",
+        "kirusna",
+        "girushna",
+        "krushna",
+        "mukundha",
+        "muguntha",
+        "janarddhana",
+        "janartthana",
+        "girusna",
+        "mugundha",
+        "janarddana",
+        "janartdhana",
+        "janardhthana",
+        "mugunda",
+        "janartdana",
+        "janardhdhana",
+        "janarththana",
+        "janardhdana",
+        "janarthdhana",
+        "janarthdana"
+      ],
+      "thumbPath": null,
+      "publishedAt": "2026-09-17",
+      "sortOrder": 286,
+      "isActive": true,
+      "isFeatured": false
     }
   ]
 }
